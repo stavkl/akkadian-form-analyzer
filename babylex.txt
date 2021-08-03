@@ -1,0 +1,1935 @@
+    <verb root='0xxx' class='?-?' type='IRREGULAR' inf='hAhU' lang='B' gloss='spew, spit out, vomit' />
+    <verb root='0xxd' class='?-?' type='' inf='' lang='B' gloss='take notice; (D) inform' />
+    <verb root='0xxl' class='?-?' type='' inf='' lang='B' gloss='to cut' />
+    <verb root='0xxl' class='?-?' type='IRREGULAR' inf='eXeelum' lang='B' gloss='bind; (D) make contract; link' />
+    <verb root='0xxr' class='?-?' type='e' inf='' lang='B' gloss='become awake' />
+    <verb root='0xxr' class='a-a' type='' inf='' lang='B' gloss='go, march; (D) instruct' />
+    <verb root='0xxr' class='a-i' type='' inf='aXaaru' lang='Ass, B' gloss='go forward, march; (D) instruct' />
+    <verb root='0xxc' class='a-a' type='' inf='aXaacu' lang='Ass' gloss='(Gtn) retch' />
+    <verb root='0xbx' class='?-?' type='' inf='' lang='B' gloss='become veiled, cloudy' />
+    <verb root='0xbb' class='i-i' type='e' inf='' lang='B' gloss='become (ritually) clean, become' />
+    <verb root='0xbh' class='i-i' type='e' inf='' lang='B' gloss='gird; surround' />
+    <verb root='0xbk' class='a-u' type='' inf='' lang='B, Ass' gloss='I send, lead, II uproot; upset; overturn' />
+    <verb root='0xbl' class='a-a' type='' inf='' lang='B, Ass' gloss='be dry; shrivel, wilt' />
+    <verb root='0xbl' class='a-i' type='' inf='' lang='B, Ass' gloss='carry, bring; (Gtn) look after; (S) deliver; (St1) be delivered; (St2) stir' />
+    <verb root='0xbr' class='?-i' type='' inf='' lang='B' gloss='embrace; I (D) embrace; bind (limbs). II to accuse' />
+    <verb root='0xbr' class='i-i' type='e' inf='' lang='B' gloss='cross over' />
+    <verb root='0xbs' class='d-d' type='' inf='' lang='B' gloss='(D) fringe' />
+    <verb root='0xbt' class='a-u' type='' inf='' lang='B, Ass' gloss='I destroy, ruin, lay waste; II (N) flee' />
+    <verb root='0xbT' class='d-d' type='' inf='' lang='B' gloss='(D) take as pledge' />
+    <verb root='0xbT' class='i-i' type='e' inf='' lang='B' gloss='I swell up (of water or body parts); II bind' />
+    <verb root='0xdb' class='i-i' type='e' inf='' lang='Ass' gloss='blow away (of demons, storms)' />
+    <verb root='0xdd' class='u-u' type='e' inf='' lang='B' gloss='become spiky' />
+    <verb root='0xdh' class='?-?' type='e' inf='' lang='B' gloss='cover with patches; (D) cover objects with a network' />
+    <verb root='0xdk' class='?-?' type='e' inf='' lang='B' gloss='cover with patches; (D) cover objects with a network' />
+    <verb root='0xdl' class='i-i' type='e' inf='' lang='B' gloss='lock' />
+    <verb root='0xdp' class='i-i' type='e' inf='' lang='B' gloss='blow away (of demons, storms)' />
+    <verb root='0xdq' class='i-i' type='ea' inf='' lang='B' gloss='dress' />
+    <verb root='0xdr' class='a-u' type='' inf='' lang='B, Ass' gloss='I become worried, become disturbed; fear; II be dark, gloomy' />
+    <verb root='0xdc' class='i-i' type='e' inf='' lang='B' gloss='become new; (D) resume; restore' />
+    <verb root='0xgx' class='i-i' type='e' inf='' lang='B' gloss='be careless, be negligent' />
+    <verb root='0xgg' class='a-u' type='' inf='' lang='B, Ass' gloss='be angry, be furious' />
+    <verb root='0xgg' class='i-i' type='e' inf='' lang='B' gloss='scratch' />
+    <verb root='0xgm' class='?-?' type='' inf='' lang='B' gloss='be furious' />
+    <verb root='0xgr' class='a-u' type='' inf='' lang='B, Ass' gloss='hire, rent' />
+    <verb root='0xgr' class='i-i' type='e' inf='' lang='B' gloss='lie across' />
+    <verb root='0xhx' class='?-?' type='' inf='' lang='B' gloss='(Gt) become brothers; (St) pair off; stand opposite to each other. (N) fraternize' />
+    <verb root='0xhx' class='a-i' type='' inf='' lang='Ass' gloss='(Gt) become brothers; (St) pair off; stand opposite to each other. (N) fraternize' />
+    <verb root='0xhr' class='?-?' type='' inf='' lang='B' gloss='be behind; (D) hold back, delay ' />
+    <verb root='0xhz' class='a-u' type='' inf='' lang='B, Ass' gloss='take, grasp; embrace; seize; marry; learn' />
+    <verb root='0xkx' class='?-?' type='e' inf='' lang='B' gloss='starve, deprive; (D) shortage of rain' />
+    <verb root='0xkb' class='i-i' type='e' inf='' lang='B' gloss='come close, approach (sexually); (Gt) come very close; (St) pack tightly together' />
+    <verb root='0xkd' class='?-?' type='e' inf='' lang='B' gloss='(D) revile, slander' />
+    <verb root='0xkk' class='i-i' type='e' inf='' lang='B' gloss='scratch' />
+    <verb root='0xkl' class='a-u' type='' inf='' lang='B, Ass' gloss='eat, devour, gorge, consume; take for oneself' />
+    <verb root='0xkl' class='i-i' type='e' inf='' lang='B' gloss='become dark' />
+    <verb root='0xkm' class='?-?' type='' inf='' lang='B' gloss='(meaning unclear)' />
+    <verb root='0xkm' class='i-i' type='e' inf='' lang='B' gloss='take away (by force)' />
+    <verb root='0xkS' class='?-?' type='e' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0xkc' class='u-u' type='' inf='' lang='B, Ass' gloss='go, move, walk' />
+    <verb root='0xlx' class='i-i' type='e' inf='' lang='B' gloss='go up, become high' />
+    <verb root='0xld' class='a-i' type='' inf='ulaadu' lang='B, Ass' gloss='give birth, bear (young)' />
+    <verb root='0xlh' class='i-i' type='e' inf='' lang='B' gloss='sprinkle, strew (flour); (D) adorn' />
+    <verb root='0xlk' class='a-i' type='' inf='' lang='B, Ass' gloss='go, walk, move about (vent)' />
+    <verb root='0xll' class='?-?' type='' inf='' lang='B, Ass' gloss='(Gt) sing a joyful song, boast; (S) celebrate' />
+    <verb root='0xll' class='a-u' type='' inf='' lang='B, Ass' gloss='hang up, suspend; (Gt) be tangled, allied' />
+    <verb root='0xll' class='i-i' type='e' inf='' lang='B' gloss='become pure, become free' />
+    <verb root='0xlp' class='?-?' type='' inf='' lang='B' gloss='(Gt) paralyze a part of body' />
+    <verb root='0xlp' class='i-i' type='e' inf='' lang='B' gloss='spout, grow; (Dt) multiply; (St) interlock' />
+    <verb root='0xlS' class='i-i' type='e' inf='' lang='B' gloss='rejoice, swell' />
+    <verb root='0xlt' class='u-u' type='' inf='' lang='B, Ass' gloss='absorb, swallow (up)' />
+    <verb root='0xmx' class='?-?' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0xmx' class='i-i' type='e' inf='' lang='Ass' gloss='become, turn into, change (intrans.)' />
+    <verb root='0xmx' class='u-u' type='' inf='' lang='Ass' gloss='speak; (Gt) discuss; (St) debate' />
+    <verb root='0xmd' class='i-i' type='e' inf='' lang='B' gloss='lean against, impose (taxes, punishments)' />
+    <verb root='0xmm' class='i-i' type='e' inf='' lang='B' gloss='be(come) hot; (Gtn) have fever or temperature continually' />
+    <verb root='0xmq' class='?-?' type='e' inf='' lang='B' gloss='I be wise; (Stn) pray devoutly; II care for' />
+    <verb root='0xmr' class='?-?' type='e' inf='' lang='B' gloss='I be red; II swell, enlarge' />
+    <verb root='0xmr' class='a-u' type='' inf='' lang='B, Ass' gloss='see, look at; examine, observe; experience' />
+    <verb root='0xms' class='?-?' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0xmS' class='?-?' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0xmc' class='?-?' type='' inf='' lang='B, Ass' gloss='be paralysed; cataleptic' />
+    <verb root='0xmS' class='?-?' type='e' inf='' lang='B' gloss='be sour (of beer)' />
+    <verb root='0xmc' class='?-?' type='e' inf='' lang='B' gloss='strive' />
+    <verb root='0xmS' class='u-u' type='e' inf='' lang='B' gloss='be hungry' />
+    <verb root='0xnx' class='i-i' type='e' inf='' lang='B' gloss='change (trans.)' />
+    <verb root='0xnb' class='?-?' type='e' inf='' lang='B' gloss='(bear) fruit; (Dtn) gather fruit repeatedly' />
+    <verb root='0xnh' class='a-a' type='' inf='' lang='B, Ass' gloss='be weary, be tired, collapse' />
+    <verb root='0xnn' class='?-?' type='e' inf='' lang='B' gloss='pray' />
+    <verb root='0xnn' class='?-?' type='e' inf='utneenum' lang='B' gloss='pray' />
+    <verb root='0xnn' class='a-u' type='e' inf='' lang='B' gloss='grant favor; be favorable' />
+    <verb root='0xnn' class='e-u' type='e' inf='' lang='B' gloss='sin' />
+    <verb root='0xnn' class='i-i' type='e' inf='' lang='B, Ass, OAkk' gloss='punish' />
+    <verb root='0xnc' class='i-i' type='' inf='' lang='B, Ass' gloss='be weak, dilapidated' />
+    <verb root='0xnt' class='?-?' type='e' inf='' lang='B' gloss='flatten; (Dt) be(come) faint (of stars)' />
+    <verb root='0xpx' class='?-?' type='' inf='' lang='B' gloss='become veiled, cloudy' />
+    <verb root='0xpx' class='a-i' type='' inf='' lang='Ass' gloss='be visible, be manifest' />
+    <verb root='0xpx' class='i-i' type='e' inf='' lang='B' gloss='bake bread' />
+    <verb root='0xpl' class='?-?' type='' inf='' lang='B' gloss='be (too) late; (D) be retarded' />
+    <verb root='0xpl' class='a-u' type='' inf='' lang='Ass' gloss='provide (food), supply' />
+    <verb root='0xpl' class='a-u' type='' inf='' lang='Ass, B' gloss='answer, reply, respond' />
+    <verb root='0xpl' class='d-d' type='' inf='' lang='B' gloss='(D) delouse' />
+    <verb root='0xpp' class='?-?' type='' inf='' lang='B' gloss='(meaning unclear) infiltrate?' />
+    <verb root='0xpq' class='i-i' type='e' inf='' lang='B' gloss='embrace; grow over' />
+    <verb root='0xpr' class='a-u' type='' inf='' lang='B' gloss='cover head' />
+    <verb root='0xpr' class='i-i' type='' inf='' lang='Ass' gloss='cover; (D) put on' />
+    <verb root='0xpr' class='i-i' type='e' inf='' lang='B' gloss='feed, provide' />
+    <verb root='0xps' class='?-?' type='e' inf='' lang='B' gloss='be difficult' />
+    <verb root='0xps' class='d-d' type='' inf='' lang='B' gloss='(D) fringe' />
+    <verb root='0xpc' class='e-u' type='e' inf='' lang='B' gloss='make, do, act, perform' />
+    <verb root='0xqx' class='?-?' type='e' inf='' lang='B' gloss='anoint, smear (eyes)' />
+    <verb root='0xqx' class='d-d' type='' inf='' lang='B' gloss='(D) incise; inscribe; prescribe' />
+    <verb root='0xqx' class='i-i' type='' inf='' lang='Ass' gloss='wait; (D) await, heed' />
+    <verb root='0xqb' class='i-i' type='e' inf='' lang='Ass' gloss='come close, approach (sexually); (Gt) come very close; (St) pack tightly together' />
+    <verb root='0xqq' class='i-i' type='e' inf='' lang='B' gloss='paralyse' />
+    <verb root='0xrx' class='?-?' type='' inf='' lang='B' gloss='vomit; (S) make vomit (with feather)' />
+    <verb root='0xrx' class='i-i' type='' inf='' lang='B, Ass' gloss='be(come) pregnant, conceive' />
+    <verb root='0xrx' class='i-i' type='e' inf='' lang='B, Ass' gloss='be naked; empty (D) strip; bare head' />
+    <verb root='0xrx' class='u-u' type='' inf='' lang='B, Ass' gloss='lead, bring, take to; (Gt) lead away; (Gtn) guide; steer' />
+    <verb root='0xrx' class='u-u' type='' inf='' lang='B, Ass' gloss='cut off; ruin; stop; prune; sever; lop' />
+    <verb root='0xrb' class='u-u' type='e' inf='' lang='B' gloss='enter, go in' />
+    <verb root='0xrb' class='u-u' type='XXX' inf='neerubum' lang='B' gloss='(N) flee, escape' />
+    <verb root='0xrd' class='a-i' type='e' inf='' lang='B' gloss='to go down, descend' />
+    <verb root='0xrh' class='?-?' type='' inf='' lang='B' gloss='hasten, be urgent; (D) speed up, scare away' />
+    <verb root='0xrh' class='a-a' type='' inf='' lang='Ass' gloss='hasten, be urgent; (D) speed up, scare away' />
+    <verb root='0xrh' class='a-u' type='' inf='' lang='B' gloss='devour, destroy' />
+    <verb root='0xrh' class='i-i' type='e' inf='' lang='B' gloss='act aggressively, attack' />
+    <verb root='0xrk' class='i-i' type='' inf='' lang='B, Ass' gloss='be(come) long' />
+    <verb root='0xrm' class='i-i' type='' inf='' lang='B, Ass' gloss='envelop, cover' />
+    <verb root='0xrp' class='u-u' type='' inf='' lang='B, Ass' gloss='be cloudy, overcast' />
+    <verb root='0xrr' class='?-?' type='' inf='' lang='B' gloss='be parched; (D) parch drugs' />
+    <verb root='0xrr' class='?-?' type='' inf='naXarrurum' lang='B' gloss='(N) go assist' />
+    <verb root='0xrr' class='a-u' type='' inf='' lang='B, Ass' gloss='curse; insult' />
+    <verb root='0xrr' class='u-u' type='' inf='' lang='B, Ass' gloss='be convulsed, tremble, shake, panic' />
+    <verb root='0xrc' class='a-u' type='' inf='' lang='B, Ass' gloss='cultivate; (S) put under' />
+    <verb root='0xrc' class='i-i' type='e' inf='' lang='B' gloss='ask, request, desire' />
+    <verb root='0xcx' class='?-?' type='' inf='' lang='Ass' gloss='confuse, trouble, become confused' />
+    <verb root='0xsx' class='?-?' type='' inf='' lang='B' gloss='sigh, gasp' />
+    <verb root='0xcx' class='?-?' type='' inf='eceeXum' lang='OB' gloss='muzzle' />
+    <verb root='0xcx' class='?-?' type='IRREGULAR' inf='icUm' lang='B, Ass' gloss='have, possess; suffer from disease, ilness' />
+    <verb root='0xsx' class='i-i' type='e' inf='' lang='B' gloss='effectuate; bring to pass' />
+    <verb root='0xSx' class='i-i' type='e' inf='' lang='B' gloss='slit; cut into (forehead or head)' />
+    <verb root='0xcx' class='i-i' type='e' inf='' lang='B' gloss='confuse, trouble, become confused' />
+    <verb root='0xSb' class='a-i' type='' inf='' lang='B, Ass' gloss='add, increase; (D) multiply' />
+    <verb root='0xcb' class='a-i' type='' inf='ucaabu' lang='OAss, Ass, NA, MA' gloss='sit (down), dwell; be (located); (D) settle' />
+    <verb root='0xcb' class='i-i' type='e' inf='' lang='B' gloss='flourish (of plants)' />
+    <verb root='0xsd' class='d-d' type='' inf='' lang='B' gloss='(D) (meaning unknown)' />
+    <verb root='0xSd' class='i-i' type='e' inf='' lang='B' gloss='harvest' />
+    <verb root='0xsh' class='i-i' type='e' inf='' lang='B' gloss='I gird on; strap on a weapon; II assign; allocate' />
+    <verb root='0xsk' class='i-i' type='e' inf='' lang='B' gloss='I assign; allocate; II incise; carve' />
+    <verb root='0xsl' class='?-?' type='e' inf='' lang='B' gloss='blow up; inflate' />
+    <verb root='0xSl' class='i-i' type='e' inf='' lang='B' gloss='paralyse' />
+    <verb root='0xSm' class='a-i' type='' inf='' lang='Ass' gloss='fit, befit, suit, be proper; (D) adorn building' />
+    <verb root='0xSn' class='i-i' type='e' inf='' lang='B' gloss='smell (trans.)' />
+    <verb root='0xcp' class='a-i' type='' inf='' lang='Ass' gloss='enchant, cast a spell; (D) exorcise' />
+    <verb root='0xSp' class='i-i' type='e' inf='' lang='B' gloss='double; multiply' />
+    <verb root='0xsp' class='i-i' type='e' inf='' lang='B' gloss='gather together; (D) scrape up earth from furrows' />
+    <verb root='0xsq' class='i-i' type='e' inf='' lang='B' gloss='raise up, strengthen' />
+    <verb root='0xcr' class='?-?' type='' inf='' lang='Ass' gloss='be humble, pious' />
+    <verb root='0xcr' class='a-u' type='' inf='' lang='B, Ass' gloss='check, review; muster' />
+    <verb root='0xSr' class='i-i' type='e' inf='' lang='B' gloss='enclose, confine' />
+    <verb root='0xsr' class='i-i' type='e' inf='' lang='B' gloss='I press for payment, collect, II enclose, confine' />
+    <verb root='0xcr' class='i-i' type='e' inf='' lang='B, Ass' gloss='go straight, prosper; (S) put in order; (St1) pass of S; (St2) keep in order' />
+    <verb root='0xcc' class='e-u' type='e' inf='' lang='B' gloss='be(come) disturbed' />
+    <verb root='0xcc' class='u-u' type='' inf='' lang='Ass' gloss='be desperate, be stressed' />
+    <verb root='0xcT' class='?-?' type='' inf='' lang='Ass' gloss='be stiff, be obdurate' />
+    <verb root='0xcz' class='?-?' type='IRREGULAR' inf='izuzzum' lang='B, Ass' gloss='stand; (Gtn) stand around' />
+    <verb root='0xtx' class='?-?' type='IRREGULAR' inf='nentU' lang='B' gloss='(N) overlap; go parallel' />
+    <verb root='0xTx' class='i-i' type='e' inf='' lang='B' gloss='become dark, become dim' />
+    <verb root='0xtx' class='u-u' type='' inf='' lang='Ass' gloss='find, discover, locate' />
+    <verb root='0xtk' class='?-?' type='e' inf='' lang='B' gloss='be on guard; (D) alert' />
+    <verb root='0xtk' class='a-a' type='' inf='' lang='B, Ass' gloss='be(come) bent, crooked' />
+    <verb root='0xTl' class='?-?' type='e' inf='' lang='B' gloss='be manly' />
+    <verb root='0xtl' class='?-?' type='IRREGULAR' inf='ituulu' lang='B' gloss='lie down; sleep' />
+    <verb root='0xtm' class='?-?' type='e' inf='' lang='B' gloss='be smitten, affected; (D) mix together; bring into contact; (St) bring against each other' />
+    <verb root='0xtn' class='?-?' type='e' inf='' lang='B' gloss='be smitten, affected; (D) mix together; bring into contact; (St) bring against each other' />
+    <verb root='0xtq' class='i-i' type='e' inf='' lang='B' gloss='pass by, pass through, go beyond' />
+    <verb root='0xTr' class='i-i' type='e' inf='' lang='B' gloss='I take away, save, II pay' />
+    <verb root='0xts' class='?-?' type='IRREGULAR' inf='itussu' lang='NA' gloss='stand; (Gtn) stand around' />
+    <verb root='0xwx' class='i-i' type='e' inf='' lang='B, Ass' gloss='I become, turn into, change (intrans.); II impose on' />
+    <verb root='0xwx' class='u-u' type='' inf='' lang='B' gloss='speak; (Gt) discuss; (St) debate' />
+    <verb root='0xzx' class='?-?' type='' inf='' lang='B' gloss='sigh, gasp' />
+    <verb root='0xzx' class='?-?' type='e' inf='' lang='B' gloss='be hasty, hurry' />
+    <verb root='0xzb' class='i-i' type='e' inf='' lang='B' gloss='leave behind, abandon, divorce' />
+    <verb root='0xzh' class='i-i' type='e' inf='' lang='B' gloss='gird on; strap on a weapon' />
+    <verb root='0xzr' class='?-?' type='' inf='' lang='B' gloss='help' />
+    <verb root='0xzr' class='i-i' type='e' inf='' lang='B' gloss='curse' />
+    <verb root='0xzz' class='?-?' type='IRREGULAR' inf='izuzzum' lang='B, OAss' gloss='stand; (Gtn) stand around' />
+    <verb root='0xzz' class='a-a' type='' inf='' lang='Ass' gloss='buzz' />
+    <verb root='0xzz' class='i-i' type='e' inf='' lang='B' gloss='become angry, become fierce' />
+    <verb root='xlxx' class='d-d' type='' inf='cuteluuXu' lang='B' gloss='(St) make lick up' />
+    <verb root='xllx' class='d-d' type='e' inf='neXellU' lang='B' gloss='(N) roam around' />
+    <verb root='xrsx' class='d-d' type='' inf='cuteersUm' lang='B, Ass' gloss='(St) make ready, prepare' />
+    <verb root='0bxx' class='a-a' type='' inf='bAXu' lang='B, Ass' gloss='pass over, pass by, walk' />
+    <verb root='0bxx' class='a-i' type='' inf='baXXU' lang='Ass' gloss='seek for, inquire' />
+    <verb root='0bxx' class='d-d' type='' inf='' lang='B' gloss='(D) seek for, inquire' />
+    <verb root='0bxd' class='a-i' type='' inf='biaadu' lang='Ass' gloss='spend the night' />
+    <verb root='0bxl' class='?-?' type='' inf='' lang='B' gloss='supplicate' />
+    <verb root='0bxl' class='a-a' type='' inf='' lang='Ass' gloss='beseech' />
+    <verb root='0bxl' class='a-i' type='' inf='biaalu' lang='Ass' gloss='rule, govern, control, hold' />
+    <verb root='0bxl' class='d-d' type='' inf='' lang='B' gloss='(D) cast away; throw down' />
+    <verb root='0bxl' class='e-e' type='e' inf='' lang='B, Ass' gloss='rule; be victorious (N) be detained' />
+    <verb root='0bxl' class='e-e' type='i' inf='' lang='B, Ass' gloss='rule; be victorious (N) be detained' />
+    <verb root='0bxl' class='i-i' type='' inf='baXaalu' lang='B, Ass' gloss='be bright, be dominant' />
+    <verb root='0bxr' class='a-a' type='' inf='' lang='B, Ass' gloss='I catch (fauna); hunt (fauna; people); II revolt' />
+    <verb root='0bxr' class='a-i' type='' inf='biaaru' lang='Ass' gloss='examine, check, test, assay' />
+    <verb root='0bxr' class='a-u' type='' inf='buaaru' lang='Ass' gloss='affirm, fortify, prove' />
+    <verb root='0bxr' class='e-e' type='e' inf='' lang='B, Ass' gloss='choose (textiles, ingredients, people)' />
+    <verb root='0bxr' class='i-i' type='e' inf='' lang='Ass' gloss='put aside' />
+    <verb root='0bxr' class='i-i' type='e' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0bxr' class='u-u' type='' inf='' lang='Ass, OAkk, B' gloss='be firm, durable; appear' />
+    <verb root='0bxc' class='a-a' type='' inf='' lang='B, Ass' gloss='be ashamed, abashed' />
+    <verb root='0bxc' class='i-i' type='' inf='' lang='B' gloss='tamp, stamp' />
+    <verb root='0bxc' class='i-i' type='' inf='baXaacu' lang='B, Ass' gloss='I be bad, smell bad, smell, worsen; II stir' />
+    <verb root='0bxc' class='i-i' type='e' inf='' lang='B, Ass' gloss='go away; withdraw' />
+    <verb root='0bxT' class='i-i' type='' inf='' lang='B' gloss='show contempt' />
+    <verb root='0bxt' class='i-i' type='' inf='biaatum' lang='B' gloss='stay overnight; spend the night' />
+    <verb root='0bbl' class='a-i' type='' inf='' lang='B' gloss='carry, bring' />
+    <verb root='0bdx' class='i-i' type='e' inf='' lang='B' gloss='be slow?' />
+    <verb root='0bdd' class='d-d' type='' inf='' lang='Ass, B' gloss='(D) waste, squander, dissipate' />
+    <verb root='0bdh' class='?-?' type='' inf='' lang='B' gloss='kiss' />
+    <verb root='0bdm' class='?-?' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0bdq' class='a-u' type='' inf='' lang='Ass' gloss='repair' />
+    <verb root='0bdq' class='a-u' type='' inf='' lang='B' gloss='cut off parts (of something)' />
+    <verb root='0bdc' class='?-?' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0bhx' class='?-?' type='' inf='' lang='B' gloss='be thing, scarce' />
+    <verb root='0bhx' class='d-d' type='' inf='' lang='B' gloss='(D) seek for' />
+    <verb root='0bhr' class='?-?' type='' inf='' lang='Ass' gloss='evaporate, vaporize' />
+    <verb root='0bhr' class='d-d' type='' inf='' lang='B' gloss='(D) heat a liquid' />
+    <verb root='0bhr' class='i-i' type='e' inf='' lang='B' gloss='choose, select' />
+    <verb root='0bhc' class='d-d' type='' inf='' lang='B' gloss='(D) check' />
+    <verb root='0bhc' class='d-d' type='' inf='' lang='B' gloss='(D) stir' />
+    <verb root='0bkx' class='i-i' type='' inf='' lang='B, Ass' gloss='weep, cry, bawl; bewail' />
+    <verb root='0bkr' class='i-i' type='' inf='' lang='Ass' gloss='sprinkle(?)' />
+    <verb root='0blx' class='i-i' type='e' inf='' lang='B, Ass' gloss='be extinguished; come to an end' />
+    <verb root='0bll' class='a-u' type='' inf='' lang='B, Ass' gloss='mix, blend, mingle, alloy' />
+    <verb root='0blm' class='i-i' type='' inf='' lang='B, Ass' gloss='gag; muzzle' />
+    <verb root='0blS' class='i-i' type='' inf='' lang='B, Ass' gloss='I stare, fix the eyes in a stare, II thrust, jerk (with rump)' />
+    <verb root='0blT' class='a-a' type='' inf='' lang='B, Ass' gloss='live, survive, subsist' />
+    <verb root='0blT' class='u-u' type='' inf='' lang='B' gloss='become well, be alive, live' />
+    <verb root='0bnx' class='i-i' type='' inf='' lang='B, Ass' gloss='I build, create, engender, II become pleasant, beautiful' />
+    <verb root='0bnn' class='d-d' type='' inf='' lang='B' gloss='(D) (meaning unknown)' />
+    <verb root='0bql' class='?-?' type='' inf='' lang='B' gloss='malt, sprout' />
+    <verb root='0bql' class='u-u' type='' inf='' lang='Ass' gloss='malt, sprout' />
+    <verb root='0bqm' class='a-u' type='' inf='' lang='B, Ass' gloss='pluck hair or wool' />
+    <verb root='0bqn' class='a-u' type='' inf='' lang='B' gloss='pluck hair or wool' />
+    <verb root='0bqr' class='a-u' type='' inf='' lang='B, Ass' gloss='claim, allege, contest, arrogate' />
+    <verb root='0bqr' class='i-i' type='' inf='' lang='MB' gloss='become rare, scarce, expensive' />
+    <verb root='0bqc' class='?-?' type='' inf='' lang='B' gloss='be broad, prominent' />
+    <verb root='0brx' class='?-?' type='' inf='bitrU' lang='B' gloss='be continuous, permanent' />
+    <verb root='0brx' class='a-a' type='' inf='' lang='OAkk' gloss='become hungry, go hungry, starve' />
+    <verb root='0brx' class='d-d' type='' inf='' lang='Ass' gloss='(D) blazon' />
+    <verb root='0brx' class='e-e' type='e' inf='' lang='B' gloss='become hungry, go hungry, starve' />
+    <verb root='0brx' class='i-i' type='' inf='' lang='Ass' gloss='I be hungry, starve, famish; II continue, go on, persevere; III be on market' />
+    <verb root='0brx' class='i-i' type='' inf='' lang='B, Ass' gloss='look at, examine, inspect, observe' />
+    <verb root='0brh' class='?-?' type='' inf='' lang='B, Ass' gloss='beam, shine, radiate' />
+    <verb root='0brm' class='?-?' type='' inf='' lang='Ass, B' gloss='be variegated, multicoloured' />
+    <verb root='0brm' class='a-u' type='' inf='' lang='B' gloss='seal up' />
+    <verb root='0brm' class='i-i' type='' inf='' lang='Ass' gloss='seal up' />
+    <verb root='0brq' class='i-i' type='' inf='' lang='B, Ass' gloss='flash (of lightning), strike with lightning' />
+    <verb root='0brr' class='u-u' type='' inf='' lang='B' gloss='flicker; be dim; be scintillating' />
+    <verb root='0brc' class='?-?' type='' inf='' lang='B' gloss='pluck out' />
+    <verb root='0brS' class='u-u' type='' inf='' lang='B, Ass' gloss='light up, shine brightly' />
+    <verb root='0bcx' class='i-i' type='' inf='' lang='Ass, B' gloss='be, exist, be present, be available; (S) give birth' />
+    <verb root='0bcx' class='i-i' type='' inf='bacaaXu' lang='Ass' gloss='despise; disdain' />
+    <verb root='0bsl' class='?-?' type='' inf='' lang='B' gloss='?' />
+    <verb root='0bcl' class='a-a' type='' inf='' lang='B, Ass' gloss='cook, boil, scald, stew' />
+    <verb root='0bcm' class='a-u' type='' inf='' lang='Ass' gloss='carry away, kidnap' />
+    <verb root='0bsm' class='d-d' type='' inf='' lang='B' gloss='(D) to please' />
+    <verb root='0bcm' class='i-i' type='' inf='' lang='B, Ass' gloss='fashion, design; lay out, create' />
+    <verb root='0bSr' class='?-?' type='' inf='' lang='B' gloss='cut, pick, harvest (grapes)' />
+    <verb root='0bSr' class='a-u' type='' inf='' lang='Ass' gloss='cut, pick, harvest (grapes)' />
+    <verb root='0bsr' class='d-d' type='' inf='' lang='B' gloss='(D) bring; send; deliver' />
+    <verb root='0bSS' class='?-?' type='' inf='' lang='B' gloss='trickle' />
+    <verb root='0bcc' class='u-u' type='' inf='' lang='B' gloss='spread' />
+    <verb root='0bTx' class='i-i' type='e' inf='' lang='B' gloss='be slow?' />
+    <verb root='0bTl' class='i-i' type='' inf='' lang='B, Ass' gloss='cease, stop, pack in, pack' />
+    <verb root='0btq' class='a-u' type='' inf='' lang='B, Ass' gloss='cut, cut off, amputate; divide' />
+    <verb root='0btr' class='d-d' type='' inf='' lang='B' gloss='(D) mutilate' />
+    <verb root='0bzx' class='?-?' type='' inf='' lang='OB, Mari, Am' gloss='badger, entail, extort, make unreasonable demands' />
+    <verb root='0bzh' class='?-?' type='' inf='' lang='B' gloss='badger, entail, extort, make unreasonable demands' />
+    <verb root='0bzh' class='a-u' type='' inf='' lang='Ass' gloss='badger, entail, extort, make unreasonable demands' />
+    <verb root='0dxb' class='i-i' type='' inf='daXaapu' lang='NA' gloss='push away; repulse, revolt (D)' />
+    <verb root='0dxk' class='a-u' type='' inf='' lang='Ass' gloss='kill, murder, execute, assassinate; defeat, mistreat' />
+    <verb root='0dxk' class='u-u' type='' inf='' lang='B' gloss='kill, murder, execute, assassinate; defeat, mistreat' />
+    <verb root='0dxl' class='a-u' type='' inf='' lang='Ass' gloss='run about, move about' />
+    <verb root='0dxl' class='u-u' type='' inf='' lang='B' gloss='run about, move about' />
+    <verb root='0dxm' class='i-i' type='' inf='daXaamum' lang='B, Ass' gloss='be dark; (D) to darken' />
+    <verb root='0dxm' class='u-u' type='' inf='daXaamu' lang='?' gloss='become dark; dim' />
+    <verb root='0dxn' class='a-i' type='' inf='' lang='Ass' gloss='judge, start a lawsuit' />
+    <verb root='0dxn' class='i-i' type='' inf='' lang='B' gloss='judge, start a lawsuit' />
+    <verb root='0dxn' class='i-i' type='' inf='daXaanu' lang='Ass' gloss='be strong, hard, difficult' />
+    <verb root='0dxp' class='?-?' type='e' inf='' lang='B' gloss='to lay warp' />
+    <verb root='0dxp' class='i-i' type='' inf='daXaapu' lang='B, Ass' gloss='push away; repulse, (D) revolt' />
+    <verb root='0dxr' class='?-?' type='' inf='duaarum' lang='B, Ass' gloss='surround, enfold' />
+    <verb root='0dxS' class='a-a' type='' inf='' lang='B, Ass' gloss='treat with disrespect, unjustly' />
+    <verb root='0dxc' class='a-i' type='' inf='diaacum' lang='Ass' gloss='trample upon, tread' />
+    <verb root='0dxc' class='i-i' type='' inf='' lang='?' gloss='thresh' />
+    <verb root='0dbb' class='u-u' type='' inf='' lang='B, Ass' gloss='speak, tell; (D) talk much; (Dt) be called' />
+    <verb root='0dbq' class='?-?' type='' inf='' lang='Ass' gloss='cleave, adhere' />
+    <verb root='0dbq' class='d-d' type='' inf='' lang='B' gloss='join together' />
+    <verb root='0dbr' class='?-?' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0dgl' class='a-u' type='' inf='' lang='B, Ass' gloss='look at, scan' />
+    <verb root='0dhx' class='?-?' type='ea' inf='' lang='B' gloss='beat; press down' />
+    <verb root='0dhx' class='a-u' type='' inf='' lang='Ass' gloss='push, exclude, rebuff, refuse' />
+    <verb root='0dhs' class='d-d' type='' inf='' lang='B' gloss='oppress (D)' />
+    <verb root='0dkx' class='e-e' type='ea' inf='' lang='B' gloss='raise; remove; mobilize; arouse; muster; summon' />
+    <verb root='0dkx' class='i-i' type='e' inf='' lang='Ass' gloss='raise; remove; mobilize; arouse; muster; summon' />
+    <verb root='0dkx' class='i-i' type='ea' inf='' lang='B' gloss='raise; remove; mobilize; arouse; muster; summon' />
+    <verb root='0dkk' class='?-?' type='' inf='' lang='B' gloss='crush; grind (D)' />
+    <verb root='0dkk' class='u-u' type='' inf='' lang='B, Ass' gloss='scamper (of donkey)' />
+    <verb root='0dkm' class='?-?' type='' inf='' lang='B' gloss='bow down; prostrate' />
+    <verb root='0dkc' class='a-u' type='' inf='' lang='B, Ass' gloss='press in; stab; thrust' />
+    <verb root='0dlx' class='u-u' type='' inf='' lang='B, Ass' gloss='draw water; irrigate' />
+    <verb root='0dlb' class='i-i' type='' inf='' lang='NA' gloss='stir up; be sleepless; stay awake; (D) harass; (N) become restless' />
+    <verb root='0dlh' class='a-u' type='' inf='' lang='B, Ass' gloss='stir up, disturb, confuse' />
+    <verb root='0dll' class='?-?' type='' inf='' lang='B' gloss='be small' />
+    <verb root='0dll' class='a-u' type='' inf='' lang='B, ASs' gloss='proclaim, glorify, praise' />
+    <verb root='0dll' class='i-i' type='' inf='' lang='Ass' gloss='be small' />
+    <verb root='0dlp' class='i-i' type='' inf='' lang='B, Ass' gloss='stir up; be sleepless; stay awake; (D) harass; (N) become restless' />
+    <verb root='0dlq' class='i-i' type='' inf='' lang='Ass' gloss='burn' />
+    <verb root='0dmx' class='d-d' type='' inf='' lang='Ass' gloss='make weep, draw' />
+    <verb root='0dmx' class='d-d' type='' inf='' lang='B' gloss='bring to tears' />
+    <verb root='0dmx' class='u-u' type='' inf='' lang='Ass, B' gloss='jerk; convulse' />
+    <verb root='0dmm' class='u-u' type='' inf='' lang='B, Ass' gloss='wail, bemoan, mourn' />
+    <verb root='0dmq' class='i-i' type='' inf='' lang='B, Ass' gloss='be good; prosper, flourish, have good fortune' />
+    <verb root='0dmc' class='?-?' type='' inf='' lang='B' gloss='wipe(?)' />
+    <verb root='0dmS' class='u-u' type='' inf='' lang='B' gloss='prostrate oneself' />
+    <verb root='0dnx' class='i-i' type='' inf='' lang='B' gloss='be inferior quality?' />
+    <verb root='0dnn' class='i-i' type='' inf='' lang='B, Ass' gloss='become strong, become powerful; (R) match in strength' />
+    <verb root='0dpn' class='a-u' type='' inf='' lang='B, Ass' gloss='hurtle towards' />
+    <verb root='0dpr' class='d-d' type='' inf='' lang='B' gloss='withdraw; move away (D)' />
+    <verb root='0dpr' class='i-i' type='' inf='' lang='Ass' gloss='be frequent, swarm' />
+    <verb root='0dqq' class='?-?' type='' inf='' lang='B, Ass' gloss='be fine, be minimal; crush (D)' />
+    <verb root='0dqc' class='i-i' type='' inf='' lang='B' gloss='bend down' />
+    <verb root='0dqc' class='u-u' type='' inf='' lang='B' gloss='bend down' />
+    <verb root='0drx' class='d-d' type='' inf='' lang='Mari' gloss='reject; neglect' />
+    <verb root='0drx' class='i-i' type='ea' inf='' lang='B, Ass' gloss='intercalate (a month)' />
+    <verb root='0drg' class='?-?' type='' inf='' lang='B' gloss='pack up (textiles)' />
+    <verb root='0drk' class='a-u' type='' inf='' lang='B, Ass' gloss='pack; to arrive at' />
+    <verb root='0drk' class='d-d' type='' inf='' lang='B' gloss='follow?; thresh (D)' />
+    <verb root='0drq' class='?-?' type='' inf='' lang='B' gloss='pack up' />
+    <verb root='0drr' class='?-?' type='' inf='' lang='B' gloss='move freely; (N) roam free' />
+    <verb root='0drr' class='a-u' type='' inf='' lang='B, Ass' gloss='intercalate a month' />
+    <verb root='0drc' class='i-i' type='' inf='' lang='B' gloss='try?' />
+    <verb root='0drs' class='i-i' type='' inf='' lang='B, Ass' gloss='trample; push back' />
+    <verb root='0dcx' class='i-i' type='e' inf='' lang='B' gloss='sprout; (D) let flourish; (Dt) abound' />
+    <verb root='0dcp' class='?-?' type='' inf='' lang='B, Ass' gloss='be sweet; (D) sweeten' />
+    <verb root='0dwx' class='u-u' type='' inf='' lang='B' gloss='jerk; convulse' />
+    <verb root='0gxx' class='?-?' type='' inf='' lang='B' gloss='I be superior; II spit, spew' />
+    <verb root='0gxr' class='?-?' type='' inf='' lang='B' gloss='challenge; demand' />
+    <verb root='0gxc' class='?-?' type='' inf='' lang='B' gloss='vomit' />
+    <verb root='0gxc' class='?-?' type='e' inf='' lang='Ass' gloss='turn over, gash, grub up' />
+    <verb root='0gxs' class='?-?' type='e' inf='' lang='B' gloss='I assign; confer; II turn over' />
+    <verb root='0gxc' class='u-u' type='' inf='' lang='B' gloss='run, hasten' />
+    <verb root='0gbx' class='d-d' type='' inf='' lang='Ass' gloss='sew, stitch' />
+    <verb root='0gbb' class='a-u' type='' inf='' lang='B' gloss='burn, ' />
+    <verb root='0gbb' class='d-d' type='' inf='' lang='Ass' gloss='broil, grill, fry' />
+    <verb root='0gbr' class='?-?' type='' inf='' lang='Ass' gloss='enforce, use force' />
+    <verb root='0gdd' class='a-u' type='' inf='' lang='B' gloss='separate off' />
+    <verb root='0gdl' class='a-u' type='' inf='' lang='Ass' gloss='twist, plait, interweave' />
+    <verb root='0gdm' class='i-i' type='' inf='' lang='B, Ass' gloss='cut off a part of body as punishment, amputate' />
+    <verb root='0ghb' class='?-?' type='' inf='' lang='B' gloss='cough (D)' />
+    <verb root='0glx' class='i-i' type='' inf='' lang='B, Ass' gloss='go inexile, emigrate' />
+    <verb root='0glb' class='?-?' type='' inf='' lang='B' gloss='shear, shave, shave head as punishment; (D) plunder' />
+    <verb root='0glb' class='d-d' type='' inf='' lang='Ass' gloss='shear, shave, shave head as punishment; (D) plunder' />
+    <verb root='0gld' class='u-u' type='' inf='' lang='B, Ass' gloss='twitch, become nervous, become' />
+    <verb root='0gll' class='?-?' type='' inf='' lang='B' gloss='roll' />
+    <verb root='0gll' class='a-a' type='' inf='' lang='Ass' gloss='roll; reel, trundle' />
+    <verb root='0gll' class='d-d' type='' inf='' lang='Ass' gloss='blind' />
+    <verb root='0glc' class='?-?' type='' inf='' lang='B' gloss='flatten off?' />
+    <verb root='0glt' class='u-u' type='' inf='' lang='B' gloss='twitch, become nervous, become' />
+    <verb root='0gmx' class='?-?' type='' inf='' lang='B' gloss='meaning unknown' />
+    <verb root='0gmd' class='?-?' type='' inf='' lang='Ass' gloss='haggle; mangle' />
+    <verb root='0gml' class='i-i' type='' inf='' lang='B, Ass' gloss='spare, save, perform a kind act' />
+    <verb root='0gmm' class='?-?' type='' inf='' lang='B' gloss='cut off' />
+    <verb root='0gmr' class='a-u' type='' inf='' lang='B, Ass' gloss='bring to an end, come to an end; (D) control totally' />
+    <verb root='0gmt' class='?-?' type='' inf='' lang='B' gloss='(D) anger' />
+    <verb root='0gmz' class='?-?' type='' inf='' lang='Ass' gloss='crinkle' />
+    <verb root='0gmz' class='d-d' type='' inf='' lang='Ass' gloss='press hard(?)' />
+    <verb root='0gnx' class='?-?' type='' inf='' lang='B' gloss='to thrust, butt' />
+    <verb root='0gnh' class='i-i' type='' inf='' lang='B, Ass' gloss='cough' />
+    <verb root='0gnn' class='a-u' type='' inf='' lang='B' gloss='encircle, shut in' />
+    <verb root='0gnS' class='?-?' type='' inf='' lang='B' gloss='lift nose, lift lip, sneer' />
+    <verb root='0gnS' class='a-u' type='' inf='' lang='Ass' gloss='lift (nose, lip)' />
+    <verb root='0gpx' class='?-?' type='' inf='' lang='B' gloss='meaning unknown' />
+    <verb root='0gpr' class='?-?' type='' inf='' lang='B' gloss='be superior' />
+    <verb root='0gpr' class='i-i' type='' inf='' lang='Ass' gloss='be superior' />
+    <verb root='0gpc' class='u-u' type='' inf='' lang='B, Ass' gloss='be huge, mighty; rise' />
+    <verb root='0grx' class='i-i' type='' inf='' lang='B, Ass' gloss='become hostile, start a lawsuit' />
+    <verb root='0grb' class='?-?' type='' inf='' lang='Ass' gloss='be leprous' />
+    <verb root='0grd' class='?-?' type='' inf='' lang='B' gloss='pluck, tear out; scrape off' />
+    <verb root='0grd' class='a-u' type='' inf='' lang='Ass' gloss='pluck, tear out; scrape off' />
+    <verb root='0grh' class='a-u' type='' inf='' lang='B, Ass' gloss='move towards; (of women) be made love to (N)' />
+    <verb root='0grm' class='i-i' type='' inf='' lang='B, Ass' gloss='follow course of a planet' />
+    <verb root='0grn' class='a-u' type='' inf='' lang='Ass' gloss='store, pile up; (D) ' />
+    <verb root='0grr' class='u-u' type='' inf='' lang='B, Ass' gloss='writhe, grovel; (D) drip; become scared; wince' />
+    <verb root='0grc' class='a-u' type='' inf='' lang='Ass, B' gloss='move towards; (N) (of women) be made love to' />
+    <verb root='0grS' class='a-u' type='' inf='' lang='B' gloss='pinch off, break off, gnaw bone' />
+    <verb root='0grS' class='i-i' type='' inf='' lang='B' gloss='pinch off, break off, gnaw bone' />
+    <verb root='0gcx' class='?-?' type='' inf='' lang='B' gloss='to belch' />
+    <verb root='0gcx' class='i-i' type='' inf='' lang='Ass' gloss='belch, burp' />
+    <verb root='0gcr' class='i-i' type='' inf='' lang='B, Ass' gloss='become powerful; (Dt) strike with great force' />
+    <verb root='0gSS' class='a-u' type='' inf='' lang='B' gloss='shear (sheep and goats)' />
+    <verb root='0gcc' class='a-u' type='' inf='' lang='B' gloss='cut off' />
+    <verb root='0gSS' class='i-i' type='' inf='' lang='Ass' gloss='be cruel' />
+    <verb root='0gSS' class='u-u' type='' inf='' lang='Ass' gloss='grind, grate, gnash (teeth)' />
+    <verb root='0gwx' class='?-?' type='' inf='' lang='B' gloss='be superior' />
+    <verb root='0gzx' class='d-d' type='' inf='' lang='B' gloss='take refuge' />
+    <verb root='0gzl' class='a-u' type='' inf='' lang='Ass' gloss='steal, carry off; rob' />
+    <verb root='0gzr' class='i-i' type='' inf='' lang='Ass' gloss='cut; circumcise' />
+    <verb root='0gzz' class='a-u' type='' inf='' lang='B, Ass' gloss='shear (sheep and goats)' />
+    <verb root='0hxb' class='?-?' type='' inf='' lang='B' gloss='I love; II cleanse, purify (cultically)' />
+    <verb root='0hxd' class='u-u' type='' inf='' lang='B' gloss='be joyful, rejoice' />
+    <verb root='0hxl' class='?-?' type='' inf='' lang='B' gloss='I be in labour, pain; II be(come) ill' />
+    <verb root='0hxl' class='a-i' type='' inf='' lang='Ass' gloss='be in labor, pain; II be(come) ill; III exude' />
+    <verb root='0hxp' class='?-?' type='' inf='' lang='B' gloss='I cleanse, purify (cultically); II fear' />
+    <verb root='0hxp' class='a-i' type='' inf='' lang='Ass' gloss='cleanse, purify' />
+    <verb root='0hxq' class='a-i' type='' inf='hiaaqu' lang='Ass' gloss='mix, blend, mingle' />
+    <verb root='0hxr' class='?-?' type='' inf='' lang='B' gloss='choose; seek out' />
+    <verb root='0hxr' class='a-i' type='' inf='hiaaru' lang='Ass' gloss='choose, select, seek out' />
+    <verb root='0hxc' class='a-a' type='' inf='' lang='Ass' gloss='be anxious; ail; (D)' />
+    <verb root='0hxc' class='a-a' type='' inf='' lang='B' gloss='hasten' />
+    <verb root='0hxc' class='a-i' type='' inf='hiaacu' lang='Ass' gloss='hurry, hasten, rush' />
+    <verb root='0hxt' class='?-?' type='' inf='' lang='B' gloss='seize prey' />
+    <verb root='0hxT' class='a-i' type='' inf='' lang='Ass' gloss='search, explore, investigate' />
+    <verb root='0hxT' class='a-i' type='' inf='hiaaTu' lang='Ass' gloss='weigh' />
+    <verb root='0hxT' class='i-i' type='' inf='' lang='B' gloss='watch over, examine, search' />
+    <verb root='0hbx' class='?-?' type='' inf='' lang='B' gloss='I be soft; II give refuge' />
+    <verb root='0hbx' class='d-d' type='' inf='' lang='B' gloss='sew' />
+    <verb root='0hbx' class='u-u' type='' inf='' lang='B, Ass' gloss='draw water; deplete' />
+    <verb root='0hbb' class='u-u' type='' inf='' lang='B, Ass' gloss='buzz, murmur, twitter; (D) hiss at (of snake)' />
+    <verb root='0hbl' class='a-a' type='' inf='' lang='B' gloss='bind, harness' />
+    <verb root='0hbl' class='a-u' type='' inf='' lang='B' gloss='I oppress, wrong, ravage, II borrow, be in debt' />
+    <verb root='0hbl' class='i-i' type='' inf='' lang='B, Ass' gloss='I oppress, wrong, ravage, II borrow, be in debt' />
+    <verb root='0hbr' class='?-?' type='' inf='' lang='B' gloss='be solid' />
+    <verb root='0hbr' class='u-u' type='' inf='' lang='B, Ass' gloss='be noisy, babble, blab; be busy' />
+    <verb root='0hbc' class='a-u' type='' inf='' lang='B, Ass' gloss='crush, comminute, chop, break' />
+    <verb root='0hbS' class='u-u' type='' inf='' lang='Ass' gloss='be exuberant, be luxuriant' />
+    <verb root='0hbc' class='u-u' type='' inf='' lang='B' gloss='become hard, swollen' />
+    <verb root='0hbS' class='u-u' type='' inf='' lang='B' gloss='I be distended; (S) make rejoice, II smite down, pulverize' />
+    <verb root='0hbt' class='a-u' type='' inf='' lang='B, Ass' gloss='I rob, maraud, take away (by force); II loan grain?; III wander' />
+    <verb root='0hdx' class='i-i' type='' inf='' lang='B' gloss='rejoice, become glad' />
+    <verb root='0hdx' class='u-u' type='' inf='' lang='B, Ass' gloss='rejoice, become glad' />
+    <verb root='0hdd' class='a-u' type='' inf='' lang='B, Ass' gloss='rustle, swish; rub' />
+    <verb root='0hdd' class='u-u' type='' inf='' lang='B' gloss='I roar (of storm); II incise deeply' />
+    <verb root='0hdl' class='a-u' type='' inf='' lang='B' gloss='I tie up; (Gt) tie together' />
+    <verb root='0hdl' class='i-i' type='' inf='' lang='B' gloss='II retreat, go back' />
+    <verb root='0hdq' class='?-?' type='' inf='' lang='B' gloss='press against another' />
+    <verb root='0hdr' class='a-u' type='' inf='' lang='B' gloss='be dark, gloomy' />
+    <verb root='0hdc' class='d-d' type='' inf='' lang='B' gloss='rejoice' />
+    <verb root='0hhx' class='?-?' type='IRREGULAR' inf='hahU' lang='B' gloss='slag, clinker (pottery)' />
+    <verb root='0hhx' class='u-u' type='IRREGULAR' inf='hahU' lang='B, Ass' gloss='spew, spit out, vomit' />
+    <verb root='0hkx' class='?-?' type='' inf='' lang='B' gloss='take thought' />
+    <verb root='0hkm' class='i-i' type='' inf='' lang='B, Ass' gloss='understand; (D) inform' />
+    <verb root='0hkr' class='i-i' type='' inf='' lang='B' gloss='comminute' />
+    <verb root='0hlx' class='?-?' type='' inf='' lang='B' gloss='be(come) ill' />
+    <verb root='0hlx' class='?-?' type='e' inf='' lang='B' gloss='be bright' />
+    <verb root='0hlx' class='u-u' type='' inf='' lang='Ass' gloss='be bright, shine' />
+    <verb root='0hlb' class='?-?' type='' inf='' lang='B' gloss='milk (a breast)' />
+    <verb root='0hlb' class='i-i' type='' inf='' lang='Ass' gloss='milk' />
+    <verb root='0hll' class='a-u' type='' inf='' lang='B, ASs' gloss='I confine, shut away; II creep' />
+    <verb root='0hll' class='u-u' type='' inf='' lang='B, Ass' gloss='murmur, wheeze, make sound (of birds, flute)' />
+    <verb root='0hlp' class='?-?' type='' inf='' lang='B' gloss='accuse; (S) indict' />
+    <verb root='0hlp' class='a-u' type='' inf='' lang='Ass' gloss='exchange, substitute' />
+    <verb root='0hlp' class='d-d' type='' inf='' lang='B' gloss='indict (S)' />
+    <verb root='0hlp' class='i-i' type='' inf='' lang='Ass' gloss='milk' />
+    <verb root='0hlp' class='u-u' type='' inf='' lang='B, Ass' gloss='slip in, slip through' />
+    <verb root='0hlp' class='u-u' type='' inf='' lang='B, Ass' gloss='cover, clothe' />
+    <verb root='0hlq' class='a-u' type='' inf='' lang='B' gloss='comb out wool' />
+    <verb root='0hlq' class='i-i' type='' inf='' lang='B, Ass' gloss='vanish, become lost, escape, flee' />
+    <verb root='0hlS' class='a-u' type='' inf='' lang='B, Ass' gloss='comb out, filter, strain' />
+    <verb root='0hlc' class='a-u' type='' inf='' lang='B, Ass' gloss='scrape of fungus' />
+    <verb root='0hlt' class='u-u' type='' inf='' lang='B' gloss='swallow' />
+    <verb root='0hmx' class='?-?' type='' inf='' lang='B' gloss='see' />
+    <verb root='0hmx' class='i-i' type='' inf='' lang='B, Ass' gloss='I paralyse; stun; immobilize; II trust' />
+    <verb root='0hmx' class='u-u' type='' inf='' lang='Ass' gloss='rejoice' />
+    <verb root='0hmx' class='u-u' type='' inf='' lang='B' gloss='I trust; II howl (of ghost, storm, dog)' />
+    <verb root='0hmd' class='i-i' type='' inf='' lang='B' gloss='hide away; (N) excuse of someone' />
+    <verb root='0hml' class='i-i' type='' inf='' lang='B' gloss='plan evil things' />
+    <verb root='0hmm' class='a-u' type='' inf='' lang='B, Ass' gloss='gather (reeds); concentrate' />
+    <verb root='0hmr' class='?-?' type='' inf='' lang='B' gloss='become dry' />
+    <verb root='0hmS' class='a-u' type='' inf='' lang='B, Ass' gloss='tear off (clothing)' />
+    <verb root='0hmc' class='i-i' type='' inf='' lang='B' gloss='snap off (reed, tooth)' />
+    <verb root='0hmc' class='u-u' type='' inf='' lang='B, Ass' gloss='be fifth; do five times; (D) become one fifth' />
+    <verb root='0hmT' class='a-u' type='' inf='' lang='B, Ass' gloss='burn, be inflamed; glow' />
+    <verb root='0hmT' class='u-u' type='' inf='' lang='B, Ass' gloss='hasten, be quick; (D) hasten troops up' />
+    <verb root='0hnx' class='d-d' type='' inf='' lang='B' gloss='give shelter, lodge' />
+    <verb root='0hnx' class='i-i' type='' inf='' lang='B, Ass' gloss='pressurize, browbeat' />
+    <verb root='0hnb' class='u-u' type='' inf='' lang='B, Ass' gloss='flourish plants; (S) make grow luxuriantly' />
+    <verb root='0hnm' class='i-i' type='' inf='' lang='B' gloss='be luxuriant; thrive' />
+    <verb root='0hnn' class='?-?' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0hnn' class='d-d' type='' inf='' lang='Ass' gloss='(meaning uncertain)' />
+    <verb root='0hnn' class='u-u' type='' inf='' lang='Ass' gloss='flow' />
+    <verb root='0hnp' class='?-u' type='' inf='' lang='B' gloss='act impiously' />
+    <verb root='0hnp' class='i-i' type='' inf='' lang='B, Ass' gloss='flatter, fawn' />
+    <verb root='0hnq' class='a-u' type='' inf='' lang='B, ASs' gloss='press throttle; (D) suffocate' />
+    <verb root='0hnc' class='i-i' type='' inf='' lang='Ass' gloss='submit o.s.; (D) subjugate' />
+    <verb root='0hnS' class='i-i' type='' inf='' lang='B, Ass' gloss='lift lips, show teeth' />
+    <verb root='0hnc' class='u-u' type='' inf='' lang='NA' gloss='bow down; submit' />
+    <verb root='0hnT' class='a-u' type='' inf='' lang='Ass' gloss='embalm, stuff' />
+    <verb root='0hpx' class='i-i' type='' inf='' lang='B, Ass' gloss='break' />
+    <verb root='0hpd' class='d-d' type='' inf='' lang='B' gloss='destroy eyesight; make blind' />
+    <verb root='0hpp' class='?-?' type='' inf='' lang='B' gloss='wash, clean' />
+    <verb root='0hpp' class='a-u' type='' inf='' lang='B, Ass' gloss='break up; smash' />
+    <verb root='0hpr' class='?-?' type='' inf='' lang='B' gloss='surround, encircle' />
+    <verb root='0hpr' class='?-u' type='' inf='' lang='B' gloss='decamp, become vagrant' />
+    <verb root='0hpr' class='i-i' type='' inf='' lang='Ass' gloss='dig (up)' />
+    <verb root='0hpt' class='i-i' type='' inf='' lang='B' gloss='triumph, prevail' />
+    <verb root='0hpt' class='u-u' type='' inf='' lang='B' gloss='triumph, prevail' />
+    <verb root='0hqm' class='d-d' type='' inf='' lang='B' gloss='(meaning unknown); action applied to flour' />
+    <verb root='0hqr' class='?-?' type='' inf='' lang='B' gloss='investigate' />
+    <verb root='0hrx' class='i-i' type='ea' inf='' lang='B, Ass' gloss='dig, excavate' />
+    <verb root='0hrb' class='i-i' type='' inf='' lang='B, Ass' gloss='become deserted (of land, settlements); (S) devastate, lay waste' />
+    <verb root='0hrb' class='u-u' type='' inf='' lang='B' gloss='become deserted (of land, settlements); (S) devastate, lay waste' />
+    <verb root='0hrd' class='?-?' type='' inf='' lang='B' gloss='fit together' />
+    <verb root='0hrd' class='i-i' type='' inf='' lang='B, Ass' gloss='be on guard, awake; (D) put on guard' />
+    <verb root='0hrk' class='?-?' type='' inf='' lang='B' gloss='post troops' />
+    <verb root='0hrk' class='a-u' type='' inf='' lang='Ass' gloss='post (troops)' />
+    <verb root='0hrm' class='?-?' type='' inf='' lang='B' gloss='cut off, separate' />
+    <verb root='0hrm' class='i-i' type='' inf='' lang='B, Ass' gloss='envelop, cover tablet; isolate, keep apart' />
+    <verb root='0hrp' class='i-i' type='' inf='' lang='B' gloss='cut away door' />
+    <verb root='0hrp' class='u-u' type='' inf='' lang='B, Ass' gloss='be early, be first; do' />
+    <verb root='0hrr' class='a-u' type='' inf='' lang='B, Ass' gloss='dig; hollow out, root' />
+    <verb root='0hrr' class='u-u' type='' inf='' lang='Ass' gloss='croak, gurgle, rumble' />
+    <verb root='0hrs' class='?-?' type='' inf='' lang='B' gloss='itch, scratch' />
+    <verb root='0hrc' class='?-?' type='' inf='' lang='B, Ass' gloss='I bind on body; II be silent' />
+    <verb root='0hrc' class='a-a' type='' inf='' lang='Ass' gloss='be silent' />
+    <verb root='0hrs' class='a-u' type='' inf='' lang='Ass' gloss='itch, scratch' />
+    <verb root='0hrS' class='a-u' type='' inf='' lang='Ass' gloss='clear up, find out' />
+    <verb root='0hrS' class='a-u' type='' inf='' lang='B' gloss='break off, deduct, incise, make clear; (St) calculate deduction' />
+    <verb root='0hrS' class='i-i' type='' inf='' lang='B' gloss='pinch off, break off, gnaw bone' />
+    <verb root='0hrc' class='i-i' type='' inf='' lang='B, Ass' gloss='be in labour; bring to birth' />
+    <verb root='0hrT' class='?-i' type='' inf='' lang='NA' gloss='feed on' />
+    <verb root='0hrT' class='?-u' type='' inf='' lang='B' gloss='feed on' />
+    <verb root='0hrT' class='i-i' type='' inf='' lang='Ass' gloss='mince, strip off, pick' />
+    <verb root='0hSx' class='?-?' type='' inf='' lang='?' gloss='raise objection' />
+    <verb root='0hcx' class='?-?' type='' inf='' lang='B' gloss='raise objection' />
+    <verb root='0hsx' class='i-i' type='' inf='' lang='B, Ass' gloss='cover up; hack, break a mountain by pickaxes; (D) conceal; keep secret ' />
+    <verb root='0hsx' class='i-i' type='' inf='hasaaXu' lang='Ass' gloss='mistreat, misuse, harass' />
+    <verb root='0hSb' class='?-?' type='' inf='' lang='B' gloss='be green' />
+    <verb root='0hcb' class='?-?' type='' inf='' lang='B' gloss='count, reckon' />
+    <verb root='0hSb' class='a-u' type='' inf='' lang='B, Ass' gloss='break off reed; (N) broken off' />
+    <verb root='0hcd' class='?-?' type='' inf='' lang='Ass' gloss='propose to, propose marriage' />
+    <verb root='0hch' class='a-a' type='' inf='' lang='Ass' gloss='need, require; desire; like' />
+    <verb root='0hch' class='a-u' type='' inf='' lang='Ass' gloss='need, require; desire; like' />
+    <verb root='0hch' class='i-i' type='' inf='' lang='B' gloss='need, require; desire; like' />
+    <verb root='0hcl' class='a-u' type='' inf='' lang='B, Ass' gloss='bruise, crush, shatter' />
+    <verb root='0hSn' class='i-i' type='' inf='' lang='B, Ass' gloss='hug; take under protection; shelter' />
+    <verb root='0hsp' class='i-i' type='' inf='' lang='B, Ass' gloss='pluck out, tear away' />
+    <verb root='0hcr' class='?-?' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0hsr' class='i-i' type='ea' inf='' lang='B, Ass' gloss='blunt, chip off, trim' />
+    <verb root='0hcc' class='a-u' type='' inf='' lang='B' gloss='gather; hasten; (Gt) apply oil; (D) plaster with clay' />
+    <verb root='0hSS' class='a-u' type='' inf='' lang='B, Ass' gloss='I snap off; II erect' />
+    <verb root='0hss' class='a-u' type='' inf='' lang='B, Ass' gloss='think of, be mindful of, heed; be conscious' />
+    <verb root='0hcc' class='u-u' type='' inf='' lang='B' gloss='swell; rejoice' />
+    <verb root='0hTx' class='i-i' type='' inf='' lang='B, Ass' gloss='commit crime; do wrong; neglect; spoil' />
+    <verb root='0htk' class='a-u' type='' inf='' lang='B' gloss='decide' />
+    <verb root='0hTm' class='i-i' type='' inf='' lang='B, Ass' gloss='block, muzzle, stop up' />
+    <verb root='0htn' class='i-i' type='' inf='' lang='B, Ass' gloss='protect, shelter' />
+    <verb root='0hTp' class='?-?' type='' inf='' lang='B' gloss='(meaning unclear); (D) wipe away' />
+    <verb root='0htp' class='i-i' type='' inf='' lang='B, Ass' gloss='slaughter' />
+    <verb root='0htr' class='i-i' type='' inf='' lang='B' gloss='flutter' />
+    <verb root='0hTT' class='a-u' type='' inf='' lang='Ass' gloss='ferment' />
+    <verb root='0hTT' class='a-u' type='' inf='' lang='B, Ass' gloss='excavate (canal)' />
+    <verb root='0hwx' class='u-u' type='' inf='' lang='B' gloss='howl (of ghost, storm, dog)' />
+    <verb root='0hzx' class='?-?' type='' inf='' lang='B' gloss='raise objection' />
+    <verb root='0hzx' class='?-?' type='' inf='hutenzu' lang='B' gloss='be(come) lame' />
+    <verb root='0hzx' class='d-d' type='' inf='' lang='Ass' gloss='limp, hobble' />
+    <verb root='0hzx' class='u-u' type='' inf='' lang='Ass' gloss='fizz, hiss; be husky' />
+    <verb root='0hzm' class='?-?' type='' inf='' lang='B' gloss='mutilate (ear)' />
+    <verb root='0hzq' class='?-?' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0jnq' class='i-i' type='e' inf='' lang='B' gloss='suck; (D) soak; (S) suckle' />
+    <verb root='0jSr' class='i-i' type='e' inf='' lang='B' gloss='draw, make a design' />
+    <verb root='0kxx' class='?-?' type='' inf='' lang='?' gloss='spit, spew' />
+    <verb root='0kxd' class='?-?' type='' inf='kiaadu' lang='Ass' gloss='(meaning unknown)' />
+    <verb root='0kxd' class='a-a' type='' inf='' lang='B' gloss='be in distress?' />
+    <verb root='0kxd' class='u-u' type='' inf='' lang='B' gloss='watch, guard' />
+    <verb root='0kxl' class='d-d' type='' inf='' lang='B' gloss='hold; retain' />
+    <verb root='0kxn' class='u-u' type='' inf='' lang='B' gloss='become firm, become true' />
+    <verb root='0kxp' class='a-a' type='' inf='' lang='B' gloss='oppress' />
+    <verb root='0kxr' class='?-?' type='' inf='' lang='Ass' gloss='be benumbed, dazed, fall' />
+    <verb root='0kxr' class='?-?' type='' inf='' lang='B' gloss='I be dazed; II rub on (medicine)' />
+    <verb root='0kxc' class='?-?' type='' inf='kuaacu' lang='Ass' gloss='be late, be delayed' />
+    <verb root='0kxS' class='?-?' type='' inf='kuaaSu' lang='Ass' gloss='flay; skin (D ~ G)' />
+    <verb root='0kxs' class='?-?' type='e' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0kxc' class='i-i' type='' inf='' lang='B' gloss='delay; (D) hold up' />
+    <verb root='0kxS' class='i-i' type='' inf='' lang='Nuzi' gloss='flay; skin (D ~ G)' />
+    <verb root='0kxS' class='u-u' type='' inf='' lang='B' gloss='flay; skin (D ~ G)' />
+    <verb root='0kbx' class='d-d' type='' inf='' lang='B' gloss='I sew; II (meaning unknown)' />
+    <verb root='0kbb' class='?-?' type='' inf='' lang='Ass' gloss='burn' />
+    <verb root='0kbb' class='a-u' type='' inf='' lang='B' gloss='I burn; II curve; twist' />
+    <verb root='0kbd' class='i-i' type='' inf='' lang='Ass' gloss='be important, respected' />
+    <verb root='0kbd' class='i-i' type='' inf='' lang='NA' gloss='be(come) heavy, burdensome' />
+    <verb root='0kbl' class='a-u' type='' inf='' lang='B, Ass' gloss='be(come) paralysed, crippled' />
+    <verb root='0kbr' class='i-i' type='' inf='' lang='B, Ass' gloss='fatten; become thick' />
+    <verb root='0kbc' class='?-?' type='' inf='' lang='B' gloss='put headgear on' />
+    <verb root='0kbc' class='a-u' type='' inf='' lang='B' gloss='step, tread (on)' />
+    <verb root='0kbs' class='a-u' type='' inf='' lang='B, Ass' gloss='step, tread (on)' />
+    <verb root='0kbS' class='i-i' type='' inf='' lang='B' gloss='bend back, distort' />
+    <verb root='0kbt' class='i-i' type='' inf='' lang='B, Ass' gloss='be(come) heavy, burdensome' />
+    <verb root='0kdd' class='a-u' type='' inf='' lang='B' gloss='rub' />
+    <verb root='0kdn' class='d-d' type='' inf='' lang='B' gloss='seek sanctuary' />
+    <verb root='0kdp' class='?-?' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0kdr' class='?-?' type='' inf='' lang='NA' gloss='labour' />
+    <verb root='0kdr' class='i-i' type='' inf='' lang='B, Ass' gloss='I rear up; (S) stir up, incite; be arrogant, wild; II delimit; III toil' />
+    <verb root='0klx' class='a-a' type='' inf='' lang='B, Ass' gloss='hold back; retain; stop' />
+    <verb root='0klx' class='d-d' type='' inf='' lang='Ass' gloss='hold, take for; keep' />
+    <verb root='0kll' class='d-d' type='' inf='' lang='B, Ass' gloss='veil, crown' />
+    <verb root='0klm' class='d-d' type='' inf='' lang='B, Ass' gloss='show, display; (DR) reveal' />
+    <verb root='0klS' class='i-i' type='' inf='' lang='B, Ass' gloss='contract, roll up' />
+    <verb root='0kmx' class='i-i' type='' inf='' lang='B, Ass' gloss='bind (enemy land)' />
+    <verb root='0kmx' class='u-u' type='' inf='' lang='B' gloss='bind (enemy land)' />
+    <verb root='0kmd' class='?-?' type='' inf='' lang='B' gloss='beat cloth' />
+    <verb root='0kmd' class='a-u' type='' inf='' lang='Ass' gloss='knit' />
+    <verb root='0kml' class='i-i' type='' inf='' lang='B' gloss='be(come) angry' />
+    <verb root='0kmm' class='?-?' type='' inf='' lang='B' gloss='stand up' />
+    <verb root='0kmm' class='a-u' type='' inf='' lang='B, Ass' gloss='nod the head' />
+    <verb root='0kmr' class='a-u' type='' inf='' lang='B' gloss='heap, pile up, accumulate' />
+    <verb root='0kmr' class='i-i' type='' inf='' lang='Ass' gloss='heap, pile up, accumulate' />
+    <verb root='0kmS' class='i-i' type='' inf='' lang='Ass' gloss='I contract, shrink; II crouch, kneel, squat' />
+    <verb root='0kmc' class='i-i' type='' inf='' lang='B' gloss='bow' />
+    <verb root='0kmS' class='i-i' type='' inf='' lang='B' gloss='I gather together; store; II bow' />
+    <verb root='0kms' class='i-i' type='' inf='' lang='B, Ass' gloss='I gather together; store; II bow' />
+    <verb root='0knx' class='?-?' type='' inf='' lang='B' gloss='dress up; care; (D) treat kindly' />
+    <verb root='0knx' class='d-d' type='' inf='' lang='Ass' gloss='make up, spruce up' />
+    <verb root='0knx' class='d-d' type='' inf='' lang='Ass' gloss='treat kindly, treat' />
+    <verb root='0knb' class='d-d' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0knk' class='a-u' type='' inf='' lang='B, Ass' gloss='seal' />
+    <verb root='0knn' class='a-u' type='' inf='' lang='B, Ass' gloss='roll up; coil' />
+    <verb root='0knp' class='d-d' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0knc' class='d-d' type='' inf='' lang='Ass' gloss='gather, collect' />
+    <verb root='0knc' class='i-i' type='' inf='' lang='B' gloss='humble oneself, submit, bow' />
+    <verb root='0knc' class='u-u' type='' inf='' lang='B, Ass' gloss='humble oneself, submit, bow' />
+    <verb root='0knz' class='?-?' type='' inf='' lang='B' gloss='store away' />
+    <verb root='0kpx' class='?-?' type='ea' inf='' lang='B, Ass' gloss='bend back; be curved' />
+    <verb root='0kpd' class='i-i' type='' inf='' lang='B' gloss='plan, scheme, arrange' />
+    <verb root='0kpd' class='u-u' type='' inf='' lang='Ass, B' gloss='plan, project, scheme' />
+    <verb root='0kpl' class='i-i' type='' inf='' lang='B, Ass' gloss='wind up; roll up (reed mat)' />
+    <verb root='0kpp' class='?-?' type='' inf='' lang='Ass' gloss='bend, curve, bow; subdue' />
+    <verb root='0kpp' class='a-u' type='' inf='' lang='B' gloss='curve, twist' />
+    <verb root='0kpr' class='a-u' type='' inf='' lang='B, Ass' gloss='I strip; II wipe off; III smear' />
+    <verb root='0kpc' class='?-?' type='' inf='' lang='B' gloss='be abundant' />
+    <verb root='0kps' class='i-i' type='' inf='' lang='B' gloss='bend back, distort' />
+    <verb root='0kpS' class='i-i' type='' inf='' lang='B, Ass' gloss='bend back, distort, be curled' />
+    <verb root='0kpt' class='a-u' type='' inf='' lang='Ass' gloss='accrue(?); accede' />
+    <verb root='0kpt' class='u-u' type='' inf='' lang='NA' gloss='plan, scheme, arrange' />
+    <verb root='0krx' class='?-?' type='' inf='' lang='B' gloss='bow down' />
+    <verb root='0krx' class='d-d' type='' inf='' lang='Ass' gloss='deplore' />
+    <verb root='0krx' class='i-i' type='' inf='' lang='B' gloss='become short' />
+    <verb root='0krx' class='u-u' type='' inf='' lang='Ass' gloss='be short, draw in' />
+    <verb root='0krx' class='u-u' type='' inf='' lang='B' gloss='become short' />
+    <verb root='0krb' class='a-u' type='' inf='' lang='B, Ass' gloss='bless, pray, dedicate, greet' />
+    <verb root='0krk' class='i-i' type='' inf='' lang='B, Ass' gloss='collect; (N) wound up of intestines' />
+    <verb root='0krm' class='i-i' type='ae' inf='' lang='B, Ass' gloss='I hinder, restrain, delay; II grasp; stock up, store' />
+    <verb root='0krr' class='a-u' type='' inf='' lang='B, Ass' gloss='put down; drop; discard' />
+    <verb root='0krs' class='?-?' type='' inf='' lang='Ass' gloss='be cold, cool' />
+    <verb root='0krs' class='?-?' type='' inf='' lang='B' gloss='tie up' />
+    <verb root='0krS' class='a-u' type='' inf='' lang='B' gloss='pinch off, break off, gnaw bone' />
+    <verb root='0krS' class='i-i' type='' inf='' lang='Ass, B' gloss='pinch off, break off, gnaw bone' />
+    <verb root='0krT' class='?-?' type='' inf='' lang='B' gloss='(~medical condition); (N) be merciful' />
+    <verb root='0krt' class='i-i' type='' inf='' lang='B, Ass' gloss='slice, break off, cut off' />
+    <verb root='0kSx' class='?-?' type='' inf='' lang='Ass' gloss='be cool, cold, chilly; (D)' />
+    <verb root='0kcx' class='d-d' type='' inf='' lang='Ass' gloss='expand' />
+    <verb root='0kSx' class='d-d' type='' inf='' lang='Ass' gloss='tilt' />
+    <verb root='0kSx' class='i-i' type='' inf='' lang='B' gloss='be(come) cold; (Gtn) have continually low temperature' />
+    <verb root='0kcx' class='i-i' type='' inf='' lang='B' gloss='I increase; (D) make profit; II cover over (N) be mistreated' />
+    <verb root='0ksx' class='i-i' type='' inf='' lang='B, Ass' gloss='bind; enfold; (D ~ G)' />
+    <verb root='0ksx' class='u-u' type='' inf='' lang='B' gloss='bind' />
+    <verb root='0kSb' class='a-u' type='' inf='' lang='B, Ass' gloss='reduce' />
+    <verb root='0kSd' class='?-?' type='' inf='' lang='B' gloss='seize hold' />
+    <verb root='0kcd' class='a-u' type='' inf='' lang='B, Ass' gloss='reach, arrive, conquer' />
+    <verb root='0kch' class='i-i' type='' inf='' lang='B' gloss='need, require; desire; like' />
+    <verb root='0ksm' class='a-u' type='' inf='' lang='Ass' gloss='chop up, chip, mince' />
+    <verb root='0ksm' class='a-u' type='' inf='' lang='B' gloss='chop' />
+    <verb root='0ksm' class='i-i' type='' inf='' lang='B' gloss='chop' />
+    <verb root='0ksp' class='a-u' type='' inf='' lang='B, Ass' gloss='break into bits' />
+    <verb root='0ksp' class='i-i' type='' inf='' lang='B' gloss='make funerary offering' />
+    <verb root='0kSp' class='i-i' type='' inf='' lang='B, Ass' gloss='reckon, think; calculate; estimate' />
+    <verb root='0kcp' class='i-i' type='' inf='' lang='B, Ass' gloss='cast spell, bewitch, enchant' />
+    <verb root='0kcr' class='a-u' type='' inf='' lang='B' gloss='restore, have success' />
+    <verb root='0kSr' class='a-u' type='' inf='' lang='B, Ass' gloss='knot, fasten, join (together); organize' />
+    <verb root='0kSr' class='i-i' type='' inf='' lang='B' gloss='knot, fasten, join (together)' />
+    <verb root='0ksr' class='i-i' type='ae' inf='' lang='B, Ass' gloss='block; pave with bitumen or stone' />
+    <verb root='0kcr' class='i-i' type='ae' inf='' lang='B, Ass' gloss='restore, have success' />
+    <verb root='0kss' class='a-u' type='' inf='' lang='Ass' gloss='chew, gnaw; encroach' />
+    <verb root='0kSS' class='a-u' type='' inf='' lang='Ass' gloss='cut short, trim, clip' />
+    <verb root='0kSS' class='a-u' type='' inf='' lang='B' gloss='I shear (sheep and goats); II chew, gnaw (of fire, pain)' />
+    <verb root='0kss' class='a-u' type='' inf='' lang='B' gloss='chew, gnaw; (D) cause pain' />
+    <verb root='0kcc' class='a-u' type='' inf='' lang='B, Ass' gloss='gain control; (D) make acquisition' />
+    <verb root='0kcc' class='i-i' type='' inf='' lang='B' gloss='gain control; (D) make acquisition' />
+    <verb root='0kss' class='u-u' type='' inf='' lang='B' gloss='chew, gnaw; (D) cause pain' />
+    <verb root='0kST' class='i-i' type='' inf='' lang='Ass' gloss='cut down, cut off, chop' />
+    <verb root='0kcT' class='i-i' type='' inf='' lang='B' gloss='chop down' />
+    <verb root='0ktx' class='a-a' type='' inf='' lang='OA' gloss='distrain' />
+    <verb root='0ktm' class='a-u' type='' inf='' lang='B, Ass' gloss='clothe, cover' />
+    <verb root='0kTp' class='a-u' type='' inf='' lang='Mari' gloss='pluck; pick off (fruit); enjoy sexual charms' />
+    <verb root='0ktr' class='i-i' type='' inf='' lang='Ass' gloss='wait, hesitate' />
+    <verb root='0ktr' class='i-i' type='' inf='' lang='B, Ass' gloss='help, aid, assist; get as' />
+    <verb root='0ktt' class='?-?' type='' inf='' lang='B' gloss='quiver, vibrate; shake' />
+    <verb root='0ktt' class='u-u' type='' inf='' lang='Ass' gloss='quiver, ripple, vibrate' />
+    <verb root='0kwx' class='?-?' type='' inf='' lang='B' gloss='burn; roast; bake' />
+    <verb root='0kzb' class='?-?' type='' inf='' lang='B' gloss='be attractive' />
+    <verb root='0kzb' class='i-i' type='' inf='' lang='Am' gloss='tell lies' />
+    <verb root='0kzb' class='i-i' type='' inf='' lang='Ass' gloss='be charming, be attractive' />
+    <verb root='0kzr' class='i-i' type='ea' inf='' lang='B, Ass' gloss='give a treatment on hair; curl; coiffure; dress' />
+    <verb root='0kzz' class='a-u' type='' inf='' lang='?' gloss='shear (sheep and goats)' />
+    <verb root='0lxx' class='d-d' type='luXXU' inf='' lang='Ass' gloss='defile, dirty, pollute' />
+    <verb root='0lxx' class='i-i' type='' inf='laXU' lang='B, Ass' gloss='master; win; be able, be capable; overcome' />
+    <verb root='0lxb' class='i-i' type='' inf='' lang='B' gloss='harass demons; infect illness' />
+    <verb root='0lxd' class='u-u' type='' inf='' lang='B, Ass' gloss='bend down, come shame' />
+    <verb root='0lxk' class='?-?' type='ea' inf='' lang='B, Ass' gloss='lick up' />
+    <verb root='0lxm' class='?-?' type='' inf='liaamu' lang='Ass' gloss='taste' />
+    <verb root='0lxm' class='d-d' type='' inf='' lang='OB' gloss='dissolve' />
+    <verb root='0lxm' class='e-e' type='e' inf='' lang='OAkk, NA' gloss='consume' />
+    <verb root='0lxm' class='u-u' type='' inf='luaamum' lang='OAss' gloss='harangue' />
+    <verb root='0lxp' class='?-?' type='' inf='' lang='B, Ass' gloss='(meaning unknown); II wrap in cloth' />
+    <verb root='0lxc' class='?-?' type='' inf='' lang='Ass' gloss='lick' />
+    <verb root='0lxc' class='?-?' type='' inf='' lang='B' gloss='defile' />
+    <verb root='0lxc' class='?-?' type='' inf='luaacu' lang='Ass' gloss='knead' />
+    <verb root='0lxc' class='u-u' type='' inf='' lang='B' gloss='knead' />
+    <verb root='0lxt' class='u-u' type='' inf='' lang='?' gloss='swallow up' />
+    <verb root='0lxT' class='u-u' type='' inf='' lang='B, Ass' gloss='confine; enclose; keep in check' />
+    <verb root='0lxt' class='u-u' type='' inf='laXaatu' lang='Ass' gloss='absorb, gobble, gulp' />
+    <verb root='0lxz' class='a-a' type='' inf='laXaazu' lang='Ass' gloss='lisp, chant' />
+    <verb root='0lbx' class='i-i' type='' inf='' lang='Ass' gloss='surround, besiege; circumvent, go around' />
+    <verb root='0lbx' class='i-i' type='e' inf='' lang='B' gloss='howl, cry, squeal' />
+    <verb root='0lbx' class='u-u' type='' inf='' lang='B, Ass' gloss='baa, howl, cry, squeal, bellow, bleat, hiss' />
+    <verb root='0lbb' class='a-u' type='' inf='' lang='B, Ass' gloss='rage; be(come) furious; (S) cause fever' />
+    <verb root='0lbk' class='i-i' type='' inf='' lang='B, Ass' gloss='be(come) soft' />
+    <verb root='0lbn' class='i-i' type='' inf='' lang='Ass' gloss='stroke (the nose)' />
+    <verb root='0lbn' class='i-i' type='ae' inf='' lang='B, Ass' gloss='I throw down, II make bricks' />
+    <verb root='0lbr' class='i-i' type='' inf='' lang='B, Ass' gloss='become old, long lasting' />
+    <verb root='0lbc' class='a-a' type='' inf='' lang='B' gloss='clothe (oneself), wear' />
+    <verb root='0lbc' class='i-i' type='' inf='' lang='B, Ass' gloss='clothe (oneself), wear' />
+    <verb root='0lbt' class='a-u' type='' inf='' lang='B' gloss='touch, grasp, afflict; write down; smear' />
+    <verb root='0lgg' class='?-?' type='' inf='' lang='B' gloss='cry out' />
+    <verb root='0lhb' class='i-i' type='ae' inf='' lang='B' gloss='rumble; growl (of stomach)' />
+    <verb root='0lhd' class='?-?' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0lhm' class='i-i' type='e' inf='' lang='B, Ass' gloss='consume food or drink' />
+    <verb root='0lhc' class='u-u' type='' inf='' lang='Ass' gloss='whisper, murmur; intimate' />
+    <verb root='0lht' class='?-?' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0lhT' class='?-?' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0lkx' class='i-i' type='' inf='' lang='OA, OB' gloss='be(come) weak' />
+    <verb root='0lkx' class='i-i' type='e' inf='' lang='OB' gloss='go' />
+    <verb root='0lkd' class='i-i' type='' inf='' lang='B' gloss='run' />
+    <verb root='0lkk' class='d-d' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0lks' class='d-d' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0lkS' class='d-d' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0llx' class='?-?' type='' inf='' lang='B' gloss='bind' />
+    <verb root='0llx' class='d-d' type='' inf='' lang='Ass' gloss='give pleasure, fondle; provide with charm' />
+    <verb root='0lmx' class='i-i' type='' inf='' lang='B' gloss='surround, besiege' />
+    <verb root='0lmd' class='a-a' type='' inf='' lang='B, Ass' gloss='learn, know, find out' />
+    <verb root='0lmm' class='?-?' type='' inf='' lang='MB, NA' gloss='test (in glass manufacture)' />
+    <verb root='0lmm' class='a-u' type='' inf='' lang='B, Ass' gloss='chew, munch' />
+    <verb root='0lmn' class='i-i' type='' inf='' lang='B, Ass' gloss='be(come) bad, evil' />
+    <verb root='0lmn' class='i-i' type='e' inf='' lang='B' gloss='be(come) bad, evil' />
+    <verb root='0lmS' class='d-d' type='' inf='' lang='OB' gloss='(action regarding eyes)' />
+    <verb root='0lpn' class='i-i' type='' inf='' lang='B, Ass' gloss='be poor; (D) impoverish' />
+    <verb root='0lpp' class='?-?' type='' inf='' lang='B' gloss='wrap around' />
+    <verb root='0lpp' class='a-u' type='' inf='' lang='Ass' gloss='wrap; (D) compile' />
+    <verb root='0lpt' class='a-u' type='' inf='' lang='B, Ass' gloss='touch, strike, affect, afflict; write down; smear' />
+    <verb root='0lqx' class='e-e' type='ea' inf='' lang='OAss' gloss='I take, receive, accept; II go' />
+    <verb root='0lqx' class='i-i' type='' inf='' lang='Ass' gloss='I take, receive, accept; II go' />
+    <verb root='0lqh' class='?-?' type='' inf='' lang='Am' gloss='take' />
+    <verb root='0lqt' class='a-u' type='' inf='' lang='B' gloss='gather up; glean; collect; (N) be taken away by force' />
+    <verb root='0lqt' class='u-u' type='' inf='' lang='Ass' gloss='gather up; glean; collect; (N) be taken away by force' />
+    <verb root='0lrx' class='?-?' type='' inf='' lang='Ass' gloss='branch off, ramify' />
+    <verb root='0lsm' class='u-u' type='' inf='' lang='B, Ass' gloss='run, race, gallop' />
+    <verb root='0ltx' class='e-e' type='ea' inf='' lang='B' gloss='split; shatter' />
+    <verb root='0ltx' class='i-i' type='' inf='' lang='Ass' gloss='split; (D) shatter' />
+    <verb root='0ltk' class='a-u' type='' inf='' lang='B, Ass' gloss='test (food, drink); question hypothesis or opininon' />
+    <verb root='0lwx' class='i-i' type='' inf='' lang='OA, OAss, B' gloss='surround, besiege' />
+    <verb root='0lzx' class='u-u' type='' inf='' lang='B' gloss='continue' />
+    <verb root='0lzn' class='i-i' type='ae' inf='' lang='Ass, B' gloss='I banter, deride, flout; ridicule' />
+    <verb root='0lzz' class='a-a' type='' inf='' lang='Ass, B' gloss='continue, go on; endure' />
+    <verb root='0mxx' class='?-?' type='' inf='maxU' lang='B, NA' gloss='push away' />
+    <verb root='0mxx' class='?-?' type='' inf='muaaxUm' lang='OAss' gloss='not to want' />
+    <verb root='0mxx' class='a-a' type='' inf='maxUm' lang='OB' gloss='vomit (bile)' />
+    <verb root='0mxx' class='a-a' type='' inf='mAXu' lang='Ass' gloss='vomit (bile)' />
+    <verb root='0mxd' class='i-i' type='' inf='maXaadu' lang='B, Ass' gloss='be much, become many' />
+    <verb root='0mxh' class='?-?' type='' inf='' lang='OB' gloss='depart' />
+    <verb root='0mxn' class='?-?' type='' inf='' lang='B, Ass' gloss='nourish, support' />
+    <verb root='0mxn' class='d-d' type='' inf='maXXunu' lang='Ass' gloss='nourish, support' />
+    <verb root='0mxn' class='u-u' type='' inf='' lang='Ass' gloss='provide' />
+    <verb root='0mxq' class='?-?' type='' inf='muaaQu' lang='Ass' gloss='miss(?); boo' />
+    <verb root='0mxq' class='d-d' type='' inf='' lang='B' gloss='tire; be(come) weary' />
+    <verb root='0mxr' class='a-a' type='' inf='' lang='B' gloss='go, march; (D) instruct' />
+    <verb root='0mxr' class='a-i' type='' inf='miaaru' lang='Ass' gloss='buy, deal in; shop' />
+    <verb root='0mxr' class='d-d' type='' inf='muXXuru' lang='Ass' gloss='send, guide' />
+    <verb root='0mxr' class='i-i' type='' inf='' lang='B, Ass' gloss='buy' />
+    <verb root='0mxs' class='?-?' type='' inf='' lang='Ass' gloss='destroy, crush' />
+    <verb root='0mxc' class='?-?' type='' inf='muaacu' lang='Ass' gloss='feel, grope (about)' />
+    <verb root='0mxS' class='?-?' type='' inf='muaaSu' lang='B, Ass' gloss='I churn; II be(come) insufficient, little' />
+    <verb root='0mxc' class='?-?' type='e' inf='' lang='B, Ass' gloss='disregard; neglect; hurl down; check; spurt, scorn' />
+    <verb root='0mxS' class='i-i' type='' inf='' lang='Ass' gloss='be too little, insufficient' />
+    <verb root='0mxt' class='?-?' type='' inf='muaatu' lang='Ass' gloss='die; (S) cause death; execute' />
+    <verb root='0mxt' class='u-u' type='' inf='' lang='B, Ass, OAkk' gloss='die; (S) cause death; execute' />
+    <verb root='0mxz' class='?-?' type='' inf='' lang='B' gloss='refuse (to do something)' />
+    <verb root='0mdx' class='?-?' type='ae' inf='' lang='B, Ass' gloss='become visible' />
+    <verb root='0mdx' class='d-d' type='' inf='' lang='Ass' gloss='notify(?)' />
+    <verb root='0mdd' class='a-u' type='' inf='' lang='B, Ass' gloss='measure, survey; (D ~ G)' />
+    <verb root='0mdd' class='i-i' type='' inf='' lang='B' gloss='escape' />
+    <verb root='0mdl' class='i-i' type='' inf='' lang='Ass' gloss='preserve (food) in salt' />
+    <verb root='0mdr' class='i-i' type='' inf='' lang='OB' gloss='(condition of eyes)' />
+    <verb root='0mgd' class='a-u' type='' inf='' lang='Ass' gloss='pick fruit' />
+    <verb root='0mgg' class='a-u' type='' inf='' lang='B, Ass' gloss='be(come) rigid, protrude; spread; have cramps; have an erection' />
+    <verb root='0mgg' class='u-u' type='' inf='' lang='Ass' gloss='be(come) rigid, protrude; spread; have cramps; have an erection' />
+    <verb root='0mgr' class='a-u' type='' inf='' lang='OB, B, OAss' gloss='be in agreement, reach an agreement' />
+    <verb root='0mgr' class='d-d' type='' inf='' lang='Ass' gloss='tear down; destroy' />
+    <verb root='0mgr' class='u-u' type='' inf='' lang='B, Ass' gloss='be in agreement, reach an agreement' />
+    <verb root='0mgc' class='d-d' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0mhx' class='i-i' type='' inf='' lang='B, Ass' gloss='go in trance; rave; frenzy; (D) craze' />
+    <verb root='0mhx' class='u-u' type='' inf='' lang='OB' gloss='go in trance; rave; frenzy; (D) craze' />
+    <verb root='0mhh' class='a-u' type='' inf='' lang='B, Ass' gloss='dissolve in liquid; soak' />
+    <verb root='0mhl' class='?-?' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0mhr' class='a-u' type='' inf='' lang='B, Ass' gloss='receive, face, oppose, confront; accept; welcome' />
+    <verb root='0mhS' class='a-a' type='' inf='' lang='B, Ass' gloss='beat, punch, flick, hit; knock' />
+    <verb root='0mhS' class='i-i' type='' inf='' lang='Ass' gloss='weave' />
+    <verb root='0mkx' class='?-?' type='' inf='' lang='Ass' gloss='be weak' />
+    <verb root='0mkx' class='?-?' type='' inf='' lang='B' gloss='I be absent; II spy' />
+    <verb root='0mkx' class='i-i' type='' inf='' lang='B, Ass' gloss='be lazy, be negligent' />
+    <verb root='0mkk' class='a-u' type='' inf='' lang='B, Ass' gloss='extend; expand' />
+    <verb root='0mkl' class='?-?' type='e' inf='' lang='OB, NA' gloss='(meaning unknown)' />
+    <verb root='0mkr' class='?-?' type='ae' inf='' lang='Ass, B' gloss='do business; (D) buy' />
+    <verb root='0mkr' class='a-u' type='ae' inf='' lang='OB' gloss='irrigate' />
+    <verb root='0mkr' class='i-i' type='ae' inf='' lang='B, Ass' gloss='irrigate' />
+    <verb root='0mkc' class='?-?' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0mks' class='i-i' type='' inf='' lang='OB, Ass' gloss='levy customs; collect taxes' />
+    <verb root='0mks' class='u-u' type='' inf='' lang='OB' gloss='levy customs; collect taxes' />
+    <verb root='0mlx' class='a-a' type='' inf='' lang='Ass, B' gloss='become full' />
+    <verb root='0mld' class='a-i' type='' inf='' lang='NB' gloss='give birth, bear, beget, fashion' />
+    <verb root='0mlh' class='a-u' type='' inf='' lang='B, Ass' gloss='tear out; (D) reduce' />
+    <verb root='0mlk' class='i-i' type='' inf='' lang='B, Ass' gloss='plan, take counsel; propose' />
+    <verb root='0mll' class='?-?' type='IRREGULAR' inf='meelulu' lang='B, Ass' gloss='play' />
+    <verb root='0mll' class='a-u' type='' inf='' lang='B, Ass' gloss='pillage; consume; loot; eat clean' />
+    <verb root='0mls' class='a-u' type='' inf='' lang='B' gloss='pluck out' />
+    <verb root='0mlc' class='a-u' type='' inf='' lang='B' gloss='pluck out' />
+    <verb root='0mls' class='i-i' type='' inf='' lang='B' gloss='pluck out' />
+    <verb root='0mlc' class='i-i' type='' inf='' lang='B' gloss='pluck out' />
+    <verb root='0mlt' class='?-?' type='' inf='' lang='B' gloss='(action regarding entrails)' />
+    <verb root='0mnx' class='i-i' type='' inf='' lang='B' gloss='count' />
+    <verb root='0mnx' class='u-u' type='' inf='' lang='Ass' gloss='count, calculate, reckon' />
+    <verb root='0mqx' class='d-d' type='' inf='' lang='Ass' gloss='be weary, be slow' />
+    <verb root='0mqq' class='a-u' type='' inf='' lang='Ass, B' gloss='protrude; spread; have cramps; have an erection' />
+    <verb root='0mqr' class='i-i' type='' inf='' lang='NB' gloss='become rare, scarce, expensive' />
+    <verb root='0mqt' class='u-u' type='' inf='' lang='B, Ass' gloss='fall off; desert' />
+    <verb root='0mrx' class='?-?' type='' inf='' lang='Mari' gloss='examine' />
+    <verb root='0mrx' class='d-d' type='' inf='' lang='Ass' gloss='interrupt' />
+    <verb root='0mrx' class='i-i' type='' inf='' lang='B, Ass' gloss='flatten; do slowly; delay' />
+    <verb root='0mrx' class='u-u' type='' inf='' lang='Ass' gloss='be fat; do slowly, be' />
+    <verb root='0mrd' class='?-?' type='' inf='' lang='Ass' gloss='(N) suffer damage' />
+    <verb root='0mrh' class='?-?' type='' inf='' lang='B' gloss='allow (something) to spoil' />
+    <verb root='0mrq' class='a-u' type='' inf='' lang='B, Ass' gloss='grind; rub; pulverize' />
+    <verb root='0mrr' class='d-d' type='' inf='' lang='Ass' gloss='check, examine' />
+    <verb root='0mrr' class='i-i' type='' inf='' lang='B, Ass' gloss='be(come) bitter, sour' />
+    <verb root='0mrc' class='?-?' type='' inf='' lang='B' gloss='be(come) dirty' />
+    <verb root='0mrS' class='a-a' type='' inf='' lang='Ass' gloss='become ill, become sick, become' />
+    <verb root='0mrs' class='a-u' type='' inf='' lang='B, Ass' gloss='mash; mix; bruise' />
+    <verb root='0mrs' class='i-i' type='' inf='' lang='B, Ass' gloss='crush' />
+    <verb root='0mrS' class='u-u' type='' inf='' lang='B, Ass' gloss='become ill, become sick, become' />
+    <verb root='0mrT' class='a-u' type='' inf='' lang='B, Ass' gloss='scratch, scrape; rub' />
+    <verb root='0mcx' class='?-?' type='' inf='' lang='Ass' gloss='rub, massage' />
+    <verb root='0mcx' class='a-u' type='' inf='' lang='Ass' gloss='plunder, rob; abduct' />
+    <verb root='0msx' class='d-d' type='' inf='' lang='Ass' gloss='find out' />
+    <verb root='0mcx' class='d-d' type='' inf='' lang='Ass' gloss='find out' />
+    <verb root='0mSx' class='d-d' type='' inf='' lang='SB' gloss='spread out; remove; open wide' />
+    <verb root='0mcx' class='i-i' type='' inf='' lang='B, Ass' gloss='forget' />
+    <verb root='0msx' class='i-i' type='' inf='' lang='B, Ass' gloss='wash' />
+    <verb root='0mSx' class='i-i' type='' inf='' lang='OAkk, Ass' gloss='match; correspond; be sufficient; (D) provide' />
+    <verb root='0mcd' class='a-u' type='' inf='' lang='OAss' gloss='beat cloth, wool; strike with disease' />
+    <verb root='0mcd' class='i-i' type='' inf='' lang='B, Ass' gloss='beat cloth, wool; strike with disease; comb (out)' />
+    <verb root='0msh' class='?-?' type='' inf='' lang='OAss' gloss='treat with contempt' />
+    <verb root='0mch' class='a-u' type='' inf='' lang='Ass' gloss='shine; glow, flare up' />
+    <verb root='0mch' class='a-u' type='' inf='' lang='B, Ass' gloss='measure; count' />
+    <verb root='0msh' class='d-d' type='' inf='' lang='Ass' gloss='treat badly, treat' />
+    <verb root='0mch' class='u-u' type='' inf='' lang='B' gloss='shine; glow, flare up' />
+    <verb root='0mck' class='?-?' type='' inf='' lang='Ass, B' gloss='worsen; be(come) bad' />
+    <verb root='0msk' class='?-?' type='' inf='' lang='Ass, B' gloss='worsen; be(come) bad, ugly, rotten' />
+    <verb root='0mSl' class='?-?' type='' inf='cumSulu' lang='B' gloss='spend a day resting' />
+    <verb root='0mcl' class='a-a' type='' inf='' lang='B' gloss='be(come) equal; copy' />
+    <verb root='0mcl' class='i-i' type='e' inf='' lang='MB' gloss='be(come) equal; copy' />
+    <verb root='0mcl' class='u-u' type='' inf='' lang='B, Ass' gloss='be(come) equal; copy' />
+    <verb root='0mSr' class='a-u' type='' inf='' lang='Ass' gloss='circle, enclose; (D)' />
+    <verb root='0mcr' class='a-u' type='' inf='' lang='Ass, B' gloss='drag across (garments); delay' />
+    <verb root='0msr' class='a-u' type='' inf='' lang='B, Ass' gloss='I obstruct; II stride about; limit' />
+    <verb root='0mSr' class='a-u' type='' inf='' lang='B, Ass' gloss='I obstruct; II stride about; limit' />
+    <verb root='0mcc' class='a-u' type='' inf='' lang='OB' gloss='wipe off; clean' />
+    <verb root='0mSS' class='d-d' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0mTx' class='?-?' type='' inf='' lang='Ass' gloss='lessen, diminish, decrease' />
+    <verb root='0mTx' class='i-i' type='' inf='' lang='B' gloss='lessen, diminish, decrease' />
+    <verb root='0mth' class='a-u' type='' inf='' lang='B, Ass' gloss='lift; pick up; fetch' />
+    <verb root='0mtq' class='i-i' type='' inf='' lang='B, NA' gloss='be(come) sweet; (D) sweeten' />
+    <verb root='0mtr' class='?-?' type='' inf='' lang='B, Ass' gloss='be speckled(?); spot(?)' />
+    <verb root='0mtr' class='i-i' type='' inf='' lang='OB' gloss='be excessive; (D) enlarge' />
+    <verb root='0mzx' class='a-u' type='' inf='' lang='B' gloss='squeeze; (D) rape' />
+    <verb root='0mzx' class='i-i' type='' inf='mazaaXu' lang='Ass' gloss='squeeze; (D) rape(?)' />
+    <verb root='0mzq' class='a-u' type='' inf='' lang='B, Ass' gloss='suck; (D) suck out' />
+    <verb root='0mzr' class='?-?' type='' inf='' lang='OB, B' gloss='treat wool' />
+    <verb root='0mzr' class='a-u' type='' inf='' lang='B, Ass' gloss='I obstruct; II stride about; limit' />
+    <verb root='0mzz' class='d-d' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0nxx' class='?-?' type='' inf='nAXUm' lang='?' gloss='I belch; II (D) animate' />
+    <verb root='0nxx' class='e-e' type='e' inf='nEXum' lang='OAkk, B, Ass' gloss='turn back, turn away, deflect' />
+    <verb root='0nxd' class='a-a' type='' inf='' lang='B, Ass' gloss='praise, extol' />
+    <verb root='0nxd' class='i-i' type='' inf='' lang='B, Ass' gloss='pay attention to, be careful' />
+    <verb root='0nxh' class='a-u' type='' inf='' lang='B, Ass' gloss='be calm, be quiet; (D) pacify pain; anger' />
+    <verb root='0nxk' class='?-?' type='' inf='' lang='B' gloss='rape, ravish; have sexual intercourse; (S) permit intercourse' />
+    <verb root='0nxk' class='?-?' type='' inf='' lang='B, Ass' gloss='browse on(?)' />
+    <verb root='0nxk' class='a-i' type='' inf='' lang='Ass' gloss='rape, ravish; have sexual intercourse; commit adultery; (Gtn) have illicit sex repeatedly; (S) permit intercourse' />
+    <verb root='0nxl' class='?-?' type='' inf='' lang='B, Ass' gloss='lie down, sleep; (D) strike down' />
+    <verb root='0nxl' class='?-?' type='IRREGULAR' inf='ituulu' lang='B, Ass' gloss='lie down; sleep' />
+    <verb root='0nxl' class='i-i' type='' inf='naXaalum' lang='B, Ass' gloss='moisten' />
+    <verb root='0nxm' class='a-u' type='' inf='' lang='Ass' gloss='doze, doze off, drowse' />
+    <verb root='0nxm' class='i-i' type='' inf='naXaamum' lang='B' gloss='advance bravely' />
+    <verb root='0nxp' class='?-?' type='' inf='' lang='B' gloss='I sway (of sky); II make additional payment' />
+    <verb root='0nxp' class='u-u' type='' inf='naXaapum' lang='B, Ass' gloss='be dry, wither' />
+    <verb root='0nxq' class='?-?' type='' inf='' lang='B, Ass' gloss='I cry, groan, wail, whimper; II go forth; run' />
+    <verb root='0nxq' class='a-u' type='' inf='' lang='Ass' gloss='cry, groan, wail, whimper' />
+    <verb root='0nxr' class='?-?' type='' inf='' lang='Ass' gloss='kill, assassinate, slay' />
+    <verb root='0nxr' class='a-a' type='ea' inf='' lang='B' gloss='kill, assassinate, slay' />
+    <verb root='0nxr' class='u-u' type='' inf='naXaarum' lang='B, Ass' gloss='roar, snarl' />
+    <verb root='0nxc' class='?-?' type='e' inf='' lang='OAkk, B' gloss='live, revive' />
+    <verb root='0nxS' class='a-a' type='' inf='' lang='B' gloss='despise; look down on' />
+    <verb root='0nxs' class='i-i' type='' inf='naXaasum' lang='B' gloss='chew up, gnaw (drugs)' />
+    <verb root='0nxc' class='i-i' type='' inf='naXaacum' lang='B, Ass' gloss='have difficulty breathing' />
+    <verb root='0nxc' class='u-a' type='' inf='' lang='Ass' gloss='quake, shake; lurch' />
+    <verb root='0nxc' class='u-u' type='' inf='' lang='B' gloss='quake, shake; lurch' />
+    <verb root='0nxt' class='?-?' type='e' inf='' lang='B' gloss='chop' />
+    <verb root='0nxT' class='a-a' type='' inf='' lang='B' gloss='have a bowel disorder' />
+    <verb root='0nxw' class='?-?' type='' inf='' lang='Ass' gloss='mew' />
+    <verb root='0nbx' class='?-?' type='' inf='' lang='Ass' gloss='shine, glare, be brilliant' />
+    <verb root='0nbx' class='i-i' type='' inf='' lang='B, Ass' gloss='call; name, nominate' />
+    <verb root='0nbx' class='u-u' type='' inf='nabaaXum' lang='B, Ass' gloss='rise, swell up' />
+    <verb root='0nbb' class='u-u' type='' inf='' lang='Ass, B' gloss='pipe, play the flute' />
+    <verb root='0nbh' class='u-u' type='' inf='' lang='Ass, B' gloss='bark (of dog, demon), yelp; (D ~ G)' />
+    <verb root='0nbk' class='a-u' type='' inf='' lang='B' gloss='bring in' />
+    <verb root='0nbk' class='i-i' type='' inf='' lang='B' gloss='bring in' />
+    <verb root='0nbl' class='a-u' type='' inf='' lang='B' gloss='destroy' />
+    <verb root='0nbq' class='a-u' type='' inf='' lang='B' gloss='bring in' />
+    <verb root='0nbq' class='i-i' type='' inf='' lang='B' gloss='bring in' />
+    <verb root='0nbT' class='u-u' type='' inf='' lang='Ass, B' gloss='shine; (S) make' />
+    <verb root='0nbz' class='u-u' type='' inf='' lang='OB' gloss='bleat' />
+    <verb root='0ndx' class='i-i' type='' inf='' lang='B, Ass' gloss='throw, lay down, throw down, drop' />
+    <verb root='0ndd' class='i-i' type='' inf='' lang='B, Ass' gloss='cede, give way(?)' />
+    <verb root='0ndk' class='?-?' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0ndn' class='i-i' type='' inf='' lang='B, Ass' gloss='give; (St) intermingle' />
+    <verb root='0ndq' class='?-?' type='' inf='' lang='B, Ass' gloss='tickle(?)' />
+    <verb root='0ndr' class='a-a' type='' inf='' lang='B, Ass' gloss='roar; growl; be furious, wild' />
+    <verb root='0ndc' class='?-?' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0ngx' class='i-i' type='' inf='' lang='B' gloss='sing joyfully, rejoice, be hilarious' />
+    <verb root='0ngx' class='u-u' type='' inf='' lang='B, Ass' gloss='sing joyfully, rejoice, be hilarious' />
+    <verb root='0ngb' class='?-?' type='' inf='' lang='Mari' gloss='store up' />
+    <verb root='0ngg' class='u-u' type='' inf='' lang='B, Ass' gloss='bray; neigh; whinny; bellow' />
+    <verb root='0ngl' class='?-?' type='' inf='' lang='B, Ass' gloss='glisten, glow' />
+    <verb root='0ngr' class='?-?' type='' inf='' lang='B, Ass' gloss='(G) (meaning unknown); (D) denounce' />
+    <verb root='0ngc' class='i-i' type='' inf='' lang='B, Ass' gloss='go; (Gtn) wander' />
+    <verb root='0ngc' class='u-u' type='' inf='' lang='B, Ass' gloss='go; (Gtn) wander' />
+    <verb root='0nhx' class='?-?' type='ae' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0nhl' class='a-u' type='' inf='' lang='B, Ass' gloss='sieve, sift' />
+    <verb root='0nhl' class='i-i' type='' inf='' lang='OB, Mari' gloss='transfer property' />
+    <verb root='0nhr' class='?-?' type='' inf='' lang='B, Ass' gloss='be shrivelled, withered' />
+    <verb root='0nhr' class='u-u' type='' inf='' lang='B, Ass' gloss='hoot, snore, snort' />
+    <verb root='0nhS' class='d-d' type='' inf='' lang='B' gloss='shake' />
+    <verb root='0nhs' class='i-i' type='' inf='' lang='Ass' gloss='snivel, sniffle, sob' />
+    <verb root='0nhs' class='i-i' type='' inf='' lang='Ass' gloss='withdraw, recede' />
+    <verb root='0nhc' class='i-i' type='' inf='' lang='B, Ass' gloss='prosper, thrive; be(come) luxuriant; (D) grant health' />
+    <verb root='0nhs' class='i-i' type='ae' inf='' lang='B, Ass' gloss='recede, return' />
+    <verb root='0nht' class='?-?' type='' inf='' lang='B, Ass' gloss='be(come) diminished, small; (D) reduce; castrate' />
+    <verb root='0nht' class='d-d' type='' inf='' lang='B' gloss='struck; cut off' />
+    <verb root='0nhT' class='d-d' type='' inf='' lang='B, Ass' gloss='(have a) hiccup, sob' />
+    <verb root='0nkd' class='u-u' type='' inf='' lang='B, Ass' gloss='beat (of the heart), become disturbed; palpitate' />
+    <verb root='0nkl' class='i-i' type='' inf='' lang='B, Ass' gloss='be artful, clever; be dexterous' />
+    <verb root='0nkm' class='a-u' type='' inf='' lang='Ass' gloss='stock, heap up, pile' />
+    <verb root='0nkm' class='i-i' type='' inf='' lang='B, Ass' gloss='stock, heap up, pile' />
+    <verb root='0nkp' class='i-i' type='' inf='' lang='B, Ass' gloss='push, thrust; butt; (D) knock down' />
+    <verb root='0nkr' class='i-i' type='' inf='' lang='B, Ass' gloss='be(come) different, strange; become hostile' />
+    <verb root='0nkc' class='i-i' type='' inf='' lang='B, Ass' gloss='set aside' />
+    <verb root='0nks' class='i-i' type='' inf='' lang='B, Ass' gloss='cut off, fell; mutilate; qaqqadu ~ decapitate' />
+    <verb root='0nkt' class='a-u' type='' inf='' lang='Ass' gloss='nettle' />
+    <verb root='0nlc' class='u-u' type='' inf='' lang='B' gloss='(fall as) dew; (D) bedew' />
+    <verb root='0nmx' class='i-i' type='' inf='' lang='B, Ass' gloss='be desolated, abandoned; (D) lay waste' />
+    <verb root='0nmr' class='i-i' type='' inf='' lang='B, Ass' gloss='shine, be bright; (D) illuminate; (SD) gladden' />
+    <verb root='0nmc' class='u-u' type='' inf='' lang='B, Ass' gloss='be agile; move, move on; start out' />
+    <verb root='0npx' class='?-?' type='ea' inf='' lang='OB' gloss='distrain' />
+    <verb root='0npx' class='d-d' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0npx' class='i-i' type='' inf='' lang='B, Ass' gloss='sift, sieve' />
+    <verb root='0npd' class='?-?' type='' inf='' lang='B' gloss='separate' />
+    <verb root='0npg' class='?-?' type='' inf='' lang='B' gloss='disappear' />
+    <verb root='0nph' class='a-u' type='' inf='' lang='B, Ass' gloss='blow, hiss, puff; ignite' />
+    <verb root='0npk' class='a-u' type='' inf='' lang='B' gloss='bring in' />
+    <verb root='0npk' class='i-i' type='' inf='' lang='B' gloss='bring in' />
+    <verb root='0npl' class='?-?' type='' inf='' lang='Am' gloss='fall' />
+    <verb root='0npl' class='a-u' type='' inf='' lang='B, Ass' gloss='I raze; dig out; demolish; II pay balance' />
+    <verb root='0npq' class='?-?' type='' inf='' lang='B, Ass' gloss='clog up; harden; be blocked' />
+    <verb root='0npq' class='a-u' type='' inf='' lang='B' gloss='bring in' />
+    <verb root='0npq' class='d-d' type='' inf='' lang='B' gloss='pay attention' />
+    <verb root='0npq' class='i-i' type='' inf='' lang='B' gloss='bring in' />
+    <verb root='0npr' class='?-?' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0npS' class='a-u' type='' inf='' lang='B, Ass' gloss='push away, push down' />
+    <verb root='0npc' class='a-u' type='' inf='' lang='B, Ass' gloss='comb, card, pluck' />
+    <verb root='0npc' class='u-u' type='' inf='' lang='B, Ass' gloss='become broad, spread (intrans.); breathe' />
+    <verb root='0npt' class='?-?' type='' inf='' lang='OB' gloss='look at(?)' />
+    <verb root='0nqx' class='i-i' type='' inf='' lang='Ass, B' gloss='pour out; make a libation, offer; sacrifice; shed' />
+    <verb root='0nqb' class='a-u' type='' inf='' lang='B, Ass' gloss='deflower; penetrate sexually' />
+    <verb root='0nqd' class='?-?' type='' inf='' lang='B, Ass' gloss='be in danger; (D) alert; be anxious' />
+    <verb root='0nqh' class='a-a' type='' inf='' lang='Ass' gloss='caw; croak; peck' />
+    <verb root='0nqp' class='a-a' type='' inf='' lang='Ass' gloss='cleave (to), haunt' />
+    <verb root='0nqr' class='a-u' type='' inf='' lang='Ass, B' gloss='destroy; scratch; dismantle; demolish' />
+    <verb root='0nrb' class='a-u' type='' inf='' lang='B, Ass' gloss='dissolve (intrans.); soften' />
+    <verb root='0nrT' class='u-u' type='' inf='' lang='B, Ass' gloss='quake, shake, tremble' />
+    <verb root='0ncx' class='?-?' type='e' inf='' lang='B, Ass' gloss='vomit (D ~ G)' />
+    <verb root='0nsx' class='e-e' type='ea' inf='' lang='B' gloss='go far, be distant' />
+    <verb root='0nsx' class='i-i' type='' inf='' lang='Ass' gloss='go far, be distant' />
+    <verb root='0nSx' class='i-i' type='' inf='' lang='Ass' gloss='strive(?); contend' />
+    <verb root='0ncx' class='i-i' type='' inf='' lang='B, Ass' gloss='lift, bear, carry, raise' />
+    <verb root='0nSb' class='?-?' type='' inf='' lang='B' gloss='place' />
+    <verb root='0nSb' class='a-u' type='' inf='' lang='B, Ass' gloss='suck (liquids), lick' />
+    <verb root='0ncb' class='d-d' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0nSb' class='u-u' type='' inf='' lang='Am' gloss='suck (liquids), lick' />
+    <verb root='0ncb' class='u-u' type='' inf='' lang='Ass' gloss='blow away, clear off' />
+    <verb root='0ncb' class='u-u' type='' inf='' lang='B, Ass' gloss='blow away, clear off' />
+    <verb root='0nch' class='?-?' type='' inf='' lang='OB' gloss='have diarrhoea' />
+    <verb root='0nsh' class='a-u' type='' inf='' lang='Ass, B' gloss='tear out, uproot, transfer, deduct' />
+    <verb root='0nck' class='a-u' type='' inf='' lang='B, Ass' gloss='bite; (D) bite up' />
+    <verb root='0nsk' class='u-u' type='' inf='' lang='B, Ass' gloss='lay down, throw down, toss' />
+    <verb root='0nsq' class='a-u' type='' inf='' lang='B' gloss='choose, select, elect' />
+    <verb root='0nsq' class='i-i' type='' inf='' lang='Ass' gloss='choose, select, elect' />
+    <verb root='0ncq' class='i-i' type='' inf='' lang='B, Ass' gloss='kiss (D ~ G)' />
+    <verb root='0ncr' class='?-?' type='' inf='' lang='OB, MB' gloss='pour out (oil)' />
+    <verb root='0nsr' class='a-u' type='' inf='' lang='Ass' gloss='saw' />
+    <verb root='0nSr' class='a-u' type='' inf='' lang='B, Ass' gloss='guard, preserve, keep, watch (over)' />
+    <verb root='0ncr' class='a-u' type='' inf='' lang='B, Ass' gloss='take away, remove, withdraw' />
+    <verb root='0nsr' class='u-u' type='' inf='' lang='B' gloss='saw' />
+    <verb root='0nss' class='a-a' type='' inf='' lang='OB' gloss='moan, wail; (D ~ G)' />
+    <verb root='0nss' class='d-d' type='' inf='' lang='Ass' gloss='shake, wave' />
+    <verb root='0nss' class='i-i' type='' inf='' lang='B' gloss='shake; (D) separate' />
+    <verb root='0ncc' class='i-i' type='' inf='' lang='B, Ass' gloss='I sniff; II shake; (D) separate' />
+    <verb root='0nss' class='u-u' type='' inf='' lang='B, Ass' gloss='moan, wail; (D ~ G)' />
+    <verb root='0nTx' class='?-?' type='' inf='' lang='B' gloss='be suitable, fitting' />
+    <verb root='0ntx' class='?-?' type='' inf='nentU' lang='B' gloss='(N) overlap; go parallel' />
+    <verb root='0nTx' class='d-d' type='' inf='' lang='Mari' gloss='tear apart' />
+    <verb root='0nTx' class='i-i' type='' inf='' lang='Ass' gloss='be possible, be feasible' />
+    <verb root='0nTx' class='i-i' type='' inf='' lang='B' gloss='beat, spank, slash, whip' />
+    <verb root='0nTx' class='u-u' type='' inf='' lang='B, Ass' gloss='beat, spank, slash; whip, scourge, flagellate' />
+    <verb root='0ntk' class='u-u' type='' inf='' lang='B, Ass' gloss='drip, drop, trickle' />
+    <verb root='0nTl' class='a-u' type='' inf='' lang='B, Ass' gloss='look at, glance at, see' />
+    <verb root='0ntp' class='i-i' type='' inf='' lang='B' gloss='tear out (wool)' />
+    <verb root='0nTp' class='i-i' type='' inf='' lang='B' gloss='tear out (wool)' />
+    <verb root='0ntr' class='?-?' type='' inf='' lang='B' gloss='cleave; demolish; split intestine' />
+    <verb root='0nwx' class='i-i' type='' inf='' lang='B, Ass' gloss='be desolated, abandoned; (D) lay waste' />
+    <verb root='0nwr' class='i-i' type='' inf='' lang='OAkk, B' gloss='shine, be bright; (D) illuminate; (SD) gladden' />
+    <verb root='0nzx' class='?-?' type='e' inf='' lang='B' gloss='void (urine; excrement)' />
+    <verb root='0nzl' class='a-u' type='' inf='' lang='B, Ass' gloss='pour out, drain' />
+    <verb root='0nzm' class='u-u' type='' inf='' lang='B, Ass' gloss='creak, grouch, grouse' />
+    <verb root='0nzp' class='?-?' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0nzq' class='i-i' type='' inf='' lang='B, Ass' gloss='worry, despair, creak; (S) upset, annoy' />
+    <verb root='0nzr' class='a-u' type='' inf='' lang='B' gloss='curse, cuss, damn' />
+    <verb root='0nzr' class='i-i' type='' inf='' lang='Ass' gloss='curse, cuss, damn' />
+    <verb root='0nzz' class='i-i' type='' inf='' lang='B' gloss='shake; (D) separate' />
+    <verb root='0nzz' class='u-u' type='' inf='' lang='B, Ass' gloss='moan, grunt, rustle, make a swishing sound' />
+    <verb root='0pxd' class='?-?' type='' inf='puaadu' lang='OAss' gloss='(meaning unknown)' />
+    <verb root='0pxd' class='a-a' type='' inf='' lang='B' gloss='shut in, confine, imprison' />
+    <verb root='0pxd' class='i-i' type='' inf='' lang='B, Ass' gloss='shut in, confine, imprison' />
+    <verb root='0pxg' class='?-?' type='ae' inf='' lang='B, Ass' gloss='slander, lie' />
+    <verb root='0pxg' class='a-u' type='' inf='puaagu' lang='Ass' gloss='deprive, grab, snatch; take away forcibly' />
+    <verb root='0pxh' class='d-d' type='' inf='' lang='B, Ass' gloss='exchange; (S) substitute' />
+    <verb root='0pxl' class='a-i' type='' inf='piaalu' lang='Ass' gloss='rule, hold sway' />
+    <verb root='0pxn' class='?-?' type='' inf='' lang='Nuzi' gloss='grind' />
+    <verb root='0pxq' class='a-i' type='' inf='piaaqu' lang='B, Ass' gloss='be narrow, slight; (D) compress' />
+    <verb root='0pxq' class='a-u' type='' inf='puaaqu' lang='Ass' gloss='gape, yawn' />
+    <verb root='0pxq' class='d-d' type='' inf='' lang='B, Ass' gloss='pay attention to, observe' />
+    <verb root='0pxr' class='a-a' type='' inf='' lang='Ass, B' gloss='seek, look for' />
+    <verb root='0pxr' class='a-u' type='' inf='' lang='?' gloss='sell, redeem (property), release' />
+    <verb root='0pxS' class='?-?' type='' inf='' lang='B' gloss='break up, crush (minerals)' />
+    <verb root='0pxc' class='?-?' type='' inf='puaacu' lang='Ass' gloss='reach agreement(?), disagree(?)' />
+    <verb root='0pxc' class='a-a' type='' inf='' lang='B' gloss='break up, crush (ingredients)' />
+    <verb root='0pxS' class='a-u' type='' inf='paXaaSu' lang='Ass' gloss='withdraw; (D) remove' />
+    <verb root='0pxt' class='?-?' type='' inf='' lang='OAss' gloss='(meaning unknown)' />
+    <verb root='0pdx' class='i-i' type='' inf='' lang='B, Ass' gloss='absolve, forgive, pardon' />
+    <verb root='0pgx' class='?-?' type='' inf='' lang='B' gloss='slander, lie' />
+    <verb root='0pgx' class='d-d' type='' inf='' lang='Ass' gloss='ape, imitate, mimic' />
+    <verb root='0pgl' class='?-?' type='' inf='' lang='B' gloss='be strong' />
+    <verb root='0pgl' class='?-?' type='' inf='' lang='B' gloss='be strong' />
+    <verb root='0phx' class='i-i' type='' inf='' lang='B, Ass' gloss='block, close, confine, lock' />
+    <verb root='0phh' class='a-a' type='' inf='' lang='B, Ass' gloss='abate, be weakened' />
+    <verb root='0phr' class='u-u' type='' inf='' lang='B, Ass' gloss='gather, assemble, congregate' />
+    <verb root='0phS' class='u-u' type='' inf='' lang='B' gloss='(meaning unclear); (Ntn) be constantly disappointed' />
+    <verb root='0phz' class='i-i' type='' inf='' lang='B, Ass' gloss='be insolent, be loose' />
+    <verb root='0pkr' class='i-i' type='' inf='' lang='B, Ass' gloss='I tie up, tether; II present' />
+    <verb root='0plx' class='i-i' type='e' inf='' lang='B, Ass' gloss='be red' />
+    <verb root='0pld' class='?-?' type='' inf='' lang='OB' gloss='(meaning unknown)' />
+    <verb root='0plh' class='a-a' type='' inf='' lang='B, Ass' gloss='fear, be afraid of, respect, revere' />
+    <verb root='0plk' class='a-u' type='' inf='' lang='B, Ass' gloss='divide off, demarcate' />
+    <verb root='0pll' class='i-i' type='' inf='' lang='B, Ass' gloss='guard, watch over' />
+    <verb root='0plq' class='a-u' type='' inf='' lang='B, Ass' gloss='slaughter, smite, strike down (animal, people)' />
+    <verb root='0plq' class='i-i' type='' inf='' lang='B, Ass' gloss='slaughter, smite, strike down (animal, people)' />
+    <verb root='0pls' class='a-u' type='' inf='' lang='B, Ass' gloss='look at, gaze at; (D) direct vision' />
+    <verb root='0plc' class='a-u' type='' inf='' lang='B, Ass' gloss='pierce, perforate, puncture' />
+    <verb root='0pnx' class='i-i' type='' inf='' lang='B, Ass' gloss='face; go in front, go ahead' />
+    <verb root='0pnx' class='u-u' type='' inf='' lang='OAss' gloss='face; go in front, go ahead' />
+    <verb root='0png' class='i-i' type='' inf='' lang='Ass' gloss='cap, wrap; decorate (D) complete(?)' />
+    <verb root='0pnk' class='i-i' type='' inf='' lang='B' gloss='cap, wrap; decorate (D) complete(?)' />
+    <verb root='0pnn' class='d-d' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0pqx' class='?-?' type='e' inf='' lang='Mari' gloss='(meaning unknown)' />
+    <verb root='0pqd' class='i-i' type='' inf='' lang='B, Ass' gloss='entrust, turn over (to), take care' />
+    <verb root='0pqr' class='a-u' type='' inf='' lang='B' gloss='claim, allege, contest, arrogate' />
+    <verb root='0pqr' class='i-i' type='' inf='' lang='Ass' gloss='claim, lay claim to, arrogate' />
+    <verb root='0prx' class='a-u' type='' inf='paraaXu' lang='B, Ass' gloss='cut off, sever, slit' />
+    <verb root='0prx' class='d-d' type='' inf='' lang='B, Ass' gloss='contaminate, abuse; (Babyl. meaning unknown) ' />
+    <verb root='0prx' class='u-u' type='' inf='' lang='B, OAss' gloss='speak basely; (D) contaminate' />
+    <verb root='0prx' class='u-u' type='' inf='paraaXu' lang='B, Ass' gloss='I spring up, bud, burst; II vomit' />
+    <verb root='0prd' class='i-i' type='' inf='' lang='B, Ass' gloss='I be scared, terrified; terrify (in D), II separate, cut off' />
+    <verb root='0prh' class='i-i' type='' inf='' lang='Ass' gloss='flee; fly, float' />
+    <verb root='0prh' class='i-i' type='' inf='' lang='B' gloss='I lie across, obstruct, forbid access; II ferment (beer)' />
+    <verb root='0prk' class='i-i' type='' inf='' lang='B, Ass' gloss='lie across, bar, forbid access; (D) bring to an end' />
+    <verb root='0prm' class='a-u' type='' inf='' lang='Ass' gloss='hack, rend, shred' />
+    <verb root='0prq' class='a-a' type='' inf='' lang='B, Ass' gloss='divide off, isolate, segregate' />
+    <verb root='0prr' class='u-u' type='' inf='' lang='B, Ass' gloss='be dissolved, broken up; (D) disperse, scatter; be powerless' />
+    <verb root='0prc' class='a-u' type='' inf='' lang='B, Ass' gloss='flatter, cajole, hype' />
+    <verb root='0prS' class='a-u' type='' inf='' lang='B, Ass' gloss='contravene an oath, breach, to tell lies' />
+    <verb root='0prs' class='a-u' type='' inf='' lang='B, Ass' gloss='cut, separate, divide, decide' />
+    <verb root='0prT' class='a-u' type='' inf='' lang='B, Ass' gloss='tear, clear away; flicker' />
+    <verb root='0prz' class='?-?' type='' inf='' lang='Ass' gloss='winnow(?)' />
+    <verb root='0pSx' class='d-d' type='' inf='' lang='Ass' gloss='break up, crush' />
+    <verb root='0pSx' class='e-e' type='' inf='' lang='B' gloss='become white, become clean' />
+    <verb root='0pSx' class='i-i' type='' inf='' lang='B, Ass' gloss='become white, become clean' />
+    <verb root='0pcx' class='u-u' type='' inf='' lang='B, Ass' gloss='exhale' />
+    <verb root='0pSd' class='i-i' type='' inf='' lang='B, Ass' gloss='cut into; (Dtt) crack' />
+    <verb root='0psh' class='?-?' type='' inf='' lang='B' gloss='(D) drive away evil; (N) march on' />
+    <verb root='0pch' class='a-a' type='' inf='' lang='B, Ass' gloss='be tranquil, calm; (S) allow to rest' />
+    <verb root='0pch' class='i-i' type='' inf='' lang='OAss, OAkk' gloss='be tranquil, calm; (S) allow to rest' />
+    <verb root='0pck' class='?-?' type='' inf='' lang='Ass' gloss='doubt, suspect ' />
+    <verb root='0psk' class='d-d' type='' inf='' lang='Ass' gloss='clear away, clear' />
+    <verb root='0pcl' class='i-i' type='' inf='' lang='B, Ass' gloss='creep, crawl, cringe' />
+    <verb root='0psl' class='i-i' type='' inf='' lang='B, Ass' gloss='turn back, turn around' />
+    <verb root='0pSm' class='?-?' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0psm' class='i-i' type='' inf='' lang='B' gloss='cover up; (D) veil, disguise (woman)' />
+    <verb root='0psn' class='i-i' type='' inf='' lang='Ass' gloss='cover up; (D) veil, disguise (woman)' />
+    <verb root='0pcn' class='i-i' type='' inf='' lang='B, Ass' gloss='yank, pull violently (ears)' />
+    <verb root='0psq' class='?-?' type='' inf='' lang='?' gloss='(meaning unknown)' />
+    <verb root='0pcq' class='a-u' type='' inf='' lang='Ass' gloss='make plain' />
+    <verb root='0pcq' class='u-u' type='' inf='' lang='B, Ass' gloss='be narrow, difficult' />
+    <verb root='0pcr' class='a-u' type='' inf='' lang='B, Ass' gloss='solve, explain, interpret; release, free' />
+    <verb root='0psr' class='d-d' type='' inf='' lang='B, Ass' gloss='bring; send; deliver' />
+    <verb root='0pSS' class='?-?' type='' inf='' lang='B, Ass' gloss='withdraw; disappear' />
+    <verb root='0pss' class='a-u' type='' inf='' lang='B, Ass' gloss='annihilate, annul, blot, destroy; (Dt) become collapsed' />
+    <verb root='0pcc' class='a-u' type='' inf='' lang='B, Ass' gloss='smear, anoint, grease' />
+    <verb root='0pcT' class='i-i' type='' inf='' lang='B, Ass' gloss='abrade, delete, efface' />
+    <verb root='0ptx' class='e-e' type='e' inf='' lang='B' gloss='open; bare, detect; (St) express openly' />
+    <verb root='0ptx' class='i-i' type='e' inf='' lang='B, Ass' gloss='open; bare, detect; (St) express openly' />
+    <verb root='0pth' class='a-u' type='' inf='' lang='B, Ass' gloss='pierce, puncture, bore' />
+    <verb root='0ptl' class='i-i' type='' inf='' lang='B, Ass' gloss='twine, twist, wind' />
+    <verb root='0pTm' class='?-?' type='' inf='' lang='OB' gloss='enclose in fat' />
+    <verb root='0ptn' class='a-u' type='' inf='' lang='B' gloss='dine; eat a meal' />
+    <verb root='0ptn' class='i-i' type='' inf='' lang='B, Ass' gloss='be strong; (D) strengthen' />
+    <verb root='0ptq' class='i-i' type='' inf='' lang='B, Ass' gloss='fashion, form, cast' />
+    <verb root='0pTr' class='a-u' type='' inf='' lang='B, Ass' gloss='loosen, untie, solve, redeem' />
+    <verb root='0pzr' class='?-?' type='' inf='' lang='B, Ass' gloss='conceal, hide; (St) shelter' />
+    <verb root='0pzr' class='d-d' type='' inf='' lang='Ass' gloss='conceal, hide;' />
+    <verb root='0qxx' class='?-?' type='' inf='' lang='B' gloss='throw up, vomit; spew, spit' />
+    <verb root='0qxx' class='a-i' type='' inf='qiaaXu' lang='Ass' gloss='throw up, vomit; spew, spit' />
+    <verb root='0qxx' class='d-d' type='' inf='qaXXU' lang='B, Ass' gloss='wait on; await, wait' />
+    <verb root='0qxb' class='u-u' type='' inf='' lang='B, Ass' gloss='fall down, collapse; (D) collapse something completely' />
+    <verb root='0qxd' class='u-u' type='' inf='' lang='B, Ass' gloss='ignite, kindle, burn' />
+    <verb root='0qxl' class='?-?' type='' inf='quaalu' lang='Ass' gloss='be silent, passive, inactive' />
+    <verb root='0qxl' class='a-i' type='' inf='qiaalu' lang='Ass' gloss='fall; (D) fell' />
+    <verb root='0qxl' class='u-u' type='' inf='' lang='B' gloss='be silent, be attentive' />
+    <verb root='0qxp' class='a-i' type='' inf='qiaapu' lang='Ass' gloss='believe, trust; devolve' />
+    <verb root='0qxp' class='u-u' type='' inf='' lang='Ass, B' gloss='incline, slant, sag' />
+    <verb root='0qxp' class='u-u' type='' inf='' lang='B' gloss='fall down, collapse; (D) collapse something completely' />
+    <verb root='0qxc' class='a-i' type='' inf='qiaacu' lang='Ass' gloss='grant, bestow, present' />
+    <verb root='0qxc' class='i-i' type='' inf='' lang='B' gloss='grant, bestow, present' />
+    <verb root='0qbx' class='d-d' type='' inf='' lang='B' gloss='await for' />
+    <verb root='0qbx' class='i-i' type='' inf='' lang='B, Ass' gloss='speak, say, command, order' />
+    <verb root='0qbl' class='?-?' type='' inf='' lang='B' gloss='(Gt) engage in combat' />
+    <verb root='0qbl' class='d-d' type='' inf='' lang='B' gloss='(D) accept' />
+    <verb root='0qbr' class='i-i' type='' inf='' lang='B, Ass' gloss='bury, dig' />
+    <verb root='0qbt' class='a-u' type='' inf='' lang='B, Ass' gloss='clear away; (Gt) decay' />
+    <verb root='0qbt' class='d-d' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0qbt' class='i-i' type='' inf='' lang='B, Ass' gloss='(Gt) decay' />
+    <verb root='0qdx' class='?-?' type='' inf='' lang='OAss' gloss='consent; become poor' />
+    <verb root='0qdx' class='i-i' type='' inf='' lang='B, Ass' gloss='screech like an owl' />
+    <verb root='0qdx' class='u-u' type='' inf='' lang='Mari' gloss='screech like an owl' />
+    <verb root='0qdd' class='a-u' type='' inf='' lang='B, Ass' gloss='cut off; tear, rip up' />
+    <verb root='0qdd' class='u-u' type='' inf='' lang='B, Ass' gloss='bow, bend down' />
+    <verb root='0qdp' class='i-i' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0qdc' class='?-?' type='' inf='' lang='B, Ass' gloss='be(come) pure; (D) purify' />
+    <verb root='0qlx' class='i-i' type='' inf='' lang='NB' gloss='burn, roast, sear; burn to death (as punishment)' />
+    <verb root='0qlx' class='u-u' type='' inf='' lang='B, Ass' gloss='burn, roast, sear; burn to death (as punishment)' />
+    <verb root='0qll' class='i-i' type='' inf='' lang='B, Ass' gloss='be small, be light; (D) reduce; (Dt) humiliate' />
+    <verb root='0qlp' class='a-u' type='' inf='' lang='B, Ass' gloss='peel, peel off, pare off' />
+    <verb root='0qlt' class='d-d' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0qmx' class='d-d' type='' inf='' lang='B' gloss='await for' />
+    <verb root='0qmx' class='i-i' type='' inf='' lang='B' gloss='burn, cauterize, destroy (cities, enemies, people)' />
+    <verb root='0qmx' class='u-u' type='' inf='' lang='Ass' gloss='burn, cauterize, destroy (cities, enemies, people)' />
+    <verb root='0qmm' class='?-?' type='' inf='' lang='B' gloss='stand up (of hair)' />
+    <verb root='0qmr' class='a-u' type='' inf='' lang='Ass' gloss='strap(?)' />
+    <verb root='0qmc' class='d-d' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0qnx' class='i-i' type='' inf='' lang='B' gloss='acquire, buy, gain' />
+    <verb root='0qnx' class='i-i' type='e' inf='' lang='B, Ass' gloss='be jealous, envy; burn' />
+    <verb root='0qnx' class='u-u' type='' inf='' lang='Ass' gloss='acquire, buy, gain' />
+    <verb root='0qnn' class='a-u' type='' inf='' lang='B' gloss='roll up' />
+    <verb root='0qnn' class='u-u' type='' inf='' lang='Ass' gloss='nest, make a nest, nestle' />
+    <verb root='0qnp' class='d-d' type='' inf='' lang='B' gloss='(meaning unknown)' />
+    <verb root='0qpx' class='?-?' type='' inf='' lang='NB' gloss='turn upward' />
+    <verb root='0qpl' class='i-i' type='' inf='' lang='Ass' gloss='roll up, wind up' />
+    <verb root='0qpl' class='i-i' type='' inf='' lang='B' gloss='wind up; roll up (reed mat)' />
+    <verb root='0qpp' class='u-u' type='' inf='' lang='Ass' gloss='brood, incubate, sit' />
+    <verb root='0qrx' class='a-a' type='' inf='' lang='OAss' gloss='call, invite (people to deity for something)' />
+    <verb root='0qrx' class='e-e' type='e' inf='' lang='B' gloss='call, invite (people to deity for something)' />
+    <verb root='0qrx' class='i-i' type='' inf='' lang='B, Ass' gloss='call, invite (people to deity for something)' />
+    <verb root='0qrb' class='a-a' type='e' inf='' lang='B' gloss='approach, arrive, come; (S) present a request; (St) follow closely' />
+    <verb root='0qrb' class='i-i' type='' inf='' lang='?' gloss='become near, approach' />
+    <verb root='0qrb' class='i-i' type='e' inf='' lang='Ass' gloss='approach, arrive, come; (S) present a request; (St) follow closely' />
+    <verb root='0qrb' class='u-u' type='e' inf='' lang='NB, Ass' gloss='approach, arrive, come; (S) present a request; (St) follow closely' />
+    <verb root='0qrd' class='i-i' type='' inf='' lang='B, Ass' gloss='be warlike, be courageous; (D) strengthen, encourage' />
+    <verb root='0qrh' class='u-u' type='' inf='' lang='B, Ass' gloss='be frozen, freeze (intr.)' />
+    <verb root='0qrm' class='?-?' type='' inf='' lang='B, Ass' gloss='cover, overlay' />
+    <verb root='0qrn' class='a-u' type='' inf='' lang='Ass' gloss='stack up, pile on; (St) heap up goods' />
+    <verb root='0qrq' class='?-?' type='' inf='' lang='Ass' gloss='chuckle, clack' />
+    <verb root='0qrr' class='d-d' type='' inf='' lang='Ass' gloss='spray, sprinkle' />
+    <verb root='0qrr' class='u-u' type='' inf='' lang='B, Ass' gloss='writhe, grovel, undulate, be wavy; drip (D)' />
+    <verb root='0qrc' class='?-u' type='' inf='' lang='Ass' gloss='copulate' />
+    <verb root='0qrc' class='a-u' type='' inf='' lang='B, Ass' gloss='I carve, trim; chop up (wood, meat); (D) knock down; II move towards' />
+    <verb root='0qcd' class='?-?' type='' inf='' lang='B, Ass' gloss='be(come) pure; (D) purify' />
+    <verb root='0qTx' class='?-?' type='' inf='' lang='NB' gloss='come up' />
+    <verb root='0qtx' class='i-i' type='' inf='' lang='B, Ass' gloss='end, finish; (D) bring to an end' />
+    <verb root='0qtl' class='a-u' type='' inf='' lang='OB, Mari' gloss='kill' />
+    <verb root='0qtn' class='i-i' type='' inf='' lang='B, Ass' gloss='be thin, be fine; (D) make thin' />
+    <verb root='0qtp' class='a-u' type='' inf='' lang='Ass, Mari' gloss='pluck; pick off (fruit); enjoy sexual charms' />
+    <verb root='0qTp' class='a-u' type='' inf='' lang='Mari' gloss='pluck; pick off (fruit); enjoy sexual charms' />
+    <verb root='0qtr' class='u-u' type='' inf='' lang='B, Ass' gloss='smoke, reek; steam; (Dt) blacken, darken' />
+    <verb root='0qwx' class='d-d' type='' inf='' lang='B' gloss='await for' />
+    <verb root='0rxx' class='?-?' type='' inf='rAXu' lang='MA, Ass' gloss='befriend, (Gt) become partners' />
+    <verb root='0rxx' class='i-i' type='' inf='reXU' lang='NA, MA, NB, MB, B, Ass' gloss='pasture, feed (animals)' />
+    <verb root='0rxb' class='a-a' type='' inf='' lang='?' gloss='become angry' />
+    <verb root='0rxb' class='i-i' type='' inf='' lang='Ass, OAkk, OB, OAss, MB' gloss='restore, replace; make up for; requite; (D) recompensate' />
+    <verb root='0rxb' class='u-u' type='' inf='raXaabu' lang='Ass' gloss='be angry, rage' />
+    <verb root='0rxb' class='u-u' type='' inf='ruaabu' lang='Ass, MB, NA, B' gloss='quake, tremble; shake (in anger, from fear)' />
+    <verb root='0rxd' class='a-u' type='' inf='' lang='Ass, OB' gloss='quake, shake, tremble' />
+    <verb root='0rxh' class='i-i' type='' inf='riaahu' lang='B, Ass' gloss='remain, be left over; (D) allow to remain; (S) spare' />
+    <verb root='0rxk' class='?-?' type='' inf='' lang='B, MB, OB' gloss='pour out; (D ~ G)' />
+    <verb root='0rxm' class='a-a' type='' inf='' lang='NA, Ass, B, NB, OAss' gloss='love; (D) fondle a pet; (Dt) fondle each other; (N) be loved' />
+    <verb root='0rxm' class='d-d' type='' inf='' lang='OB' gloss='strike off (hands, wings?)' />
+    <verb root='0rxm' class='e-e' type='e' inf='' lang='Ass, OAss, NB' gloss='pity; have mercy, compassion; exonerate, pardon, excuse, remit' />
+    <verb root='0rxm' class='i-i' type='e' inf='' lang='Ass, NB, MB, B, NA' gloss='present as a gift; give a present, gift' />
+    <verb root='0rxq' class='?-?' type='' inf='ruaaqu' lang='Ass, OAss' gloss='be distant; be profound' />
+    <verb root='0rxq' class='e-e' type='e' inf='' lang='OAkk, B, OB, NB' gloss='be(come) distant; (D) keep distance' />
+    <verb root='0rxq' class='i-i' type='' inf='riaaqu' lang='Ass, OB, B' gloss='be empty; be free; be unemployed; (S) unload; (D ~ S)' />
+    <verb root='0rxs' class='a-a' type='' inf='' lang='B, OB, OAkk' gloss='strike; impact (of meteor); (D) smite enemy lands' />
+    <verb root='0rxc' class='a-a' type='' inf='' lang='B, OB, OAkk' gloss='strike; impact (of meteor); (D) smite enemy lands' />
+    <verb root='0rxc' class='i-i' type='riaacu' inf='' lang='OB, B, MB, Ass' gloss='rejoice, exult; (Gtn) ~ constantly' />
+    <verb root='0rxS' class='u-u' type='' inf='' lang='OB, B' gloss='rush to aid, help, reinforce (in battle)' />
+    <verb root='0rxT' class='a-a' type='' inf='' lang='OB' gloss='(meaning unknown)' />
+    <verb root='0rxz' class='?-?' type='' inf='raXaazu' lang='OB, Ass' gloss='inlay, embed? with carnelian' />
+    <verb root='0rbx' class='i-i' type='' inf='' lang='?' gloss='become big, become large, become' />
+    <verb root='0rbx' class='i-i' type='' inf='' lang='B, Ass' gloss='be great; grow; (D) bring up children; (Dt) be made superior; (Ntn) accumulate constantly; (Rt) increase' />
+    <verb root='0rbx' class='i-i' type='' inf='' lang='B, Ass' gloss='set (of heavenly body); (D) submerge' />
+    <verb root='0rbb' class='i-i' type='' inf='' lang='B' gloss='be weak, submissive, soft, feeble; (D) make submit; make obedient' />
+    <verb root='0rbb' class='u-u' type='' inf='' lang='B, Ass' gloss='be weak, submissive, soft, feeble; (D) make submit; make obedient' />
+    <verb root='0rbk' class='a-u' type='' inf='' lang='B, Ass' gloss='decoct, boil away (wine; drugs)' />
+    <verb root='0rbq' class='i-i' type='' inf='' lang='OB' gloss='(meaning unknown); of cattle?' />
+    <verb root='0rbs' class='a-u' type='' inf='' lang='Ass' gloss='beat' />
+    <verb root='0rbc' class='a-u' type='' inf='' lang='OA' gloss='protest, raise objections' />
+    <verb root='0rbS' class='i-i' type='' inf='' lang='B, Ass' gloss='lie down, lie in wait (for); camp; (Gtn) ~ regularly' />
+    <verb root='0rdx' class='a-a' type='' inf='' lang='OAkk' gloss='lead, accompany, escort; (D) make additional payment; (S) make convoy' />
+    <verb root='0rdx' class='e-e' type='e' inf='' lang='B' gloss='lead, accompany, escort; (D) make additional payment; (S) make convoy' />
+    <verb root='0rdx' class='i-i' type='' inf='' lang='Ass, B' gloss='lead, accompany, escort; (D) make additional payment; (S) make convoy' />
+    <verb root='0rdx' class='i-i' type='' inf='' lang='B' gloss='be suitable; (Gtn) serve constantly' />
+    <verb root='0rdx' class='u-u' type='' inf='' lang='B' gloss='be suitable; (Gtn) serve constantly' />
+    <verb root='0rdd' class='a-u' type='' inf='' lang='B, Ass' gloss='chase, drive away, pursue (people, army)' />
+    <verb root='0rdm' class='?-?' type='' inf='' lang='B' gloss='(meaning unknown); (S) cause liquid to flow' />
+    <verb root='0rdp' class='i-i' type='' inf='' lang='B, Ass' gloss='pursue, persecute' />
+    <verb root='0rgx' class='d-d' type='' inf='' lang='B' gloss='make false claim' />
+    <verb root='0rgb' class='?-?' type='' inf='' lang='Am' gloss='be afraid' />
+    <verb root='0rgb' class='d-d' type='' inf='' lang='Ass' gloss='furnish' />
+    <verb root='0rgg' class='a-a' type='' inf='' lang='OB' gloss='(meaning unknown)' />
+    <verb root='0rgg' class='a-u' type='' inf='' lang='OB' gloss='(meaning unknown)' />
+    <verb root='0rgg' class='i-i' type='' inf='' lang='Ass' gloss='be mischievous, bad' />
+    <verb root='0rgm' class='a-u' type='' inf='' lang='B, Ass' gloss='cry (out), shout, claim, make a legal complaint; (Gt) ~ against each other' />
+    <verb root='0rgm' class='u-u' type='' inf='' lang='B, Ass' gloss='cry (out), shout, claim, make a legal complaint; (Gt) ~ against each other' />
+    <verb root='0rgc' class='i-i' type='' inf='' lang='B, Ass' gloss='be aware, be in commotion; (N) be excited or disturbed' />
+    <verb root='0rhx' class='e-e' type='e' inf='' lang='B, Ass' gloss='pour in; ejaculate, impregnate, have sexual intercourse; (Gt) sprinkle; (Gtn) affect repeatedly' />
+    <verb root='0rhx' class='i-i' type='e' inf='' lang='B, Ass' gloss='pour in; ejaculate, impregnate, have sexual intercourse; (Gt) sprinkle; (Gtn) affect repeatedly' />
+    <verb root='0rhb' class='u-u' type='' inf='ruaabu' lang='NB' gloss='quake, tremble; shake (in anger)' />
+    <verb root='0rhh' class='a-u' type='' inf='' lang='OB' gloss='mix' />
+    <verb root='0rhp' class='d-d' type='' inf='' lang='B' gloss='(meaning uncertain) ~ with malt' />
+    <verb root='0rhS' class='a-a' type='' inf='' lang='Ass' gloss='be in motion' />
+    <verb root='0rhS' class='a-a' type='' inf='' lang='Mari' gloss='hold a debate' />
+    <verb root='0rhS' class='i-i' type='' inf='' lang='Ass' gloss='be confident, trust, entrust' />
+    <verb root='0rhS' class='i-i' type='' inf='' lang='B, Ass' gloss='flood, submerge, bathe, wash' />
+    <verb root='0rhS' class='i-i' type='' inf='' lang='Mari' gloss='hold a debate' />
+    <verb root='0rhc' class='u-u' type='' inf='' lang='B' gloss='be in motion' />
+    <verb root='0rhS' class='u-u' type='' inf='' lang='B' gloss='be confident, trust' />
+    <verb root='0rht' class='u-u' type='' inf='' lang='B, ASs' gloss='(meaning unknown) ~ of stone' />
+    <verb root='0rhT' class='u-u' type='' inf='' lang='B, Ass' gloss='(meaning unknown) ~ of stone' />
+    <verb root='0rjx' class='?-?' type='e' inf='reXU(m)' lang='MB, NB, B' gloss='pasture; (N) be herded' />
+    <verb root='0rkb' class='a-a' type='' inf='' lang='B, Ass' gloss='ride, mount, surmount; ride (sexually); (D) fertilize; (S) load cargo' />
+    <verb root='0rkk' class='?-?' type='' inf='' lang='OB' gloss='(meaning unknown) ~ temple' />
+    <verb root='0rkn' class='?-?' type='' inf='' lang='OB' gloss='(meaning unknown)' />
+    <verb root='0rkp' class='a-a' type='' inf='' lang='NA' gloss='ride, mount, surmount; ride (sexually); (D) fertilize; (S) load cargo' />
+    <verb root='0rks' class='a-u' type='' inf='' lang='Ass' gloss='bind, tie; prepare; (N) be attached' />
+    <verb root='0rkc' class='a-u' type='' inf='' lang='B' gloss='bind, tie; prepare; (N) be attached' />
+    <verb root='0rmx' class='i-i' type='' inf='' lang='B' gloss='throw; (S) cause to occupy; (SD ~ S); (N) be invested with fearsomeness ' />
+    <verb root='0rmx' class='u-u' type='' inf='' lang='Ass' gloss='settle down, take up' />
+    <verb root='0rmx' class='u-u' type='' inf='' lang='B, Ass' gloss='be loose, be limp, slacken; abandon' />
+    <verb root='0rmk' class='u-u' type='' inf='' lang='B, Ass' gloss='bathe, wash oneself; (Gt) drench; (S) cause to ~' />
+    <verb root='0rmm' class='u-u' type='' inf='' lang='B, Ass' gloss='roar, rumble (battle, storm, living entities, buildings)' />
+    <verb root='0rmS' class='?-?' type='' inf='' lang='OB' gloss='mount, enclose' />
+    <verb root='0rpx' class='?-?' type='' inf='' lang='OA, OB' gloss='heal' />
+    <verb root='0rpd' class='u-u' type='' inf='' lang='B, Ass' gloss='roam, run away; wander; (D) keep moving' />
+    <verb root='0rpq' class='i-i' type='' inf='' lang='B, Ass' gloss='hoe; fix, nail, rivet, secure; (D) fasten' />
+    <verb root='0rpc' class='i-i' type='' inf='' lang='B, Ass' gloss='be(come) broad, wide; (D) give or define width; (Dt) be extended' />
+    <verb root='0rps' class='i-i' type='' inf='' lang='B, Ass' gloss='beat together, clap; thresh grain' />
+    <verb root='0rpc' class='u-u' type='' inf='' lang='B, Ass' gloss='be(come) broad, wide; (D) give or define width; (Dt) be extended' />
+    <verb root='0rpt' class='a-u' type='' inf='' lang='OB' gloss='(meaning unknown) ~ medicine' />
+    <verb root='0rpT' class='a-u' type='' inf='' lang='OB' gloss='(meaning unknown) ~ medicine' />
+    <verb root='0rqx' class='d-d' type='' inf='' lang='B, Ass' gloss='make perfume; add aromatics to oil' />
+    <verb root='0rqx' class='i-i' type='' inf='' lang='B, Ass' gloss='hide, give refuge (to runaway slave); dismiss ' />
+    <verb root='0rqb' class='?-?' type='' inf='' lang='NA' gloss='decay' />
+    <verb root='0rqd' class='u-u' type='' inf='' lang='B, Ass' gloss='dance, skip; hop; (D) make ~' />
+    <verb root='0rqp' class='?-?' type='' inf='' lang='Ass' gloss='floor, lay a floor' />
+    <verb root='0rqq' class='a-a' type='' inf='' lang='OB' gloss='(meaning unknown)' />
+    <verb root='0rqq' class='a-u' type='' inf='' lang='OB' gloss='(meaning unknown)' />
+    <verb root='0rqq' class='i-i' type='' inf='' lang='B, Ass' gloss='be thin, fine; be sparse; (Gtn) become even thinner; (D) roll out thin' />
+    <verb root='0rSx' class='?-?' type='' inf='' lang='OB' gloss='give house (as a payment for something)' />
+    <verb root='0rsx' class='d-d' type='' inf='' lang='OB' gloss='(D) dissolve (by witchcraft, sorcery)' />
+    <verb root='0rcx' class='i-i' type='' inf='' lang='NB, OB, B, Ass' gloss='itch; mucus, fungal infection; become red (of feet)' />
+    <verb root='0rcx' class='i-i' type='' inf='' lang='OAkk, Ass, OAss, OB' gloss='acquire, have, get; owe; (S) cause arrange to acquire' />
+    <verb root='0rcx' class='u-u' type='' inf='' lang='OAss, OB, Mari' gloss='slacken; weaken; (D) mistreat; (Dtn) ~ repeatedly' />
+    <verb root='0rcb' class='?-?' type='' inf='' lang='Ass' gloss='be terrifying' />
+    <verb root='0rcb' class='?-?' type='' inf='' lang='OB' gloss='be horrible; terrifying, dreadful' />
+    <verb root='0rsb' class='i-i' type='' inf='' lang='B, Ass' gloss='smite, strike down; trash; fell (criminals, enemies)' />
+    <verb root='0rcb' class='i-i' type='' inf='' lang='NB, Ass' gloss='smite, strike down; trash; fell (criminals, enemies)' />
+    <verb root='0rcd' class='?-?' type='' inf='' lang='Ass, B, MB, NA' gloss='found; (S) lay foundations' />
+    <verb root='0rSd' class='i-i' type='' inf='' lang='OB, MB, OAkk' gloss='spy; watch undetected; eavesdrop?' />
+    <verb root='0rck' class='?-?' type='' inf='' lang='OB' gloss='dry out (intrans.)' />
+    <verb root='0rsn' class='a-u' type='' inf='' lang='B, NA' gloss='soak, steep; brew' />
+    <verb root='0rSn' class='a-u' type='' inf='' lang='B, NA' gloss='soak, steep; brew' />
+    <verb root='0rsn' class='i-i' type='' inf='' lang='Ass, NB' gloss='soak, steep; brew' />
+    <verb root='0rSn' class='i-i' type='' inf='' lang='Ass, NB' gloss='soak, steep; brew' />
+    <verb root='0rSn' class='u-u' type='' inf='' lang='OB, Ass' gloss='be powerful, awesome (of voice); make a loud noise' />
+    <verb root='0rSp' class='i-i' type='' inf='' lang='Ass' gloss='brick up, build, construct' />
+    <verb root='0rsp' class='i-i' type='' inf='' lang='B, Ass' gloss='smite, strike down; trash; fell (criminals, enemies)' />
+    <verb root='0rSp' class='i-i' type='' inf='' lang='B, Ass' gloss='smite, strike down; trash; fell (criminals, enemies)' />
+    <verb root='0rcc' class='u-u' type='' inf='' lang='OB' gloss='to glow, radiate (with heat); (D) heat up (kiln, oven)' />
+    <verb root='0rtx' class='i-i' type='e' inf='' lang='Ass, B, NA' gloss='rig; drive in, set in; fix in place; (N) be fastened' />
+    <verb root='0rTb' class='?-?' type='' inf='' lang='Ass, B, OB' gloss='be moist, damp; be wet, damp; (D) moisten' />
+    <verb root='0rth' class='d-d' type='' inf='' lang='OB' gloss='(D) (meaning unknown)' />
+    <verb root='0rtm' class='?-?' type='' inf='' lang='OB' gloss='whisper, stammer, mumble' />
+    <verb root='0rtn' class='?-?' type='' inf='' lang='Ass' gloss='whisper, stammer, mumble' />
+    <verb root='0rTp' class='u-u' type='' inf='' lang='OB, Mari' gloss='begin work; have sexual intercourse' />
+    <verb root='0rtt' class='u-u' type='' inf='' lang='B, OB, Ass' gloss='shiver, tremble, vibrate (of body)' />
+    <verb root='0rwx' class='?-?' type='e' inf='reXu(m)' lang='B, Ass, MB, NB, MA, NA' gloss='pasture; (N) be herded' />
+    <verb root='0rzx' class='u-u' type='' inf='' lang='B' gloss='(N) make off, scram, depart' />
+    <verb root='0cxx' class='?-?' type='' inf='cAXu' lang='OB, B' gloss='fly; (Gtn) fly around' />
+    <verb root='0sxx' class='?-?' type='' inf='sAXu' lang='OB, SB, B' gloss='cry in agony, pain' />
+    <verb root='0cxx' class='?-?' type='' inf='cEXu' lang='Ass, MA, OB, SB, B' gloss='pad, upholster' />
+    <verb root='0Sxx' class='?-?' type='' inf='SEXu' lang='OB, SB, NA, Ass, B' gloss='repulse, rout, repel (horses, chariots)' />
+    <verb root='0cxx' class='?-?' type='' inf='cuaaXu' lang='Ass' gloss='buoy, float, swim, soar(?)' />
+    <verb root='0cxx' class='?-?' type='' inf='cuXXU' lang='Ass, OB, SB, B' gloss='have (illicit) sexual intercourse' />
+    <verb root='0cxx' class='?-?' type='e' inf='cEXu' lang='Ass, B, SB' gloss='fly; (Gtn) fly around' />
+    <verb root='0cxx' class='d-d' type='' inf='cutaXXum' lang='OB, B' gloss='(St) trifle, treat lightly' />
+    <verb root='0cxx' class='i-i' type='' inf='ceXU' lang='Ass, B' gloss='seek, search, strive for' />
+    <verb root='0sxx' class='i-i' type='e' inf='seXU' lang='MB, SB, B, Ass' gloss='oppress; press down' />
+    <verb root='0cxb' class='?-?' type='' inf='ciaabu' lang='OAss, OB, SB, B' gloss='be(come) old; (Gtn) become even older' />
+    <verb root='0sxb' class='a-a' type='' inf='' lang='B' gloss='draw water' />
+    <verb root='0sxb' class='i-i' type='' inf='' lang='SB, B' gloss='(meaning unknown)' />
+    <verb root='0cxb' class='u-u' type='' inf='' lang='Ass, B' gloss='sway, swing, waver; tremble, quake' />
+    <verb root='0Sxd' class='?-?' type='' inf='Suaadu' lang='Ass, MB, SB' gloss='melt (down), fuse; (D) refine' />
+    <verb root='0sxd' class='?-?' type='e' inf='' lang='Ass, NB, B' gloss='help, aid, assist, support' />
+    <verb root='0sxd' class='a-a' type='' inf='' lang='OB, SB, B, Ass' gloss='slay (enemy)' />
+    <verb root='0Sxd' class='a-u' type='' inf='' lang='Ass, OB, SB, B' gloss='prowl, roam about; spin; twitch' />
+    <verb root='0cxd' class='d-d' type='' inf='caXudu' lang='Ass' gloss='(S) acquaint with, communicate' />
+    <verb root='0cxh' class='?-?' type='' inf='ciaahu' lang='OB, SB, B, Ass' gloss='be tall, grow, grow tall' />
+    <verb root='0cxh' class='i-i' type='' inf='' lang='B' gloss='blow (of wind)' />
+    <verb root='0Sxh' class='i-i' type='' inf='Siaahu' lang='Ass, B' gloss='laugh, smile; cry; (D) amuse' />
+    <verb root='0Sxj' class='?-?' type='' inf='SEju' lang='OB, SB, NA, Ass, B' gloss='repulse, rout, repel (horses, chariots)' />
+    <verb root='0cxk' class='?-?' type='' inf='' lang='OB, B' gloss='I (meaning unknown) ~ operation performed on textiles; II tremble' />
+    <verb root='0sxk' class='u-u' type='' inf='' lang='Ass, NA, SB, OB, MA, B' gloss='pulverize, crush (plants, herbs)' />
+    <verb root='0cxl' class='?-?' type='' inf='' lang='Ass' gloss='sharpen, whet; (D ~ G)' />
+    <verb root='0Sxl' class='?-?' type='' inf='' lang='Ass, OAkk, OAss, B' gloss='fight, contradict, object; (S) put into conflict' />
+    <verb root='0cxl' class='?-?' type='' inf='' lang='SB, B' gloss='(Dt) rejoice' />
+    <verb root='0sxl' class='?-?' type='' inf='' lang='SB, B' gloss='(meaning unknown) ~eyes' />
+    <verb root='0cxl' class='?-?' type='' inf='ciaalu' lang='Ass, OB, SB, B' gloss='coat, cover, smear' />
+    <verb root='0cxl' class='a-a' type='' inf='' lang='Ass, OB, SB, B, Am, Mari' gloss='ask, question; consult; interrogate' />
+    <verb root='0sxl' class='d-d' type='' inf='' lang='Ass' gloss='appeal, pray to' />
+    <verb root='0sxl' class='u-u' type='' inf='' lang='SB, B' gloss='cough; (D) cough protractedly; (St) made be to cough' />
+    <verb root='0cxm' class='?-?' type='' inf='ciaamu' lang='Ass' gloss='sell; buy' />
+    <verb root='0cxm' class='?-?' type='' inf='ciaamu' lang='Ass, B' gloss='decree, destine, determine' />
+    <verb root='0sxm' class='?-?' type='' inf='siaamu' lang='B, Ass' gloss='be red, brown; (D) redden; dye red' />
+    <verb root='0cxm' class='a-a' type='' inf='' lang='Ass, OAkk, OAss, MB' gloss='buy, purchase' />
+    <verb root='0cxn' class='?-?' type='' inf='ciaanu' lang='Ass, MB, SB' gloss='piss, urinate' />
+    <verb root='0Sxn' class='?-?' type='e' inf='' lang='NA, OAkk, OB, SB, Ass' gloss='load up; heap, pile, stow' />
+    <verb root='0Sxn' class='a-a' type='' inf='' lang='B, NA, Ass' gloss='fill up with liquid' />
+    <verb root='0cxn' class='d-d' type='' inf='' lang='OB, B' gloss='(meaning unknown)' />
+    <verb root='0cxn' class='e-e' type='' inf='' lang='Ass, NB, B' gloss='put on shoes' />
+    <verb root='0Sxn' class='e-e' type='e' inf='' lang='NB' gloss='fill up with liquid' />
+    <verb root='0cxp' class='?-?' type='' inf='' lang='SB, B' gloss='stride' />
+    <verb root='0Sxp' class='?-?' type='' inf='SuXXupu' lang='SB' gloss='(meaning unknown)' />
+    <verb root='0sxp' class='a-a' type='' inf='' lang='B' gloss='draw water' />
+    <verb root='0Sxp' class='d-d' type='' inf='Suppu, SaXXupu' lang='MA, Ass, NA, SB, OB, B' gloss='decorate, inlay' />
+    <verb root='0cxq' class='?-?' type='' inf='' lang='OB, B' gloss='I (meaning unknown) ~ operation performed on textiles; II tremble' />
+    <verb root='0sxq' class='?-?' type='' inf='siaaqu' lang='NA, Ass' gloss='be tight, be narrow; be hardpressed; (D) reduce' />
+    <verb root='0cxr' class='?-?' type='' inf='' lang='Am' gloss='slander' />
+    <verb root='0cxr' class='?-?' type='' inf='caXaaru' lang='Ass' gloss='be dirty; be black' />
+    <verb root='0Sxr' class='?-?' type='e' inf='' lang='OB, SB, B' gloss='spread out, widen' />
+    <verb root='0cxr' class='?-?' type='e' inf='ceXeeru' lang='SB, B' gloss='(meaning uncertain) ~ demons' />
+    <verb root='0cxr' class='a-a' type='' inf='caXaaru' lang='OAkk, OB, B, Mari' gloss='conquer; win, be(come) victorious' />
+    <verb root='0cxr' class='d-d' type='' inf='' lang='Ass' gloss='be hairy' />
+    <verb root='0sxr' class='e-e' type='' inf='seXaaru' lang='Ass, MA' gloss='plaster, smear, rub down; (D) anoint' />
+    <verb root='0cxr' class='e-e' type='e' inf='' lang='NA, Ass, B, OAss' gloss='rise early' />
+    <verb root='0sxr' class='u-u' type='' inf='' lang='Ass, B, SB, OAss, MA' gloss='whirl, circle, dance; twist (parts of body)' />
+    <verb root='0cxS' class='?-?' type='' inf='ciaaSu' lang='Ass, B, SB, OB, NA' gloss='decline, diminish, wane' />
+    <verb root='0sxs' class='d-d' type='' inf='' lang='SB, B' gloss='(meaning unknown) ~ medical condition' />
+    <verb root='0cxt' class='?-?' type='' inf='' lang='Ass, OB, OAkk, OAss, SB, B' gloss='be spared, left over; escape' />
+    <verb root='0sxT' class='?-?' type='' inf='' lang='Mari' gloss='(meaning unknown)' />
+    <verb root='0cxT' class='?-?' type='e' inf='cETu, ciaaTu' lang='Ass, B' gloss='be negligent; neglect; miss (accidentally); commit crime, spurn' />
+    <verb root='0cxT' class='a-u' type='' inf='' lang='Ass' gloss='draw, pull, toil' />
+    <verb root='0cxT' class='a-u' type='' inf='' lang='Ass' gloss='ignore, despise' />
+    <verb root='0sbx' class='?-?' type='' inf='' lang='B, OAss, Ass, MB, NB' gloss='brew beer' />
+    <verb root='0Sbx' class='a-u' type='' inf='' lang='OAkk, OB, Ass' gloss='occupy the field (military); (D) command army into the field' />
+    <verb root='0Sbx' class='d-d' type='' inf='' lang='Ass, OB, MA, NB, B, SB, NA' gloss='observe, inspect; (Dt) be recognizable' />
+    <verb root='0Sbx' class='i-i' type='' inf='' lang='Ass, NB, B' gloss='wish, desire; (Gtn) have chronic urge (of intestines) to pass water' />
+    <verb root='0cbx' class='i-i' type='' inf='' lang='MB, SB, B' gloss='wrap up, seal up' />
+    <verb root='0cbx' class='i-i' type='ea' inf='' lang='Ass, OAss, B' gloss='become satisfied; replete; enjoy; (Dt) be fully satisfied' />
+    <verb root='0cbx' class='u-u' type='' inf='' lang='OAkk, OAss, OB, SB, B, Ass' gloss='be silent; (D) suppress revolt' />
+    <verb root='0cbx' class='u-u' type='' inf='' lang='OB, SB, B' gloss='be dense; thick; loud; (D) make loud noise' />
+    <verb root='0sbx' class='u-u' type='' inf='sabaaXu' lang='B, Ass, NA, OB' gloss='billow, fluctuate; rock, quake; lurch' />
+    <verb root='0cbb' class='a-u' type='' inf='' lang='OB, B' gloss='proclaim' />
+    <verb root='0cbb' class='u-u' type='' inf='' lang='Ass, OB, SB, B' gloss='I glow, burn (of eyes); be parched; II proclaim' />
+    <verb root='0Sbb' class='u-u' type='' inf='' lang='SB, B' gloss='flutter (about); (D) spread wings; (S) teach young birds to spread wings' />
+    <verb root='0cbh' class='a-u' type='' inf='' lang='Ass' gloss='sprinkle; (D)disperse(?)' />
+    <verb root='0cbh' class='u-u' type='' inf='' lang='Ass, SB, B' gloss='settle, be deposited; (S) cover eyes' />
+    <verb root='0sbk' class='i-i' type='' inf='' lang='Ass, OB, B' gloss='I assail; attack; II interweave; (D) plait; seize' />
+    <verb root='0sbl' class='i-i' type='' inf='' lang='B' gloss='carry, haul, transport' />
+    <verb root='0Sbl' class='i-i' type='' inf='' lang='B' gloss='carry, haul, transport' />
+    <verb root='0Sbr' class='a-u' type='' inf='' lang='Ass, NA; OB; SB; B' gloss='spin, whirl; (S) make body spin ' />
+    <verb root='0cbr' class='i-i' type='ea' inf='' lang='Ass, NA, OAkk, Nuzi; B' gloss='break (grain, bones, limbs, neck); (D) injure' />
+    <verb root='0Sbr' class='u-u' type='' inf='' lang='Ass, B' gloss='twinkle, blink; (S) cause to spread news' />
+    <verb root='0cbs' class='a-u' type='' inf='' lang='B' gloss='gather; collect; (D) gather together' />
+    <verb root='0cbc' class='a-u' type='' inf='' lang='B, NA, Ass' gloss='gather; collect; (D) gather together' />
+    <verb root='0cbs' class='a-u' type='' inf='' lang='SB, B' gloss='be angry; (S) make angry, antagonize' />
+    <verb root='0sbs' class='d-d' type='' inf='' lang='NB, B' gloss='gather (troops) together' />
+    <verb root='0sbS' class='i-i' type='' inf='' lang='B, OB' gloss='clasp, enfold; (Gt) wrestle, grapple; (D) keep enfolded' />
+    <verb root='0cbS' class='i-i' type='' inf='' lang='B, OB' gloss='clasp, enfold; (Gt) wrestle, grapple; (D) keep enfolded' />
+    <verb root='0cbs' class='u-u' type='' inf='' lang='Ass, NA' gloss='be angry; (S) make angry, antagonize' />
+    <verb root='0cbc' class='u-u' type='' inf='' lang='B, MB, SB' gloss='be angry; (S) make angry, antagonize' />
+    <verb root='0cbc' class='u-u' type='' inf='' lang='MB, OB' gloss='gather; collect; (D) gather together' />
+    <verb root='0sbs' class='u-u' type='' inf='' lang='NA, B, Ass, MB, SB' gloss='be angry; (S) make angry, antagonize' />
+    <verb root='0cbt' class='?-?' type='' inf='' lang='SB, B' gloss='be malicious, treacherous' />
+    <verb root='0Sbt' class='a-a' type='' inf='' lang='B, NA, MB, MA, SB, Ass' gloss='seize, grasp, clasp, grip; (D) enclose; (St2) make to gather; (N) litigate' />
+    <verb root='0SbT' class='a-a' type='' inf='' lang='Ug' gloss='seize, grasp, clasp, grip; (D) enclose; (St2) make to gather; (N) litigate' />
+    <verb root='0cbT' class='i-i' type='' inf='' lang='Ass, OAss, OB, SB' gloss='blast, hit, sweep; (N) be blasted by wind' />
+    <verb root='0cdx' class='?-?' type='' inf='' lang='NB, B' gloss='(N) be rejected' />
+    <verb root='0Sdx' class='?-?' type='' inf='' lang='OB, SB' gloss='receive as sustenance; (D) supply with food' />
+    <verb root='0cdx' class='d-d' type='' inf='' lang='Nippur, NB, B' gloss='(D) make known' />
+    <verb root='0sdd' class='?-?' type='' inf='' lang='B, OB, NB, Mari' gloss='I provide with (something); II make a raid' />
+    <verb root='0cdd' class='a-u' type='' inf='' lang='MB, SB, Ass, B, OB' gloss='pull, drag, haul, tug; stretch out; measure' />
+    <verb root='0sdh' class='?-?' type='' inf='' lang='OB' gloss='(meaning unknown)' />
+    <verb root='0cdh' class='i-i' type='' inf='' lang='Ass, B' gloss='march; walk, stride; (D) pass along' />
+    <verb root='0cdl' class='i-i' type='' inf='' lang='Ass, B' gloss='be(come) broad, wide; (D) widen, increase' />
+    <verb root='0Sdr' class='?-?' type='' inf='' lang='Ass, SB, B' gloss='squint, twitch, blink; slant; be crooked; (D) make squint' />
+    <verb root='0sdr' class='a-u' type='' inf='' lang='OB, MB' gloss='put in order, arrange; do regularly, do usually' />
+    <verb root='0sdr' class='i-i' type='' inf='' lang='B, MA, NA, ASs' gloss='put in order, arrange; do regularly, do usually' />
+    <verb root='0sgx' class='?-?' type='' inf='' lang='Ass, NA, MN, OB, B' gloss='cause trouble, distress, swerve; (S) delude' />
+    <verb root='0sgx' class='i-i' type='e' inf='' lang='B, NB, Ass' gloss='go about, go along; roam, wander; proceed according to law; (S) enforce' />
+    <verb root='0cgx' class='u-u' type='' inf='' lang='Ass, OB, SB, B' gloss='be wild; rave, rage; be rabid' />
+    <verb root='0cgg' class='?-?' type='' inf='' lang='Ass, SB, B' gloss='stiffen, be tense; harden; (Gtn) stiffen continually' />
+    <verb root='0cgl' class='i-i' type='' inf='' lang='OB, SB, B' gloss='misappropriate' />
+    <verb root='0cgm' class='u-u' type='' inf='' lang='Ass, B, OB, NA, SB' gloss='roar, thunder; resound; shout' />
+    <verb root='0cgn' class='u-u' type='' inf='' lang='OB, B' gloss='roar, thunder; resound; shout' />
+    <verb root='0cgc' class='i-i' type='' inf='' lang='Ass, OAss, B' gloss='kill, murder, slay; mistreat; annihilate' />
+    <verb root='0chx' class='d-d' type='' inf='' lang='SB, B' gloss='spoil, ruin' />
+    <verb root='0shx' class='i-i' type='e' inf='' lang='Ass, OAss, B' gloss='rise up, rebel, revolt; (D) ruin, wreck; (N) be(come) confused; (Ntn) be constantly confused' />
+    <verb root='0chd' class='?-?' type='' inf='' lang='OB, B' gloss='give; present' />
+    <verb root='0chh' class='u-u' type='' inf='' lang='Ass, OAss' gloss='disintegrate, erode; become loose (wool, teeth, hair); (D) waste flesh; corrode' />
+    <verb root='0shh' class='u-u' type='' inf='' lang='OAss, B' gloss='be terrified; (D) frighten' />
+    <verb root='0chl' class='a-u' type='' inf='' lang='Ass' gloss='sift, sieve, filter' />
+    <verb root='0chl' class='a-u' type='' inf='' lang='B' gloss='pierce, prick (with weapon, sorcery, pain)' />
+    <verb root='0shl' class='a-u' type='' inf='' lang='B, Ass' gloss='pierce, prick (with weapon, sorcery, pain)' />
+    <verb root='0shl' class='i-i' type='e' inf='' lang='B' gloss='pierce, prick (with weapon, sorcery, pain)' />
+    <verb root='0shm' class='?-?' type='' inf='' lang='OB, Mari, B' gloss='oppress, trouble' />
+    <verb root='0shn' class='?-?' type='' inf='' lang='OB, B' gloss='(D) draw (dagger, weapon)' />
+    <verb root='0chn' class='a-a' type='' inf='' lang='Ass, B' gloss='be warm; heat up' />
+    <verb root='0chn' class='u-u' type='' inf='' lang='Ass, B' gloss='be warm; heat up' />
+    <verb root='0shp' class='a-u' type='' inf='' lang='NA, MA, B, OB, Ass' gloss='cover, overwhelm, overthrow, envelop' />
+    <verb root='0chr' class='a-u' type='' inf='' lang='Ass' gloss='marry(?)' />
+    <verb root='0shr' class='a-u' type='' inf='' lang='B' gloss='turn (intrans.), return, seek; (S) surround' />
+    <verb root='0Shr' class='i-i' type='ea' inf='' lang='Ass, OAkk, OAss, NB' gloss='be small, be young; (D) deplete, reduce ' />
+    <verb root='0shr' class='u-u' type='' inf='' lang='Ass, B, OB, NA, MA, OAss' gloss='turn (intrans.), return, seek; (S) surround' />
+    <verb root='0shc' class='?-?' type='' inf='' lang='OB, B' gloss='catch in a net' />
+    <verb root='0cht' class='?-?' type='' inf='' lang='Ass' gloss='grow dull, rust' />
+    <verb root='0Sht' class='?-?' type='' inf='' lang='NA, Ass' gloss='want; be greedy for' />
+    <verb root='0chT' class='a-u' type='' inf='' lang='Ass, B' gloss='strip, tear off, take off; flay; shake off' />
+    <verb root='0Sht' class='a-u' type='' inf='' lang='Ass, B, NA' gloss='press (out), squeeze (wine, oil, juice); blackmail' />
+    <verb root='0cht' class='a-u' type='' inf='' lang='Ass, OAss, SB, B' gloss='wash off, rinse; (D) wash down (food by drinking); (S) be cleared of obligations' />
+    <verb root='0chT' class='i-i' type='' inf='' lang='NB' gloss='be angry; rage' />
+    <verb root='0chT' class='i-i' type='' inf='' lang='OAkk, B, SB, Ass' gloss='leap (at or upon); jump; spring' />
+    <verb root='0chT' class='u-u' type='' inf='' lang='Ass' gloss='fear, be afraid' />
+    <verb root='0cht' class='u-u' type='' inf='' lang='SB, B' gloss='be afraid; fear; (D) intimidate, scare' />
+    <verb root='0skd' class='?-?' type='' inf='' lang='B, Mari' gloss='(meaning unknown)' />
+    <verb root='0skk' class='a-a' type='' inf='' lang='Ass, B, OB' gloss='block; be blocked; be impenetrable; (Dt) be blocked (of ears)' />
+    <verb root='0ckk' class='a-u' type='' inf='' lang='Ass, OB, SB, MA, OAss' gloss='harrow; thread on string' />
+    <verb root='0ckl' class='a-u' type='' inf='' lang='Ass' gloss='(meaning unknown)' />
+    <verb root='0ckl' class='d-d' type='' inf='' lang='Ass, NA SB, OB, B' gloss='wipe (out), mop' />
+    <verb root='0skl' class='i-i' type='' inf='' lang='Ass, B, OB' gloss='I acquire, hoard; appropriate; II balk, be shy' />
+    <verb root='0ckm' class='?-?' type='' inf='' lang='OB, B' gloss='(meaning uncertain), do something with textiles? ' />
+    <verb root='0ckn' class='a-u' type='' inf='' lang='Ass, MB, NB, OB, SB, B' gloss='place, set, put, establish, found; pronounce; issue' />
+    <verb root='0skn' class='i-i' type='' inf='' lang='Am, Mari' gloss='care for; (D) settle, keep settled' />
+    <verb root='0skp' class='i-i' type='' inf='' lang='Ass, B, NB, OB' gloss='overturn, overthrow; push down, away; (D) reject' />
+    <verb root='0skp' class='i-i' type='' inf='' lang='B' gloss='lie down, rest' />
+    <verb root='0skp' class='u-u' type='' inf='' lang='Ass, B, MB, NB' gloss='lie down, rest' />
+    <verb root='0ckr' class='i-i' type='' inf='' lang='Ass, MB, SB, NA, B' gloss='be drunk, be inebriated' />
+    <verb root='0skr' class='i-i' type='' inf='' lang='Ass, OAss' gloss='I dam, block (a river or canal); (Ntn) be persistently blocked (urine); II refine (metals), gild' />
+    <verb root='0skr' class='i-i' type='e' inf='' lang='B' gloss='dam, block (a river or canal); (Ntn) be persistently blocked (urine)' />
+    <verb root='0ckc' class='i-i' type='' inf='' lang='OB, B' gloss='kill, murder, slay; mistreat; annihilate' />
+    <verb root='0cks' class='u-u' type='' inf='' lang='OB, B' gloss='dry out; (D) dry off' />
+    <verb root='0ckt' class='?-?' type='' inf='' lang='OAss, NA, B, Ass' gloss='fetch' />
+    <verb root='0ckt' class='i-i' type='' inf='' lang='SB, B' gloss='(meaning unknown)' />
+    <verb root='0skt' class='u-u' type='' inf='' lang='B, Ass, NB' gloss='be silent, perch; (D) tranquilize' />
+    <verb root='0Slx' class='?-?' type='e' inf='' lang='OB, B, SB' gloss='I insult (woman); II ignite ' />
+    <verb root='0slx' class='a-u' type='' inf='salaaXu' lang='Ass, OAss, OB, MA, B' gloss='sprinkle, slander; (D) besprinkle' />
+    <verb root='0Slx' class='d-d' type='' inf='' lang='Ass, SB, NB, NA, B' gloss='beg, entreat, pray, supplicate, beseech' />
+    <verb root='0slx' class='d-d' type='' inf='' lang='B, OAss, OB, OAkk' gloss='(D) appeal; supplicate, pray' />
+    <verb root='0slx' class='i-i' type='' inf='' lang='Ass, NA' gloss='I lie, cheat, deceive; (Gtn) lie; II (meaning unknown)' />
+    <verb root='0clx' class='i-i' type='' inf='' lang='B' gloss='sink (intrans.), submerge; plunge; (S) subject to river ordeal' />
+    <verb root='0Slx' class='i-i' type='' inf='' lang='MA, NA, Nuzi, Ass' gloss='cast, throw, cast off; abort pregnancy; (S) cause to abort foetus' />
+    <verb root='0clx' class='i-i' type='' inf='' lang='SB, B' gloss='tear to pieces' />
+    <verb root='0Slx' class='i-i' type='e' inf='' lang='Ass' gloss='fight, object' />
+    <verb root='0slx' class='i-i' type='e' inf='' lang='Ass, NB, B' gloss='be negligent, careless, inattentive' />
+    <verb root='0clx' class='i-i' type='e' inf='' lang='Ass, NB, B' gloss='be negligent, careless, inattentive' />
+    <verb root='0clx' class='u-u' type='' inf='' lang='Ass, NA, NB, B' gloss='spit, fling, kick up; cast away; (D) pelt with rain' />
+    <verb root='0clx' class='u-u' type='e' inf='' lang='Ass, NB, B' gloss='be negligent, careless, inattentive' />
+    <verb root='0sld' class='i-i' type='' inf='' lang='B' gloss='slit, slice; cut in half; (D) trim away' />
+    <verb root='0clg' class='a-a' type='' inf='' lang='Ass, MB, B' gloss='snow' />
+    <verb root='0clh' class='a-u' type='' inf='' lang='Ass, OAss, Ass, Am, SB' gloss='I pull out, take out, retrieve; II dispatch, send off; II carry off (as booty), plunder' />
+    <verb root='0slh' class='a-u' type='' inf='' lang='Ass, OB, B' gloss='sprinkle, spatter, rain; shed tears' />
+    <verb root='0slh' class='i-i' type='' inf='' lang='OB, B, Mari' gloss='jerk, twitch; be paralyzed(?)' />
+    <verb root='0cll' class='?-?' type='' inf='' lang='Ass, OB, SB, B' gloss='creep, slither; crawl' />
+    <verb root='0cll' class='a-?' type='' inf='' lang='OAss, SB, B, Ass' gloss='commit an act of impudence' />
+    <verb root='0Sll' class='a-a' type='' inf='' lang='Ass, NA, B' gloss='lie asleep, fall asleep, remain inactive; lie (sexually)' />
+    <verb root='0cll' class='d-d' type='' inf='' lang='Ass' gloss='(S) rejoice, make jubilant' />
+    <verb root='0Sll' class='d-d' type='' inf='' lang='NA, B, Ass' gloss='cover, roof; shade' />
+    <verb root='0slm' class='a-a' type='' inf='' lang='B' gloss='be at or make peace; capitulate, become reconciled; (D) propitiate, conciliate' />
+    <verb root='0Slm' class='i-i' type='' inf='' lang='Ass, B' gloss='be black; (D) blacken; (Dt) become obscured (of planets, stars)' />
+    <verb root='0slm' class='i-i' type='' inf='' lang='Ass, B, MA, NA' gloss='be at or make peace; capitulate, become reconciled; (D) propitiate, conciliate' />
+    <verb root='0clm' class='i-i' type='' inf='' lang='Ass, OAkk, MAri, NB, MA, NA, B' gloss='become whole, become sound; be(come) healthy' />
+    <verb root='0sln' class='d-d' type='' inf='' lang='B' gloss='make plentiful, abundant' />
+    <verb root='0clp' class='a-u' type='' inf='' lang='Ass, OB, SB, NA, MA, B' gloss='pull out, tear out, extract; (D) take away; (N) be pulled out (of tongue)' />
+    <verb root='0Slp' class='i-i' type='' inf='' lang='B, OB; SB, Ass' gloss='cut (at an angle), dissect; dissect; (D) cut into portions' />
+    <verb root='0slq' class='?-?' type='' inf='' lang='NB' gloss='climb up' />
+    <verb root='0slq' class='a-u' type='' inf='' lang='Ass, B, OB' gloss='boil' />
+    <verb root='0clq' class='a-u' type='' inf='' lang='Ass, OAkk, OB, SB, NA' gloss='cut, slit open; lacerate' />
+    <verb root='0clc' class='a-u' type='' inf='' lang='Ass, SB, NB, B' gloss='do for a third time; do three times' />
+    <verb root='0clc' class='i-i' type='' inf='' lang='OB, OAss, B' gloss='do for a third time; do three times' />
+    <verb root='0slt' class='a-a' type='' inf='' lang='B' gloss='slit, slice; cut in half; (D) trim away' />
+    <verb root='0slt' class='a-u' type='' inf='' lang='Ass, NA' gloss='slit, slice; cut in half; (D) trim away' />
+    <verb root='0clT' class='a-u' type='' inf='' lang='B' gloss='cut into (earth, foot)' />
+    <verb root='0clT' class='i-i' type='' inf='' lang='Ass, NA, SB, OAss, B' gloss='have authority over, dispose' />
+    <verb root='0slt' class='i-i' type='' inf='' lang='B' gloss='slit, slice; cut in half; (D) trim away' />
+    <verb root='0slT' class='i-i' type='' inf='' lang='B' gloss='slit, slice; cut in half; (D) trim away' />
+    <verb root='0Smx' class='?-?' type='' inf='' lang='Ass' gloss='be thirsty, thirst; (D)' />
+    <verb root='0cmx' class='a-a' type='a' inf='camaaXu' lang='Ass, OAkk' gloss='hear, listen to, heed, hark; (Gt) make mutual agreement; (S) read tablet; report' />
+    <verb root='0cmx' class='d-d' type='' inf='' lang='OB, SB, B' gloss='ponder, reflect; consider' />
+    <verb root='0cmx' class='e-e' type='e' inf='' lang='NB, B, NA' gloss='hear, listen to, heed, hark; (Gt) make mutual agreement; (S) read tablet; report' />
+    <verb root='0cmx' class='i-i' type='' inf='' lang='OB, SB, B' gloss='roast' />
+    <verb root='0Smx' class='u-u' type='' inf='' lang='Ass, B, NA' gloss='become thirsty' />
+    <verb root='0smx' class='u-u' type='' inf='' lang='Ass, NA, NB, OB' gloss='hesitate, vacillate; be undecided; (Gtn) deviate; (D) cause to stray' />
+    <verb root='0cmd' class='i-i' type='' inf='' lang='Ass; MA, NA, SB, B' gloss='apply' />
+    <verb root='0Smd' class='i-i' type='ae' inf='' lang='NB, OB, Ass, B' gloss='hitch, make ready, yoke, harness; (S) hitch horse to chariot' />
+    <verb root='0smd' class='u-u' type='' inf='' lang='B, OAss, NB' gloss='grind (finely)' />
+    <verb root='0smh' class='a-u' type='' inf='' lang='Ass, MA, NA, B' gloss='merge, mingle; (D) mix, confuse; give share; (Dtt) receive share' />
+    <verb root='0smh' class='i-i' type='' inf='' lang='Nuzi' gloss='merge, mingle; (D) mix, confuse; give share; (Dtt) receive share' />
+    <verb root='0cmh' class='u-u' type='' inf='' lang='Ass, B' gloss='I grow abundantly; flourish; (D) make flourish; II break an agreement' />
+    <verb root='0smk' class='a-u' type='' inf='' lang='Ass, B, OB, MA, NA' gloss='I bury; cover up (D) incapacitate; II be bad (D) treat harshly' />
+    <verb root='0cmk' class='u-u' type='' inf='' lang='Ass, B' gloss='I grow abundantly; flourish; (D) make flourish; II break an agreement' />
+    <verb root='0cmm' class='a-u' type='' inf='' lang='Ass, SB, B' gloss='injure; lame, paralyze, numb' />
+    <verb root='0cmn' class='d-d' type='' inf='' lang='Ass' gloss='anoint' />
+    <verb root='0Smn' class='d-d' type='' inf='' lang='SB' gloss='(meaning unclear)' />
+    <verb root='0cmq' class='d-d' type='' inf='cutemuqu' lang='Ass' gloss='(St) pray devoutly' />
+    <verb root='0Smr' class='?-?' type='' inf='' lang='Ass, NB, SB, B' gloss='strive for, aim for, aim' />
+    <verb root='0cmr' class='?-?' type='' inf='' lang='Ass, OB, SB, B' gloss='gloat; (Gt) extol, praise' />
+    <verb root='0Smr' class='?-?' type='e' inf='' lang='Ass' gloss='swell up, be swollen' />
+    <verb root='0smr' class='i-i' type='' inf='' lang='OAss' gloss='set aside, separate' />
+    <verb root='0cmr' class='u-u' type='' inf='' lang='Ass, B, NA, MB, SB' gloss='be wild, fierce, furious; (S) make rage' />
+    <verb root='0smc' class='a-u' type='' inf='' lang='B, OB, MAri' gloss='hide; (D) conceal' />
+    <verb root='0cmc' class='d-d' type='' inf='' lang='Ass' gloss='bask' />
+    <verb root='0smc' class='u-u' type='' inf='' lang='B, OB, Mari' gloss='hide; (D) conceal' />
+    <verb root='0cmt' class='?-?' type='' inf='' lang='OB, SB, B' gloss='be sunken; (D) flatten' />
+    <verb root='0cmT' class='?-?' type='' inf='' lang='OB, SB, B' gloss='be sunken; (D) flatten' />
+    <verb root='0Smt' class='?-?' type='' inf='' lang='Ug' gloss='sell, transfer property' />
+    <verb root='0cmT' class='a-u' type='' inf='' lang='Ass, B' gloss='pluck out, brush off' />
+    <verb root='0cmt' class='i-i' type='ae' inf='' lang='MB, SB, B, Mari' gloss='mark ownership; brand (slaves, cattle); paint' />
+    <verb root='0cnx' class='?-?' type='e' inf='' lang='SB, OB, B' gloss='(meaning unclear) ~ action of movement' />
+    <verb root='0cnx' class='a-u' type='' inf='canaaXu' lang='NA, SB, B, Ass' gloss='block; stifle; (D) suffuse' />
+    <verb root='0snx' class='i-i' type='' inf='' lang='Ass' gloss='be angry(?)' />
+    <verb root='0cnx' class='i-i' type='' inf='' lang='Ass, NB, B' gloss='be(come) different; change; (S) alter statement' />
+    <verb root='0cnx' class='i-i' type='' inf='' lang='OAkk, Am, OAss, ASs, OB, SB, B' gloss='do again, do for a second time, do twice; (Dt) remeasure; (St) duplicate' />
+    <verb root='0snb' class='i-i' type='' inf='' lang='OB, B' gloss='tie on (weapon, hair pin)' />
+    <verb root='0Snh' class='a-u' type='' inf='' lang='Ass, B, SB' gloss='excrete, have diarrhea' />
+    <verb root='0cnh' class='a-u' type='' inf='' lang='NA, SB, B, Ass' gloss='block; stifle; (D) suffuse' />
+    <verb root='0snn' class='?-?' type='' inf='' lang='OB' gloss='(meaning unknown); (D) make flow' />
+    <verb root='0cnn' class='a-u' type='' inf='' lang='Ass, OAss, OAkk, B' gloss='rival, equal, vie; oppose' />
+    <verb root='0snp' class='i-i' type='' inf='' lang='OB, B' gloss='tie on (weapon, hair pin)' />
+    <verb root='0snq' class='i-i' type='' inf='' lang='Ass, B, NB, MB' gloss='approach, come close; set off to; (D) check, control; torture, inflict agony (S) make to reach' />
+    <verb root='0cnq' class='i-i' type='' inf='' lang='Ass, B, NB, MB' gloss='approach, come close; set off to; (D) check, control; torture, inflict agony (S) make to reach' />
+    <verb root='0sns' class='?-?' type='' inf='' lang='NB, B' gloss='be in need of, lack something' />
+    <verb root='0cnS' class='i-i' type='' inf='' lang='Ass, B, Am' gloss='sneer (at), scorn, scoff' />
+    <verb root='0sns' class='i-i' type='' inf='' lang='NA, OB, B, Ass' gloss='thrust in; drive in' />
+    <verb root='0snc' class='i-i' type='' inf='' lang='NA, OB, B, Ass' gloss='thrust in; drive in' />
+    <verb root='0cnc' class='i-i' type='' inf='' lang='NA, OB, B, Ass' gloss='thrust in; drive in' />
+    <verb root='0spx' class='?-?' type='ea' inf='' lang='OB' gloss='pull, pluck (hair, wool); (Gtn) pluck persistently' />
+    <verb root='0Spx' class='d-d' type='' inf='' lang='Ass' gloss='rub down' />
+    <verb root='0spx' class='d-d' type='' inf='' lang='Ass, OB, B' gloss='I supplicate, pray; beseech; II abduct (servant, slave girl); (Dt) be abducted' />
+    <verb root='0cpx' class='i-i' type='' inf='' lang='Ass, MB, SB, B' gloss='wrap, lace, seal up' />
+    <verb root='0cpx' class='i-i' type='' inf='' lang='OAkk, OAss, OB, SB, B' gloss='be silent; (D) suppress revolt' />
+    <verb root='0cpx' class='i-i' type='e' inf='' lang='OB, B' gloss='ask; question, interrogate (D) cross-question' />
+    <verb root='0Spx' class='u-u' type='' inf='' lang='Ass, B' gloss='soak, drench, color, tinge' />
+    <verb root='0cpx' class='u-u' type='' inf='' lang='Ass, OB, SB, B' gloss='be dense, intense, keen' />
+    <verb root='0spd' class='i-i' type='' inf='' lang='OB, B, Ass' gloss='mourn; (S) cause to ~' />
+    <verb root='0sph' class='a-u' type='' inf='' lang='Ass, OAss, NA' gloss='disperse, ruin, destroy, catter, spill; (D) squander' />
+    <verb root='0Sph' class='a-u' type='' inf='' lang='Ass, OAss, NA' gloss='disperse, ruin, destroy, catter, spill; (D) squander' />
+    <verb root='0cph' class='a-u' type='' inf='' lang='AsS, OAss, NA' gloss='disperse, ruin, destroy, scatter, spill; (D) squander' />
+    <verb root='0spk' class='?-?' type='' inf='' lang='NA' gloss='(meaning uncertain); (N) be ensnared; (Ntn) writhe' />
+    <verb root='0cpk' class='a-u' type='' inf='' lang='OAss, Ass, B' gloss='pour on, stack, pile up, heap up' />
+    <verb root='0cpl' class='i-i' type='' inf='' lang='Ass, B' gloss='be low, be humble; (D) dig deep; (S) abase' />
+    <verb root='0Spn' class='?-?' type='' inf='' lang='Am' gloss='rescue; recover; shelter' />
+    <verb root='0spn' class='a-u' type='' inf='' lang='B, MA, Ass' gloss='level, deface, flatten; (S) cause to overthrow' />
+    <verb root='0cpp' class='?-?' type='' inf='' lang='Ass, OB, SB, B' gloss='move along, drift, glide' />
+    <verb root='0Spp' class='u-u' type='' inf='' lang='Ass, SB, B' gloss='flutter (about); (D) spread wings; (S) teach young birds to spread wings' />
+    <verb root='0spq' class='i-i' type='' inf='' lang='Ass, NA, NB' gloss='suffice, be enough; be strong enough (of garrison)' />
+    <verb root='0cpr' class='?-?' type='' inf='citpuru' lang='Ass' gloss='(Gt only) outfit o.s., attire' />
+    <verb root='0Spr' class='a-a' type='' inf='' lang='Ass, OB, SB, B' gloss='press down, inlay, inset; wink (eye)' />
+    <verb root='0cpr' class='a-u' type='' inf='' lang='Ass, OAss, OB, MB, SB, B' gloss='send, dispatch, write; (St) govern' />
+    <verb root='0Spr' class='i-i' type='' inf='' lang='Ass, B' gloss='press down, inlay, inset; wink (eye)' />
+    <verb root='0spr' class='i-i' type='e' inf='' lang='NB, Ass' gloss='write in Aramaic script' />
+    <verb root='0cpc' class='?-?' type='' inf='' lang='OB, B' gloss='(meaning unknown); cease?' />
+    <verb root='0cpS' class='i-i' type='' inf='' lang='Ass' gloss='clasp, enfold; (Gt) wrestle, grapple; (D) keep enfolded' />
+    <verb root='0cps' class='i-i' type='' inf='' lang='B, OB' gloss='clasp, enfold; (Gt) wrestle, grapple; (D) keep enfolded' />
+    <verb root='0cpt' class='?-?' type='' inf='' lang='SB, B' gloss='be malicious, treacherous' />
+    <verb root='0cpT' class='a-u' type='' inf='' lang='Ass, OB, B' gloss='issue strict orders; reprimand' />
+    <verb root='0cpT' class='i-i' type='' inf='' lang='OB, SB, B' gloss='proclaim judgement, exercise authority' />
+    <verb root='0cqx' class='i-i' type='' inf='' lang='Ass, OAkk, B, Mari' gloss='give drink, serve drinks; irrigate, water' />
+    <verb root='0cqx' class='i-i' type='' inf='' lang='B' gloss='be high, elevated; (D) raise up' />
+    <verb root='0cqx' class='u-u' type='' inf='' lang='Ass, SB, B' gloss='be high, elevated; (D) raise up' />
+    <verb root='0sqd' class='?-?' type='' inf='' lang='B, Mari' gloss='(meaning unknown)' />
+    <verb root='0cql' class='a-u' type='' inf='' lang='Ass, B, OB, SB, OAss' gloss='weigh (out), measure, pay; balance' />
+    <verb root='0sql' class='a-u' type='' inf='' lang='SB' gloss='take away, kidnap (a person from someone)' />
+    <verb root='0sqp' class='a-u' type='' inf='' lang='NA, B' gloss='fix upright; impale (human on stake); crucify; plant; (N) be set up' />
+    <verb root='0sqr' class='a-a' type='' inf='' lang='OAkk , B' gloss='project, build high, be high, culminate' />
+    <verb root='0sqr' class='a-u' type='' inf='' lang='Ass, Am, Mari, B' gloss='declare, name, invoke, mention, speak, pronounce' />
+    <verb root='0sqr' class='a-u' type='' inf='' lang='Ass, OAkk , B' gloss='project, build high, be high, culminate' />
+    <verb root='0cqr' class='i-i' type='' inf='' lang='Ass, SB, B' gloss='pierce (of arrow)' />
+    <verb root='0sqr' class='i-i' type='' inf='' lang='OAkk , B' gloss='project, build high, be high, culminate' />
+    <verb root='0crx' class='d-d' type='' inf='' lang='Ass' gloss='(Dt) fast, stop eating; abstain' />
+    <verb root='0crx' class='d-d' type='' inf='' lang='Ass, MA, NA' gloss='(D) I begin, start, start out; II restrict, restrain' />
+    <verb root='0crx' class='d-d' type='' inf='' lang='Ass, OB, SB; B' gloss='(D) bend forwards' />
+    <verb root='0srx' class='d-d' type='' inf='' lang='OAss, OB' gloss='(D) confirm; check' />
+    <verb root='0crx' class='i-i' type='' inf='' lang='Ass, NA, OB, SB; B' gloss='I thrive(?), lay down(?); II take refuge' />
+    <verb root='0crx' class='i-i' type='' inf='' lang='Ass, OAss, OB, B' gloss='be(come) rich, wealthy' />
+    <verb root='0srx' class='u-u' type='' inf='' lang='Ass, B, NA, MA' gloss='sow, seed; disseminate; scatter, winnow' />
+    <verb root='0crx' class='u-u' type='' inf='' lang='Ass, OAss, OB, B' gloss='be(come) rich, wealthy' />
+    <verb root='0crb' class='a-?' type='' inf='' lang='SB, B' gloss='wander about' />
+    <verb root='0crd' class='?-?' type='' inf='citrudu' lang='MB, SB, B' gloss='(Gt) (meaning unknown)' />
+    <verb root='0srd' class='i-i' type='' inf='' lang='Ass, OAss, OB, SB' gloss='pack, tie up' />
+    <verb root='0Srd' class='i-i' type='' inf='' lang='OB, SB' gloss='fart, break wind; (D) fart chronically' />
+    <verb root='0Srd' class='u-u' type='' inf='' lang='OB, SB' gloss='fart, break wind; (D) fart chronically' />
+    <verb root='0srh' class='?-?' type='' inf='' lang='Ass' gloss='range, rove; (S) captivate' />
+    <verb root='0crh' class='?-u' type='' inf='' lang='SB, Mari, B' gloss='I pull up; II mark, brand (animals, hides)' />
+    <verb root='0Srh' class='a-u' type='' inf='' lang='Ass' gloss='be hot, be feverish; (D) keep warm (horse); (Ntn) have chronic fever' />
+    <verb root='0Srh' class='a-u' type='' inf='' lang='B, Ass' gloss='cry out, utter a cry; wail; complain' />
+    <verb root='0crh' class='d-d' type='' inf='' lang='Ass' gloss='drool, dribble' />
+    <verb root='0srh' class='i-i' type='' inf='' lang='B, NA, OB' gloss='ruin, destroy, demolish' />
+    <verb root='0crh' class='u-u' type='' inf='' lang='Ass, B' gloss='be glorious, splendid; (D) make proud; (Dtn) praise repeatedly' />
+    <verb root='0Srh' class='u-u' type='' inf='' lang='SB, Ass' gloss='flare up, flash, scud; (S) make lightning' />
+    <verb root='0Srk' class='?-?' type='' inf='' lang='OB, B' gloss='disembowel, gut' />
+    <verb root='0crk' class='a-u' type='' inf='' lang='Ass, OAkk, NA, B' gloss='give, present, bestow, endow' />
+    <verb root='0crk' class='i-i' type='' inf='' lang='Ass, SB, B' gloss='fester, suppurate; pus, discharge' />
+    <verb root='0crm' class='a-u' type='' inf='' lang='Ass' gloss='cut, cut size, trim' />
+    <verb root='0Srm' class='i-i' type='' inf='' lang='B, NA, Ass' gloss='endeavor, make an effort' />
+    <verb root='0srm' class='i-i' type='' inf='' lang='OB, SB, B' gloss='cut open (roof, skull)' />
+    <verb root='0crm' class='i-i' type='e' inf='' lang='NB, SB, B' gloss='cut, cut size, trim' />
+    <verb root='0srp' class='?-?' type='' inf='' lang='Ass, MB, SB, B' gloss='sup; sip (porridge)' />
+    <verb root='0Srp' class='a-u' type='' inf='' lang='Ass, B' gloss='I refine (metals), fire or bake (bricks); dye (red); (D ~ G) torture by burning' />
+    <verb root='0crp' class='a-u' type='' inf='' lang='Ass, OB, B' gloss='burn (tablet), city, wood, corpses, light;' />
+    <verb root='0crq' class='?-?' type='' inf='' lang='OB, MB, OAkk, B' gloss='I be ready; II cook' />
+    <verb root='0crq' class='a-u' type='' inf='' lang='Ass, OAss, B' gloss='steal' />
+    <verb root='0srq' class='a-u' type='' inf='' lang='OB, B, Ass' gloss='strew, scatter, pour, sprinkle' />
+    <verb root='0crq' class='i-i' type='' inf='' lang='Ass, OAss, B, Ug' gloss='steal' />
+    <verb root='0srr' class='?-?' type='' inf='' lang='Ass' gloss='be a criminal; lie, be false; (D) deceive, act dishonestly; make false declaration' />
+    <verb root='0Srr' class='?-?' type='' inf='' lang='MB, B, OB' gloss='I be a criminal; lie, be false; (D) deceive, act dishonestly; make false declaration; II pack up (clothes)' />
+    <verb root='0Srr' class='a-u' type='' inf='' lang='NB, B' gloss='drip, ooze, trickle; (D) drip liquid' />
+    <verb root='0srr' class='d-d' type='' inf='sarruru' lang='Ass, NA' gloss='pray, implore; worship' />
+    <verb root='0crr' class='u-u' type='' inf='' lang='Ass' gloss='bend' />
+    <verb root='0Srr' class='u-u' type='' inf='' lang='Ass' gloss='flare up, flash' />
+    <verb root='0Srr' class='u-u' type='' inf='' lang='Ass, NA, B' gloss='drip, ooze, trickle; (D) drip liquid' />
+    <verb root='0crr' class='u-u' type='' inf='' lang='B' gloss='go ahead (in battle, prayer); (D) encourage' />
+    <verb root='0Src' class='?-?' type='' inf='' lang='SB, OB, B' gloss='(meaning unknown); (D) spread out; make rays of light' />
+    <verb root='0crS' class='a-u' type='' inf='' lang='Ass, SB, B' gloss='clutch, claw on' />
+    <verb root='0Src' class='d-d' type='' inf='' lang='Ass' gloss='sprout, branch' />
+    <verb root='0crT' class='a-u' type='' inf='' lang='Ass, NA, B' gloss='shred, tear; (D) tear in' />
+    <verb root='0Srt' class='i-i' type='' inf='' lang='B, SB, Ass' gloss='fart, break wind; (D) fart chronically' />
+    <verb root='0ssx' class='i-i' type='' inf='' lang='Ass, NA, MA' gloss='read (out), shout, call; address; demand; (D) have a proclamation made' />
+    <verb root='0csx' class='i-i' type='' inf='' lang='OAKk, OAss, OB' gloss='read (out), shout, call; address; demand; (D) have a proclamation made' />
+    <verb root='0ctx' class='i-i' type='' inf='' lang='Ass, B' gloss='drink, imbibe, gulp down' />
+    <verb root='0cTx' class='i-i' type='e' inf='' lang='Ass, SB, NB, B' gloss='spread out, lay out' />
+    <verb root='0ctx' class='u-u' type='' inf='' lang='Ass' gloss='weave, spin; entangle' />
+    <verb root='0sTh' class='?-?' type='' inf='' lang='OB' gloss='(meaning unknown)' />
+    <verb root='0cth' class='a-u' type='' inf='' lang='Ass, SB, B' gloss='be tall, elongated, stretch out' />
+    <verb root='0stl' class='i-i' type='' inf='' lang='SB, B, Ass' gloss='plant (reed-bed)' />
+    <verb root='0ctn' class='i-i' type='' inf='' lang='Ass, SB, B' gloss='urinate' />
+    <verb root='0cTp' class='a-u' type='' inf='' lang='Ass, OAkk, B' gloss='preserve life, save' />
+    <verb root='0ctp' class='i-i' type='' inf='' lang='SB, B' gloss='hollow out' />
+    <verb root='0ctq' class='a-u' type='' inf='' lang='Ass, B' gloss='cut, split; tear' />
+    <verb root='0cTr' class='a-u' type='' inf='' lang='Ass, Na, NA, B' gloss='write, write down, inscribe' />
+    <verb root='0sTr' class='a-u' type='' inf='' lang='NB, NA, B, Ass' gloss='write down; inscribe tablet, stele; copy tablet; (D) put down in writing' />
+    <verb root='0sTr' class='a-u' type='' inf='' lang='Nuzi' gloss='write down; inscribe tablet, stele; copy tablet; (D) put down in writing' />
+    <verb root='0cTT' class='a-u' type='' inf='' lang='SB, B' gloss='rip open' />
+    <verb root='0Swx' class='?-?' type='' inf='SawwUm' lang='OAss, Ass' gloss='speak' />
+    <verb root='0cwx' class='i-i' type='' inf='' lang='OB, SB, B' gloss='roast' />
+    <verb root='0txb' class='?-?' type='e' inf='' lang='OB' gloss='distrust' />
+    <verb root='0Txb' class='a-i' type='' inf='Tiaabu' lang='Ass, OAkk' gloss='be(come) good, sweet' />
+    <verb root='0Txb' class='i-i' type='' inf='' lang='B' gloss='be(come) good, sweet' />
+    <verb root='0txl' class='?-?' type='ea' inf='' lang='OB, SB' gloss='pronounce exactly; (D) mark exactly' />
+    <verb root='0Txm' class='?-?' type='e' inf='' lang='B, OB' gloss='look after, take care' />
+    <verb root='0Txm' class='a-e' type='' inf='Teaamu' lang='Ass, OAss' gloss='perceive, taste, try' />
+    <verb root='0txm' class='d-d' type='' inf='' lang='NA, NB, SB' gloss='reconsider' />
+    <verb root='0Txn' class='a-i' type='' inf='Tiaanu' lang='Ass, NA, MA, OB' gloss='grind, pulverize; (N) be ground' />
+    <verb root='0Txp' class='?-?' type='' inf='' lang='SB' gloss='twist, wind thread' />
+    <verb root='0txp' class='?-?' type='' inf='' lang='SB, OB' gloss='I (meaning unknown); II distrust' />
+    <verb root='0txp' class='u-u' type='' inf='' lang='Ass' gloss='devote o.s.' />
+    <verb root='0txr' class='a-u' type='' inf='tuaaru' lang='Ass, OAkk' gloss='return (intrans), recur, turn; (D) send, give, pay back' />
+    <verb root='0txr' class='u-u' type='' inf='' lang='B' gloss='return (intrans), recur, turn; (D) send, give, pay back' />
+    <verb root='0Tbx' class='i-i' type='e' inf='' lang='B, SB, MB' gloss='sink (intrans.); drown; submerge; be depressed' />
+    <verb root='0tbx' class='i-i' type='ea' inf='tebU, tabaaXu' lang='OAkk, Ass, NB' gloss='rise (up); revolt (intrans.); get up' />
+    <verb root='0Tbx' class='u-u' type='' inf='TabaaXu' lang='Ass, OAss, B' gloss='sink (intrans.); drown; submerge; be depressed' />
+    <verb root='0Tbh' class='a-u' type='' inf='' lang='Ass' gloss='slaughter (animal, human), butcher' />
+    <verb root='0tbk' class='a-u' type='' inf='' lang='Ass, OAss' gloss='pour, shed, infuse; lay flat' />
+    <verb root='0tbl' class='a-a' type='' inf='' lang='Ass, SB, OAss, B' gloss='take away, take for oneself; disappear' />
+    <verb root='0tdx' class='d-d' type='' inf='tuddU' lang='Nippur, NB, B' gloss='(D) make known' />
+    <verb root='0tdn' class='a-i' type='' inf='' lang='Ass, NA, MA' gloss='give, deliver, hand' />
+    <verb root='0tgn' class='u-u' type='' inf='' lang='SB, Ass' gloss='be(come) secure; (D) put in order; (Dtn) keep in order' />
+    <verb root='0Thx' class='e-e' type='e' inf='' lang='B, OB' gloss='approach, draw near, come near; (D) bring' />
+    <verb root='0Thx' class='i-i' type='' inf='' lang='Ass, OAss' gloss='approach, draw near, come near; (D) bring' />
+    <verb root='0Thd' class='u-u' type='' inf='' lang='Ass, NA, B' gloss='be abundant; flourish; (Dt) burst out' />
+    <verb root='0thh' class='?-?' type='' inf='' lang='Ass, MA, NA, SB' gloss='pour (over)(?); (D) drench ' />
+    <verb root='0tkx' class='d-d' type='' inf='' lang='Ass' gloss='check, coerce, contain' />
+    <verb root='0tkk' class='?-?' type='' inf='' lang='Ass, OB, SB' gloss='injure; harm, oppress' />
+    <verb root='0tkl' class='a-a' type='' inf='' lang='B' gloss='confide (in), trust, entrust, rely on' />
+    <verb root='0tkl' class='i-i' type='' inf='' lang='SB, NA, Ass' gloss='confide (in), trust, entrust, rely on' />
+    <verb root='0tkp' class='i-i' type='' inf='' lang='Ass, NA, B' gloss='prick, puncture, cup' />
+    <verb root='0tlx' class='d-d' type='' inf='' lang='Ass, Nuzi, SB' gloss='bedeck, adorn, decorate, accoutre (with jewelry)' />
+    <verb root='0tlk' class='d-d' type='' inf='' lang='OB' gloss='(D) (meaning unknown)' />
+    <verb root='0tll' class='a-u' type='' inf='' lang='Ass, OB, SB' gloss='stretch out; stick out' />
+    <verb root='0tll' class='d-d' type='' inf='' lang='SB, NA' gloss='(D) harness, equip' />
+    <verb root='0Tlm' class='a-u' type='' inf='' lang='Ass' gloss='cheat, deceive, treat' />
+    <verb root='0Tlm' class='d-d' type='' inf='' lang='OB' gloss='(D) do injustice' />
+    <verb root='0tlm' class='d-d' type='' inf='cutlumu' lang='Ass, B' gloss='(S only) bestow generously, grant' />
+    <verb root='0tmx' class='a-a' type='ae' inf='' lang='Ass, NB, Mari' gloss='swear, vow; (D) adjure' />
+    <verb root='0Tmx' class='i-i' type='' inf='' lang='Ass, B' gloss='spin, plait; totter, go shakily' />
+    <verb root='0tmx' class='u-u' type='' inf='' lang='Ass, OB' gloss='be amazed' />
+    <verb root='0tmh' class='a-u' type='' inf='' lang='Ass, B' gloss='grasp, hold fast; control (D ~ G)' />
+    <verb root='0tmk' class='a-u' type='' inf='' lang='Ass, B' gloss='grasp, hold fast; control (D ~ G)' />
+    <verb root='0tmm' class='?-?' type='' inf='' lang='OB' gloss='(meaning unknown)' />
+    <verb root='0Tmm' class='d-d' type='' inf='' lang='?' gloss='(D) block ears; make deaf' />
+    <verb root='0tmr' class='i-i' type='ae' inf='' lang='Ass, B, NA' gloss='bury; cover in earth' />
+    <verb root='0Tnp' class='u-u' type='' inf='' lang='Ass, SB, NB, NA' gloss='be dirty, be stained' />
+    <verb root='0tpx' class='d-d' type='' inf='tappU' lang='OAss' gloss='join in partnership with' />
+    <verb root='0Tpx' class='i-i' type='' inf='' lang='Ass, OAkk, B, NB' gloss='expand, extend, add, apply; (D) apply (plaster)' />
+    <verb root='0tpk' class='a-u' type='' inf='' lang='Ass, OAss' gloss='pour, shed, infuse; lay flat' />
+    <verb root='0Tpl' class='a-u' type='' inf='' lang='OB' gloss='slander, insult, revile; disdain oath' />
+    <verb root='0Tpl' class='i-i' type='' inf='' lang='Ass, SB, OAss' gloss='slander, insult, revile; disdain oath' />
+    <verb root='0Tpp' class='u-u' type='' inf='' lang='MA, SB' gloss='be satisfied, be very full' />
+    <verb root='0Tpr' class='i-i' type='' inf='' lang='OB, SB' gloss='press towards; drive away (animate objects)' />
+    <verb root='0Tpc' class='?-?' type='' inf='' lang='Ass, SB' gloss='be plump, chubby, fat' />
+    <verb root='0tpc' class='?-?' type='' inf='' lang='OB' gloss='(D) take into custody' />
+    <verb root='0tqm' class='u-u' type='' inf='' lang='NB' gloss='be(come) secure; (D) put in order; (Dtn) keep in order' />
+    <verb root='0tqn' class='u-u' type='' inf='' lang='B' gloss='be(come) secure; (D) put in order; (Dtn) keep in order' />
+    <verb root='0trx' class='i-i' type='' inf='' lang='OB, SB' gloss='lift up (child, tail)' />
+    <verb root='0Trx' class='i-i' type='ea' inf='' lang='Ass, NB, SB, MB' gloss='strike, lash, beat; penetrate' />
+    <verb root='0trx' class='u-u' type='' inf='' lang='OAkk, OAss, OB, SB' gloss='lead away' />
+    <verb root='0Trd' class='a-u' type='' inf='' lang='OAkk, B, Ass' gloss='send (animate objects), drive away' />
+    <verb root='0trh' class='a-u' type='' inf='' lang='Ass, MA, SB' gloss='delve, dig up, grub' />
+    <verb root='0trk' class='a-u' type='' inf='' lang='Ass, OAkk, SB, OB' gloss='I be dark; II beat, thump' />
+    <verb root='0trp' class='?-?' type='' inf='' lang='Ass, SB' gloss='be covered with color, be painted' />
+    <verb root='0trq' class='a-a' type='' inf='' lang='OAkk, SB' gloss='relent, take pity' />
+    <verb root='0Trr' class='?-?' type='' inf='' lang='SB' gloss='be bearded' />
+    <verb root='0trr' class='u-u' type='' inf='' lang='Ass, B' gloss='shake, shiver, thrill' />
+    <verb root='0trs' class='?-?' type='' inf='' lang='?' gloss='send (person)' />
+    <verb root='0trS' class='?-?' type='' inf='' lang='?' gloss='send (person)' />
+    <verb root='0TrS' class='?-?' type='' inf='' lang='?' gloss='send (person)' />
+    <verb root='0trc' class='?-?' type='' inf='' lang='OB' gloss='(meaning unknown)' />
+    <verb root='0Trs' class='?-?' type='' inf='' lang='Ug, B' gloss='send (person)' />
+    <verb root='0trS' class='a-u' type='' inf='' lang='Ass, Nuzi, Am, OB' gloss='stretch out, extend, point (a finger); spread out' />
+    <verb root='0trS' class='i-i' type='' inf='' lang='Am' gloss='be(come) proper, feasible, in order' />
+    <verb root='0trS' class='u-u' type='' inf='' lang='Ass, NA, B, OB' gloss='be(come) proper, feasible, in order' />
+    <verb root='0tSx' class='?-?' type='' inf='' lang='OB, SB' gloss='go away' />
+    <verb root='0tSx' class='i-i' type='e' inf='' lang='OB, SB, Ass' gloss='defecate, shit' />
+    <verb root='0tcb' class='a-i' type='' inf='' lang='OAss, B' gloss='sit down' />
+    <verb root='0twx' class='?-?' type='' inf='' lang='Mari' gloss='(meaning unknown)' />
+    <verb root='0Twx' class='i-i' type='' inf='' lang='B' gloss='spin, plait; totter, go shakily' />
+    <verb root='0tzx' class='i-i' type='e' inf='' lang='OB, SB, Ass' gloss='defecate, shit' />
+    <verb root='0wxx' class='d-d' type='' inf='wuXXUm' lang='OB' gloss='falsify, counterfeit (tablet, sealing)' />
+    <verb root='0wxr' class='a-a' type='' inf='wAru' lang='OAkk, B, OAss, SB, MB' gloss='go forward, march; (D) instruct' />
+    <verb root='0wxS' class='?-?' type='' inf='' lang='B, OAkk' gloss='become insufficient, little' />
+    <verb root='0wxc' class='?-?' type='' inf='weXaacum, wEcum' lang='B, OAss' gloss='relinquish' />
+    <verb root='0wbx' class='i-i' type='' inf='wabaaXu' lang='OB, SB' gloss='weed' />
+    <verb root='0wbd' class='?-?' type='' inf='' lang='OAkk' gloss='(meaning unknown)' />
+    <verb root='0wbl' class='a-i' type='' inf='wabaalu, ubaalu' lang='Ass, SB' gloss='carry, bring; (Gtn) look after; (S) deliver; (St1) be delivered; (St2) stir' />
+    <verb root='0wbr' class='d-d' type='' inf='ubburu' lang='Ass' gloss='accuse, denounce' />
+    <verb root='0wbt' class='?-?' type='' inf='' lang='OAkk' gloss='(meaning unknown)' />
+    <verb root='0wbT' class='?-?' type='' inf='' lang='OAkk' gloss='(meaning unknown)' />
+    <verb root='0wdx' class='a-i' type='' inf='wadUm, udaaXu' lang='Ass, OAss, B' gloss='know, be aware; (D) identify, reveal, prescribe, define; (SD) allocate' />
+    <verb root='0whr' class='d-d' type='' inf='uhhuru' lang='Ass' gloss='be late, tarry' />
+    <verb root='0wkb' class='d-d' type='' inf='ukkubu' lang='Ass' gloss='arrive, draw close' />
+    <verb root='0wkl' class='?-?' type='' inf='' lang='OB' gloss='(D) appoint as overseer' />
+    <verb root='0wkm' class='?-?' type='' inf='' lang='Mari, OAkk' gloss='notice, observe' />
+    <verb root='0wkc' class='d-d' type='' inf='ukkucu' lang='Ass' gloss='move on, progress' />
+    <verb root='0wlx' class='?-?' type='' inf='alaaXu' lang='SB' gloss='lick' />
+    <verb root='0wld' class='a-i' type='' inf='' lang='B, OAkk' gloss='give birth, bear (young)' />
+    <verb root='0wmx' class='?-?' type='' inf='' lang='OAkk' gloss='swear' />
+    <verb root='0wml' class='d-d' type='' inf='ummulu' lang='Ass' gloss='scintillate, twinkle' />
+    <verb root='0wml' class='i-i' type='' inf='' lang='OB, SB' gloss='be veiled, covered; (D) eclipse' />
+    <verb root='0wnt' class='d-d' type='' inf='unnutu' lang='Ass' gloss='be dim, be faint' />
+    <verb root='0wpx' class='?-?' type='' inf='' lang='OAkk, MB, SB, MA' gloss='be(come) visible, appear; (S) make manifest' />
+    <verb root='0wpd' class='?-?' type='' inf='' lang='OAkk' gloss='(meaning unknown)' />
+    <verb root='0wpc' class='?-?' type='' inf='' lang='OB' gloss='insult' />
+    <verb root='0wpt' class='?-?' type='' inf='' lang='OAkk' gloss='(meaning unknown)' />
+    <verb root='0wpT' class='?-?' type='' inf='' lang='OAkk' gloss='(meaning unknown)' />
+    <verb root='0wqx' class='?-?' type='' inf='' lang='OAss, OB, SB' gloss='wait for; (Dt) expect' />
+    <verb root='0wqx' class='d-d' type='' inf='uqqU' lang='Ass' gloss='incise, inscribe, prescribe' />
+    <verb root='0wqr' class='i-i' type='' inf='waqaaru, uqaaru' lang='B, Ass' gloss='become rare, scarce, expensive' />
+    <verb root='0wrx' class='u-u' type='' inf='' lang='OAkk, OAss, MA, NA, OB, SB' gloss='lead, bring, take to; (Gt) lead away; (Gtn) guide; steer' />
+    <verb root='0wrd' class='a-i' type='' inf='uradu' lang='Ass, OAss, MB, NB' gloss='descend, go down' />
+    <verb root='0wrh' class='?-?' type='' inf='' lang='OB, SB' gloss='hasten, be urgent; (D) speed up, scare away' />
+    <verb root='0wrq' class='i-i' type='' inf='' lang='OB' gloss='become yellowish green; pale' />
+    <verb root='0wrc' class='?-?' type='' inf='' lang='B, SB' gloss='be(come) dirty' />
+    <verb root='0wrz' class='d-d' type='' inf='urruzu' lang='Ass' gloss='make dirty, muck' />
+    <verb root='0wSx' class='a-i' type='' inf='uSU' lang='Ass' gloss='go out, set forth' />
+    <verb root='0wSx' class='d-d' type='' inf='' lang='B' gloss='spread out; remove; open wide' />
+    <verb root='0wsx' class='d-d' type='' inf='' lang='OAkk, B, NB, SB, MB, Ass' gloss='identify, distinguish; discriminate' />
+    <verb root='0wSx' class='i-i' type='' inf='' lang='B' gloss='go out; depart' />
+    <verb root='0wcx' class='i-i' type='' inf='' lang='NB' gloss='forget, leave behind' />
+    <verb root='0wcx' class='i-i' type='' inf='wacaaXum' lang='SB, OAss' gloss='need' />
+    <verb root='0wSb' class='a-i' type='' inf='' lang='B, Ass, OAss' gloss='add, increase; augment(D) multiply' />
+    <verb root='0wsk' class='d-d' type='' inf='ussuku' lang='Ass' gloss='ascribe, assign, attribute' />
+    <verb root='0wsm' class='?-?' type='' inf='' lang='B' gloss='be fitting, suitable; (D) adorn building' />
+    <verb root='0wsq' class='i-i' type='' inf='' lang='JB' gloss='raise up, strengthen' />
+    <verb root='0wcr' class='?-?' type='' inf='' lang='OB, SB, NB' gloss='release, set free, relinquish; abandon' />
+    <verb root='0wcr' class='d-d' type='' inf='uccuru' lang='Ass' gloss='release, set free, relinquish; abandon' />
+    <verb root='0wSS' class='d-d' type='' inf='(w)uSSuSu' lang='Ass, NA, SB, NB' gloss='investigate, interrogate' />
+    <verb root='0wcT' class='a-i' type='' inf='' lang='B, OAss' gloss='be(come) difficult, stiff' />
+    <verb root='0wcz' class='a-i' type='' inf='uzuzzu' lang='Ass' gloss='stand; (Gtn) stand around' />
+    <verb root='0wtx' class='a-a' type='' inf='' lang='OAkk, OAss, MB' gloss='discover, find; (St1) meet one another; converge' />
+    <verb root='0wtx' class='u-u' type='' inf='' lang='B' gloss='discover, find; (St1) meet one another; converge' />
+    <verb root='0wtl' class='?-?' type='' inf='utuulu' lang='Ass' gloss='lie down, sleep' />
+    <verb root='0wtr' class='i-i' type='' inf='utaaru, wataaru' lang='Ass, OAkk, B' gloss='be excessive, additional; (D) enlarge' />
+    <verb root='0wzn' class='d-d' type='' inf='wazzunum' lang='OAss' gloss='listen' />
+    <verb root='0zxx' class='?-?' type='' inf='zeXU' lang='NB, NA' gloss='(meaning unknown)' />
+    <verb root='0zxx' class='d-d' type='' inf='zaXXU' lang='Ass' gloss='(meaning unknown)' />
+    <verb root='0zxx' class='d-d' type='' inf='zuXU' lang='SB' gloss='(S) perfume; make smell good' />
+    <verb root='0zxb' class='a-u' type='' inf='zAbu, zuaabu' lang='Ass, OAss, OB, SB' gloss='dissolve, flow (away)' />
+    <verb root='0zxk' class='u-u' type='' inf='' lang='Ass, NA, SB, OB, MA, B' gloss='pulverize, crush (plants, herbs)' />
+    <verb root='0zxm' class='a-u' type='' inf='zuaamu' lang='Ass' gloss='hum, hustle, jostle' />
+    <verb root='0zxn' class='?-?' type='' inf='zaXaanu' lang='Ass, B' gloss='(D) adorn, decorate' />
+    <verb root='0zxp' class='?-?' type='' inf='zuXXupu' lang='SB' gloss='(meaning unknown)' />
+    <verb root='0zxq' class='a-i' type='' inf='ziaaqu, ZAqu' lang='Ass, OB, SB, MA, NA' gloss='blow, waft, gust, drift; bluster (of wind, demon, illness, laughter, scent)' />
+    <verb root='0zxq' class='i-i' type='' inf='ZAqu' lang='OB' gloss='blow, waft, gust, drift; bluster (of wind, demon, illness, laughter, scent)' />
+    <verb root='0zxr' class='e-e' type='e' inf='zEru' lang='Ass, OAss, OB, MB, SB' gloss='hate, dislike, detest; reject' />
+    <verb root='0zxr' class='i-i' type='' inf='zEru, ziaaru' lang='Ass, OAss, OB, MB, SB' gloss='hate, dislike, detest; reject' />
+    <verb root='0zxr' class='u-u' type='' inf='zAru, zuaaru' lang='Ass, B, SB, OAss, MA' gloss='whirl, circle, dance; twist (parts of body)' />
+    <verb root='0zxt' class='a-u' type='' inf='zuaatu' lang='Ass' gloss='transpire' />
+    <verb root='0zxz' class='u-u' type='' inf='zAzu, zuaazu' lang='Ass, OAkk, SB' gloss='divide, share; allot; (D) distribute' />
+    <verb root='0zbl' class='i-i' type='ae' inf='' lang='Ass, B, NB' gloss='carry, haul, transport' />
+    <verb root='0zkx' class='i-i' type='' inf='' lang='NB' gloss='be(come) clean, clear, free, pure; (D) exempt, free' />
+    <verb root='0zkx' class='u-u' type='' inf='' lang='Ass, OB, OAss, NA' gloss='be(come) clean, clear, free, pure; (D) exempt, free' />
+    <verb root='0zkd' class='?-?' type='' inf='' lang='B, Mari' gloss='(meaning unknown)' />
+    <verb root='0zkp' class='a-u' type='' inf='' lang='NA, B' gloss='fix upright; impale (human on stake); crucify; plant; (N) be set up' />
+    <verb root='0zkr' class='a-u' type='' inf='' lang='Ass, Am, Mari, B' gloss='declare, name, invoke, mention, speak, pronounce' />
+    <verb root='0zlq' class='?-?' type='' inf='' lang='Ass' gloss='glare, glitter, spangle' />
+    <verb root='0zmx' class='?-?' type='e' inf='' lang='Ug' gloss='be angry' />
+    <verb root='0zmx' class='d-d' type='' inf='' lang='Ass, NA, B' gloss='(D) lack, miss; be deprived of' />
+    <verb root='0zmm' class='a-a' type='' inf='' lang='Ass' gloss='buzz, tinkle, whir' />
+    <verb root='0zmn' class='d-d' type='' inf='' lang='SB' gloss='(meaning unclear)' />
+    <verb root='0zmr' class='a-u' type='' inf='' lang='OB' gloss='sing, chant, intone' />
+    <verb root='0zmr' class='i-i' type='' inf='' lang='OAss' gloss='set aside, separate' />
+    <verb root='0zmr' class='u-u' type='' inf='' lang='Ass, OB' gloss='sing, chant, intone' />
+    <verb root='0znx' class='i-i' type='ea' inf='' lang='Ass, Ug, B' gloss='be angry, be offended' />
+    <verb root='0znd' class='?-?' type='' inf='' lang='NB' gloss='(meaning unknown)' />
+    <verb root='0znn' class='a-u' type='' inf='' lang='Ass, B' gloss='I support, keep up; provide food for; pander; II (OB) rain' />
+    <verb root='0znn' class='u-u' type='' inf='' lang='Ass, OB' gloss='rain; (S) bring rain' />
+    <verb root='0znq' class='d-d' type='' inf='' lang='SB' gloss='(meaning unknown)' />
+    <verb root='0zpx' class='d-d' type='' inf='' lang='Ass' gloss='adulterate, counterfeit' />
+    <verb root='0zpr' class='a-a' type='' inf='' lang='Ass, OB' gloss='decay, rot, become' />
+    <verb root='0zqd' class='?-?' type='' inf='' lang='B, Mari' gloss='(meaning unknown)' />
+    <verb root='0zqn' class='?-?' type='' inf='' lang='Ass,OAkk OAss' gloss='be bearded' />
+    <verb root='0zqp' class='a-u' type='' inf='' lang='NA, B' gloss='fix upright; impale (human on stake); crucify; plant; (N) be set up' />
+    <verb root='0zqr' class='a-u' type='' inf='' lang='Ass, Am, Mari, B' gloss='declare, name, invoke, mention, speak, pronounce' />
+    <verb root='0zqr' class='a-u' type='' inf='' lang='OAkk, B' gloss='project, build high, be high, culminate' />
+    <verb root='0zqr' class='i-i' type='' inf='' lang='OAkk, B, Ass' gloss='project, build high, be high, culminate' />
+    <verb root='0zqt' class='a-u' type='' inf='' lang='Ass, B' gloss='sting, goad, prick; bite (of insects)' />
+    <verb root='0zqt' class='i-i' type='' inf='' lang='B' gloss='sting, goad, prick; bite (of insects)' />
+    <verb root='0zrx' class='u-u' type='' inf='' lang='Ass, B, NA, MA' gloss='sow, seed; disseminate; scatter, winnow' />
+    <verb root='0zrb' class='i-i' type='' inf='' lang='Ass, NA' gloss='do legally; purchase, acquire' />
+    <verb root='0zrp' class='i-i' type='' inf='' lang='Ass, NA' gloss='do legally; purchase, acquire' />
+    <verb root='0zrq' class='a-u' type='' inf='' lang='OAkk, OB, SB' gloss='scatter, sprinkle, spray, strew' />
+    <verb root='0zrq' class='i-i' type='' inf='' lang='Ass, OAkk, OB, SB, NA' gloss='scatter, sprinkle, spray, strew' />
+    <verb root='blkt' class='d-d' type='' inf='' lang='B, Ass' gloss='(D) go over; cross; befall (of sorcery, witchcraft)' />
+    <verb root='gltx' class='d-d' type='' inf='' lang='B' gloss='awake, wake up (intrans.)' />
+    <verb root='grcx' class='d-d' type='' inf='' lang='B' gloss='run around in confusion' />
+    <verb root='hlSx' class='d-d' type='' inf='' lang='B' gloss='slip, slide' />
+    <verb root='hrbc' class='d-d' type='' inf='' lang='B' gloss='freeze' />
+    <verb root='hrmm' class='d-d' type='' inf='' lang='B' gloss='break down, collapse' />
+    <verb root='hrmT' class='d-d' type='' inf='' lang='B' gloss='dissolve, melt' />
+    <verb root='hrcc' class='d-d' type='' inf='' lang='B' gloss='collapse' />
+    <verb root='klmx' class='d-d' type='' inf='' lang='B' gloss='regard malevolently' />
+    <verb root='mrkx' class='d-d' type='ae' inf='namarkU' lang='B, Ass' gloss='be delayed; fall behind' />
+    <verb root='plsh' class='d-d' type='' inf='' lang='B' gloss='fall to the ground; (S) make prostrate' />
+    <verb root='plTx' class='d-d' type='' inf='' lang='B' gloss='go past; (N) miss with a weapon' />
+    <verb root='prdx' class='d-d' type='' inf='napardU' lang='B, Ass' gloss='shine brightly; (S) illuminate; cheer up (mood, heart)' />
+    <verb root='prkx' class='d-d' type='' inf='' lang='B' gloss='stop working' />
+    <verb root='prqd' class='d-d' type='' inf='' lang='OB, SB' gloss='lie on back' />
+    <verb root='prrr' class='d-d' type='' inf='' lang='B' gloss='(S) spread out' />
+    <verb root='prcd' class='d-d' type='' inf='' lang='B, Ass' gloss='flee' />
+    <verb root='prsh' class='d-d' type='' inf='' lang='B' gloss='fall to the ground; (S) make prostrate' />
+    <verb root='prcm' class='d-d' type='' inf='' lang='B, Ass' gloss='(D) grow old, age' />
+    <verb root='przh' class='d-d' type='' inf='' lang='B' gloss='(S) make abundant' />
+    <verb root='qlpx' class='d-d' type='' inf='neqelpUm' lang='B, Ass' gloss='(N) float; glide; (S) sail downstream' />
+    <verb root='cbxx' class='d-d' type='' inf='cubeXXU' lang='MA, Ass, B, OB, SB' gloss='(S) rush upon' />
+    <verb root='cgrr' class='d-d' type='' inf='' lang='B' gloss='(S) seal tablet' />
+    <verb root='chrr' class='d-d' type='' inf='cuhruru' lang='Ass, B' gloss='I (S) lay waste, devastate; II be dazed; be deathly still ' />
+    <verb root='ckxn' class='d-d' type='' inf='cukEnu' lang='Ass, B' gloss='(S) prostrate o.s.' />
+    <verb root='ckll' class='d-d' type='' inf='caklulu' lang='Ass, B' gloss='(S) perfect, complete' />
+    <verb root='clpx' class='d-d' type='' inf='necalpU' lang='SB, B' gloss='(S) glide, slither (of snake)' />
+    <verb root='cmcx' class='d-d' type='' inf='cumcU' lang='Ass, B' gloss='(S) stay overnight' />
+    <verb root='cpxl' class='d-d' type='' inf='cupElu' lang='Ass' gloss='(S) change, exchange' />
+    <verb root='cpxl' class='d-d' type='e' inf='' lang='?' gloss='(S) change' />
+    <verb root='cprr' class='d-d' type='' inf='' lang='B' gloss='(S) deploy' />
+    <verb root='cqll' class='d-d' type='' inf='' lang='Ass' gloss='(S) hang (down)' />
+    <verb root='cqmm' class='d-d' type='' inf='' lang='B, Ass' gloss='(S) be dead silent' />
+    <verb root='crbS' class='d-d' type='' inf='naSarbuSu' lang='OB, SB, B' gloss='(S) flit, chase about' />
+    <verb root='crbT' class='d-d' type='' inf='naSarbuTu' lang='OB, SB, B' gloss='(S) flit, chase about' />
+    <verb root='cckt' class='d-d' type='' inf='cackutu' lang='?' gloss='(S) dispatch' />
+    <verb root='trgm' class='d-d' type='' inf='targumu' lang='Ass' gloss='interpret, translate' />
+    <verb root='zrbb' class='d-d' type='' inf='' lang='OB, SB' gloss='treble with rage (of monsters)' />
