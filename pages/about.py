@@ -1,0 +1,1 @@
+st.write("This analyzer is based on Aleksi Sahala's dictionary of roots found [here](http://www.ling.helsinki.fi/~asahala/parser2.html).")

@@ -1,15 +1,12 @@
 import pandas as pd
 import itertools
+from config import *
 
-suffixes = ['ka', 'ki', 'šu', 'ši', 'am', 'im', 'ma', 'kum', 'kim', 'šum', 'šim', 'nim',
-            'anni', 'īnni', 'inni', 'niāti', 'ninni', 'niati', 'kunūti', 'kināti', 'šunūti',
-            'šināti', 'niāšim', 'kunuti', 'kinati', 'šunuti', 'šinati', 'niašim', 'kunūšim',
-            'kināšim', 'šunūšim', 'šināšim', 'kunušim', 'kinašim', 'šunušim', 'šinašim']
 
-indifferent_consonants = ['b', 'g', 'd', 'h', 'z', 'x', 'h', 'k', 'l', 'p', 'q', 'r']
-participating_consonants = ["'", 'm', "n", "w", "ṭ", "t", "s", "š", "ṣ"]
-dentals = ['d', 't', 'ṭ', 's', "š", "ṣ", 'z']
-vowels = 'aeiuāēīūâêîûáéíúàèìù'
+def segment(input_verb, is_precative):
+    if is_precative:
+        if not input_verb.startswith('l'):
+            return -1
 
 
 def generate_stem_suffix_dic(conjugated_verb):
@@ -17,13 +14,27 @@ def generate_stem_suffix_dic(conjugated_verb):
            for j in range(i + 1, len(conjugated_verb) + 1)]
 
     stem_suffix_dic = {}
-    for sub in all_substrings:
-        sublen = len(sub)
-        if conjugated_verb.endswith(sub):
-            stem = conjugated_verb[:-(sublen)]
-            suff = conjugated_verb[-(sublen):]
-            if suff in suffixes:
-                stem_suffix_dic[stem] = suff
+    # Step 0: insert conjugated verb to dictionary with no suffix
+    stem_suffix_dic[conjugated_verb] = []
+
+    # Case 1: two suffixes, the last one is 'ma'
+    if conjugated_verb.endswith('ma'):
+        ma_verb_dict = generate_stem_suffix_dic(conjugated_verb[:-2])
+        for value in ma_verb_dict.values():
+            value.append('ma')
+        stem_suffix_dic.update(ma_verb_dict)
+
+    # Case 2 : one suffix
+    else:
+        for sub in all_substrings:
+            sublen = len(sub)
+            suffixes_l = []
+            if conjugated_verb.endswith(sub):
+                stem = conjugated_verb[:-(sublen)]
+                suff = conjugated_verb[-(sublen):]
+                if suff in suffixes:
+                    suffixes_l.append(suff)
+                    stem_suffix_dic[stem] = suffixes_l
 
     # print(stem_suffix_dic)
     return stem_suffix_dic
@@ -52,12 +63,13 @@ def extract_possible_roots_from_dict(conjugated_verb):
         conjugated_verb = conjugated_verb.replace('-', '')
 
     stem_suff_dict = generate_stem_suffix_dic(conjugated_verb)
+    print(stem_suff_dict)
     for key in stem_suff_dict:
         suffix = stem_suff_dict[key]
         tmp_root_list = extract_possible_roots(key)
         # filtered_roots_list = filter_roots_list(tmp_root_list, key, suffix)
         root_list.extend(tmp_root_list)
-        print(key, suffix)
+        # print(key, suffix)
 
     root_set = set(root_list)
     unique_root_list = list(root_set)
@@ -68,6 +80,8 @@ def extract_possible_roots_from_dict(conjugated_verb):
 def extract_possible_roots(conjugated_verb):
 
     roots_list = []
+    if len(conjugated_verb) == 0:
+        return roots_list
 
     if '-' in conjugated_verb:
         conjugated_verb = conjugated_verb.replace('-', '')
@@ -78,6 +92,7 @@ def extract_possible_roots(conjugated_verb):
 
     # Step 2: remove remaining vowels
     consonantal_verb_str = conjugated_verb.translate({ord(vowel): None for vowel in vowels})
+    # print("HI!", consonantal_verb_str)
     if len(consonantal_verb_str) == 3:
         roots_list.append(consonantal_verb_str)
     # print(consonantal_verb_str)
@@ -118,6 +133,7 @@ def extract_possible_roots(conjugated_verb):
     consonantal_verb_n_str = 'n' + consonantal_verb_str
     consonantal_verb_w_str = 'w' + consonantal_verb_str
     consonantal_verb_aleph_str = "'" + consonantal_verb_str
+    # print(consonantal_verb_aleph_str)
 
     # Addition: insert ' inside consonantal verb
     aleph_insterted_roots = []
@@ -129,11 +145,12 @@ def extract_possible_roots(conjugated_verb):
     roots_combinations_w = [''.join(x) for x in itertools.combinations_with_replacement(consonantal_verb_w_str, 5)]
     roots_combinations_aleph = [''.join(x) for x in itertools.combinations_with_replacement(consonantal_verb_aleph_str, 5)]
     roots_combinations = roots_combinations_n + roots_combinations_w + roots_combinations_aleph + aleph_insterted_roots
+
     for root in roots_combinations:
         radicals_with_dups_list.extend(generate_combinations(root))
         # print(radicals_with_dups_list)
     roots_list.extend(radicals_with_dups_list)
-
+    # print(roots_list)
     # Step 6: strip consonantal_verb_str of all participating characters and add weak consonants
     # Note that consonantal_verb_no_participating_list can contain duplicates
 
@@ -200,26 +217,35 @@ def filter_roots_list(roots_list, stem, suffix):
     return roots_list
 
 
-
+# New version for filter_roots
 def filter_roots(roots_df, conj_verb):
+    # consonantal_verb_list is just the consonants by relative order, including duplicates
+    consonantal_verb_list = list(conj_verb.translate({ord(vowel): None for vowel in vowels}))
+    if "'" not in conj_verb:
+        filtered_roots_df = roots_df[~roots_df['root'].str.contains("'")]
 
-    conj_verbs_cons = [char for char in conj_verb if char in indifferent_consonants]
-    ixs_to_remove = []
-    # print(conj_verbs_cons[1:])
-    for ix in roots_df.index:
-        root = roots_df.at[ix, 'root']
-        for char in conj_verbs_cons:
-            if char not in list(root):
-                ixs_to_remove.append(ix)
-                # print(root)
-        if ('š' in conj_verb[1:]) and ('š' not in list(root)):
-            ixs_to_remove.append(ix)
-
-        if conj_verb.endswith('n') and ('n' != list(root)[-1]):
-            ixs_to_remove.append(ix)
-
-        if conj_verb.endswith('s') and ('s' != list(root)[-1]):
-            ixs_to_remove.append(ix)
-
-    filtered_roots_df = roots_df.drop(ixs_to_remove)
     return filtered_roots_df
+
+# def filter_roots(roots_df, conj_verb):
+#
+#     conj_verbs_cons = [char for char in conj_verb if char in indifferent_consonants]
+#     # print(conj_verbs_cons)
+#     ixs_to_remove = []
+#     # print(conj_verbs_cons[1:])
+#     for ix in roots_df.index:
+#         root = roots_df.at[ix, 'root']
+#         for char in conj_verbs_cons:
+#             if char not in list(root):
+#                 ixs_to_remove.append(ix)
+#                 # print(root)
+#         if ('š' in conj_verb[1:]) and ('š' not in list(root)):
+#             ixs_to_remove.append(ix)
+#
+#         if conj_verb.endswith('n') and ('n' != list(root)[-1]):
+#             ixs_to_remove.append(ix)
+#
+#         if conj_verb.endswith('s') and ('s' != list(root)[-1]):
+#             ixs_to_remove.append(ix)
+#
+#     filtered_roots_df = roots_df.drop(ixs_to_remove)
+#     return filtered_roots_df

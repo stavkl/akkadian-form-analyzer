@@ -71,5 +71,4 @@ def read_lexicon_into_df(lex_txt_file):
 
     lexicon_df['root'] = lexicon_df['root'].str.replace("0", "")
     lexicon_df = utify_chars(lexicon_df)
-    lexicon_df.to_csv('babylex.csv')
     return lexicon_df
